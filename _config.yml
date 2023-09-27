@@ -29,10 +29,21 @@ url: "https://lukejbrennan.github.io/" # the base hostname & protocol for your s
 twitter_username: jekyllrb
 github_username:  lukejbrennan
 
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
+
+header_pages:
+  - about.markdown
+  - writing.markdown
+  - resume.markdown
+  - blog.markdown
+  - contact.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+You can find my blogs [here](./blog/)
+

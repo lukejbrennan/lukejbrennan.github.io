@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+add pic
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Luke Brennan is a writer and software developer based out of Chicago. He reported on homelessness with the South Seattle Emerald and covered technologies to mitigate climate change with C3 News Magazine. In addition to reporting, Luke has also written for Business Insider, Notre Dame Magazine, SlackJaw, and the Dirty Spoon.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

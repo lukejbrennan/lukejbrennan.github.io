@@ -27,6 +27,3 @@ Features to Implement
 - comments
 - portfolio page
 - more pages than just about pages (some sort of directory...) / site navigation
-
-# Helpful sites
-[this site](https://medium.com/crypticcrazeforcs/a-step-by-step-guide-to-building-your-own-website-using-jekyll-i-201ecf2b3547) helped me figure out how to create folders and also how to programatically write for loops based on blog site material.
