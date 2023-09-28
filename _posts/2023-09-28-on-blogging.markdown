@@ -5,6 +5,7 @@ excerpt: "A nice post"
 date:   2023-09-26 10:00:00
 categories: 
 - Writing and Blogging
+- Les Codes
 ---
 
 I'm writing this blog and watching it update live on my blog page. For reference, I'm writing on a little wee vs code editor. It's sort of strange to see a blog post start to take form with all of the files necessary for running the blog itself all in the same place! Yay! See [This post on Jekyll](https://lukejbrennan.github.io/2014/07/02/how-i-made-this-blog.html) to read more about settup...

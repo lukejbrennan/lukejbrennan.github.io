@@ -20,3 +20,6 @@ My software development portfolio
 - [on overriding minima defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 - note that you can do `open $(bundle info --path minima)` to see the OG minima folders... adn then you can copy/edit them! 
 - [On adding categories](https://blog.webjeda.com/jekyll-categories/)
+
+
+[how to start and grow your email list as a writer](https://writingcooperative.com/how-to-start-and-grow-your-email-list-as-a-writer-762aca4c6824)

@@ -23,12 +23,19 @@
                 {% if my_page.title == "Newsletter" %}
                     <a class="page-link" href="https://lukejhnbrnnn.substack.com/">{{my_page.title | escape }}</a>
                 {% else %}
-                    <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                <a class="page-link" {% if my_page.url == page.url | relative_url %} style="text-decoration: underline;"{% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>    
                 {% endif %}
               {%- endif -%}
             {%- endfor -%}
           </div>
         </nav>
       {%- endif -%}
+      <div>
+        <form action="/search.html" method="get">
+          <label for="search-box">Search</label>
+          <input type="text" id="search-box" name="query">
+          <input type="submit" value="search">
+        </form>
+      </div>
     </div>
   </header>
