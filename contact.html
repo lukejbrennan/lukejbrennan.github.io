@@ -1,0 +1,10 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
+[add picture of me...]
+
+Say hi!
+Email me at lukejohnbrennan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/luke-brennan/). 
