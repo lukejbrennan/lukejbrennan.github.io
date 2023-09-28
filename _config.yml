@@ -21,14 +21,13 @@
 title: Luke Brennan
 email: lukejohnbrennan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is still under development. I still have to... Write an awesome description for your new site here. You can edit this
+  This site is still under development. I still have to... Write an awesome description for my new site here. I can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://lukejbrennan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: luke-brennan
 github_username:  lukejbrennan
-
 
 # Build settings
 theme: minima
@@ -39,11 +38,13 @@ minima:
   skin: dark
 
 header_pages:
-  - about.markdown
-  - writing.markdown
-  - resume.markdown
-  - blog.markdown
-  - contact.markdown
+  - index.markdown # home page, just blogs
+  - writing.markdown # will be 'new.markdown' to show the site blog. table of contents. follow tim's guide
+  - newsletter.markdown 
+  - about.markdown # update? 
+  # - blog.markdown
+  # - contact.markdown
+  # - resume.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
