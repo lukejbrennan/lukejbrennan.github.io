@@ -3,7 +3,7 @@ layout: page-no-title
 title: Writing
 permalink: /writing/
 ---
-
+{% include search-lunr.html %}
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">

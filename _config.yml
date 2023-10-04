@@ -35,9 +35,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  skin: dark
-
 header_pages:
   - index.markdown # home page, just blogs
   - writing.markdown # will be 'new.markdown' to show the site blog. table of contents. follow tim's guide
