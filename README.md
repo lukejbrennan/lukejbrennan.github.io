@@ -58,8 +58,6 @@ https://github.com/BillRaymond/jekyll-featured-images
         }
     </style>
 
-
-
 {% if page.show_sidebar %}
   <div class="sidebar">
     sidebar content
