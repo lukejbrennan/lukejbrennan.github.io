@@ -43,4 +43,4 @@ permalink: /writing/
 
 [A Canadian Startup Builds Nuclear Fusion Power Plant](https://c3newsmag.com/a-canadian-startup-builds-nuclear-fusion-power-plant/)
 
-[AspiraDAC Leads the Way To Carbon Neutrality with Solar Powered Devices](https://c3newsmag.com/aspiradac-australia-solar-powered-devices/)
+[AspiraDAC Leads The Way To Carbon Neutrality with Solar Powered Devices](https://c3newsmag.com/aspiradac-australia-solar-powered-devices/)
