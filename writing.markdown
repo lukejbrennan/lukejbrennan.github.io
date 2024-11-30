@@ -33,14 +33,8 @@ permalink: /writing/
 ### SlackJaw 
 [(Tough) Love From God](https://medium.com/slackjaw/tough-love-from-god-3bdd0905ffa7)
 
-### Business Insider
-[I Moved from Seattle to Chicago to Try Again With My Ex](https://www.insider.com/i-moved-cities-to-try-again-with-my-ex-girlfriend-2023-5)
-
 ### Dirty Spoon 
 [Pizza Odyssey](http://www.dirty-spoon.com/pizza-odyssey/)
-
-### Andre House
-[Dappled Things](https://andrehouse.org/wp-content/uploads/2019/03/Spring-2019-Open-Door.pdf)
 
 ### PS I Love You
 [The Art of a Graceful Tumble](https://psiloveyou.xyz/the-art-of-a-graceful-tumble-6b8579c04ad4)

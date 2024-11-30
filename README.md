@@ -1,3 +1,10 @@
+# How to use this site
+- preetty sure we have a branch for pages only
+- then you can make feature branches in order to update the source...
+- but if you commit to git pages I think I new post is published
+
+- how do I serve up a local copy i forget...
+
 # lukejbrennan.github.io
 My software development portfolio
  
