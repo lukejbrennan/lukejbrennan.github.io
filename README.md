@@ -1,3 +1,9 @@
+# How to make updates to site:
+- which branch do you have to push to??
+
+
+
+
 # How to use this site
 - preetty sure we have a branch for pages only
 - then you can make feature branches in order to update the source...

@@ -21,7 +21,7 @@
 title: Luke Brennan
 email: lukejohnbrennan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is still under development. I still have to... Write an awesome description for my new site here. I can edit this
+  This site is still under development. You really even shouldn't be reading this. That's okay. Or just click the X in your browser. Or read on. I can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # baseurl: "/myblog" # the subpath of your site, e.g. /blog
