@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 # Blogs forreal
 {% for post in site.posts %}
