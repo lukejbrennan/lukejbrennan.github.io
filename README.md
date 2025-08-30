@@ -1,8 +1,12 @@
 # How to make updates to site:
 - which branch do you have to push to??
+`bundle exec jekyll clean` to remove pre-built blog
+`bundle exec jekyll build` to rebuild
+git add .
+git commit -m 'yep'
+git push origin gh-pages
 
-
-
+gh-pages
 
 # How to use this site
 - preetty sure we have a branch for pages only
