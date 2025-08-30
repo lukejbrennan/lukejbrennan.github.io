@@ -20,10 +20,8 @@
 
 title: Luke Brennan
 email: lukejohnbrennan@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This site is still under development. You really even shouldn't be reading this. That's okay. Or just click the X in your browser. Or read on. I can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# description: >- # this means to ignore newlines until "baseurl:"
+  
 # baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://lukejbrennan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: luke-brennan
