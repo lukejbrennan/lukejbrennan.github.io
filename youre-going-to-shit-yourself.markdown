@@ -3,27 +3,19 @@ layout: page
 title: You're Going to Shit Yourself
 permalink: /well-shit/
 ---
-*It’s just a matter of time*
+*Real Accounts of Poop Meeting Pants*
 [$5 - Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01) 
 
-More Than A Book. The Beginning of a Movement.
+**​​"Gripping… Extremely funny... painfully honest... [and] over much too soon." - Jerry**. 
 
-Some ideas are so powerful that simply becoming aware of them changes our lives forever. You’re Going to Shit Yourself is such an idea.
+Everybody’s got a story they *swore* they’d never tell. Sometimes it’s murder. Sometimes it’s infidelity. And sometimes… It's poop.  
 
-Once you hear the undeniable truth – You’re Going to Shit Yourself – the idea is impossible to forget. 
+You're Going to Shit Yourself is an anonymous, collective memoir about ordinary people with one thing in common: they’ve all pooped their pants.  
 
-You cannot unhear it. 
+Whether it’s diarrhea at a wedding or on the bus to Machu Picchu, pooping in front of your dad or on the neighbor’s trampoline –  these stories are a reminder that shitting yourself is something *everyone* has in common.  
 
-It creates an immediate paradigm shift. 
+Equal parts disgusting, anonymous, strangely comforting, and hilarious this book is a reminder that sometimes the most human thing you can do? Is let loose.  
 
-It haunts you. If you have shat your pants, well? Then you’re one of us. But if you haven’t… It is coming.
+And if you haven’t yet? Well it's just a matter of time.   
 
-Somehow you’ve avoided the unavoidable. Like all those people in Final Destination. You know what’s going to happen. You just don’t know when. 
-
-Every fart becomes a threat. You trust no one, including your mom. Everywhere you look, you see people who just might be shitting themselves. 
-
-Your friend, yelling at you about how you’re never there for them, turns into your friend, clenching in an undeniable shit, yelling at you for never being there for them. They’re not mad, they’re afraid. Like those people in Naked and Afraid. 
-
-Honestly, you shouldn’t buy this book. It’ll change your life, and you don’t want that. 
-
-Don’t! [Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
+[Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
