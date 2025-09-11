@@ -3,8 +3,8 @@ layout: page
 title: Books
 permalink: /books/
 ---
-**You're Going to Shit Yourself**
-*Real Accounts of Poop Meeting Pants*
+# You're Going to Shit Yourself
+*Real Accounts of Poop Meeting Pants*  
 [$5 - Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01) 
 
 **​​"Gripping… Extremely funny... painfully honest... [and] over much too soon." - Jerry**. 
