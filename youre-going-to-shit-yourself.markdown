@@ -5,7 +5,7 @@ permalink: /well-shit/
 ---
 *Real Accounts of Poop Meeting Pants*  
 
-<img src="/assets/smaller.png" width="200">
+<img src="/assets/smaller.png" width="300">
 
 [$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
 
