@@ -25,6 +25,8 @@ My software development portfolio
 
  `bundle exec jekyll serve --livereload`
 
+    bundle config path ~/.bundle_gems
+
 see source
  `open $(bundle info --path minima)`
 # Links to Docs

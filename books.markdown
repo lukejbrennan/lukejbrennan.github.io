@@ -6,7 +6,7 @@ permalink: /books/
 # You're Going to Shit Yourself  
 *Real Accounts of Poop Meeting Pants*  
 
-<img src="/assets/smaller.png" style="float: left; margin-right:15px;" width="260">
+<img src="/assets/smaller.png" style="float: left; margin-right:15px;" width="385">
 
 [$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
 
@@ -18,9 +18,10 @@ You're Going to Shit Yourself is an anonymous, collective memoir about ordinary 
 
 Whether it’s diarrhea at a wedding or on the bus to Machu Picchu, pooping in front of your dad or on the neighbor’s trampoline –  these stories are a reminder that shitting yourself is something *everyone* has in common.  
 
-Equal parts disgusting, anonymous, strangely comforting, and hilarious this book is a reminder that sometimes the most human thing you can do? Is let loose.  
+Equal parts disgusting, anonymous, strangely comforting, and hilarious this book is a reminder that sometimes the most human thing you can do? Is let loose.   
 
-And if you haven’t yet? Well it's just a matter of time.   
+
+<br>
 
 
 ### [Don't waste time. Go birding. And also buy this e-book](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
