@@ -6,7 +6,7 @@ permalink: /books/
 # You're Going to Shit Yourself  
 *Real Accounts of Poop Meeting Pants*  
 
-<img src="/assets/smaller.png" style="float: left; margin:15px;" width="320">
+<img src="/assets/smaller.png" style="float: left; margin-right:15px; margin-bottom:15px;" width="320">
 
 [$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
 
@@ -23,4 +23,4 @@ Equal parts disgusting, anonymous, strangely comforting, and hilarious this book
 And if you haven’t yet? Well it's just a matter of time.   
 
 
-## [Don't waste time. Go birding. And also buy this e-book](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
+### [Don't waste time. Go birding. And also buy this e-book](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
