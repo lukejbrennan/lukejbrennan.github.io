@@ -6,9 +6,7 @@ permalink: /books/
 # You're Going to Shit Yourself  
 *Real Accounts of Poop Meeting Pants*  
 
- <div id="image" style="display:inline;">
-    <img src="/assets/smaller.png" width="200">
-</div>
+<img src="/assets/smaller.png" style="float: left" width="200">
 
 
 [$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
