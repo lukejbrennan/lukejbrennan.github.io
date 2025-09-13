@@ -23,7 +23,7 @@ My software development portfolio
 
  `bundle exec jekyll serve`
 
- `bundle exec jekyll serve --livereload`
+ <!-- `bundle exec jekyll serve --livereload` -->
 
     bundle config path ~/.bundle_gems
 

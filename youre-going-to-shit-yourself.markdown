@@ -3,13 +3,11 @@ layout: page
 title: You're Going to Shit Yourself
 permalink: /well-shit/
 ---
-*Real Accounts of Poop Meeting Pants*  
-
-<img src="/assets/smaller.png" width="300">
-
 [$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
-
 **​​"Gripping… Extremely funny... painfully honest... [and] over much too soon." - Jerry**. 
+<br>
+
+<img src="/assets/smaller.png" style="float: left; margin-right:15px;" width="300">
 
 Everybody’s got a story they *swore* they’d never tell. Sometimes it’s murder. Sometimes it’s infidelity. And sometimes… It's poop.  
 
@@ -17,9 +15,13 @@ You're Going to Shit Yourself is an anonymous, collective memoir about ordinary 
 
 Whether it’s diarrhea at a wedding or on the bus to Machu Picchu, pooping in front of your dad or on the neighbor’s trampoline –  these stories are a reminder that shitting yourself is something *everyone* has in common.  
 
-Equal parts disgusting, anonymous, strangely comforting, and hilarious this book is a reminder that sometimes the most human thing you can do? Is let loose.  
+Equal parts disgusting, anonymous, strangely comforting, and hilarious this book is a reminder that sometimes the most human thing you can do? Is let loose.   
 
-And if you haven’t yet? Well it's just a matter of time.   
+And if you haven’t yet? Well it's just a matter of time.
+
+<br>
+<br>
+<br>
 
 
-[Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
+### [Don't waste time. Go birding. And also buy this e-book](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
