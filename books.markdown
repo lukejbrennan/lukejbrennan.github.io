@@ -6,9 +6,9 @@ permalink: /books/
 # You're Going to Shit Yourself  
 *Real Accounts of Poop Meeting Pants*  
 
-![Image](/assets/pooppants.png)
+![Image](/assets/pooppants.png= 250x)
 
-[$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01) 
+[$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
 
 **​​"Gripping… Extremely funny... painfully honest... [and] over much too soon." - Jerry**. 
 
