@@ -5,7 +5,9 @@ permalink: /well-shit/
 ---
 *Real Accounts of Poop Meeting Pants*  
 
-[$5 - Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01) 
+<img src="/assets/smaller.png" width="200">
+
+[$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
 
 **​​"Gripping… Extremely funny... painfully honest... [and] over much too soon." - Jerry**. 
 
@@ -18,5 +20,6 @@ Whether it’s diarrhea at a wedding or on the bus to Machu Picchu, pooping in f
 Equal parts disgusting, anonymous, strangely comforting, and hilarious this book is a reminder that sometimes the most human thing you can do? Is let loose.  
 
 And if you haven’t yet? Well it's just a matter of time.   
+
 
 [Buy it now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
