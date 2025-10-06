@@ -3,9 +3,11 @@
 
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-body {    
-    // color: red; // proof of concept for showing that we have control over the styles! 
-}
+// darkmode almost...: 
+// body {    
+//     background-color: black;
+//     color: white; // proof of concept for showing that we have control over the styles! 
+// }
 
 .active {
     text-decoration: underline;
@@ -25,3 +27,81 @@ body {
     padding: 100px;
 }
 
+.sidebar {
+    position: fixed;
+    right: 20px; /* Adjust for your layout */
+    top: 75px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+  }
+  
+  .sidebar li {
+    margin: 5px 0;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+
+  //   makes sure the sidebar goes away with a small screen
+  @media screen and (max-width: 1189px) {
+    .sidebar {
+      display: none;
+    }
+  }
+  
+/* Make Disqus emoji reactions smaller */
+#disqus_thread .post-reactions {
+  transform: scale(0.7);   /* Shrinks the whole bar */
+  transform-origin: top left; 
+  margin-top: -10px;       /* Pulls it closer to comments */
+}
+
+#disqus_thread .post-reactions .reaction {
+  font-size: 0.8em;        /* Shrinks individual emojis */
+  padding: 2px 4px;        /* Less padding around each */
+}
+
+
+// Dark mode toggle
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+body.dark-mode a {
+  color: #80cbc4;
+}
+
+body.dark-mode .site-header {
+  background-color: #1e1e1e;
+}
+
+body.dark-mode .site-header .site-title,
+body.dark-mode .site-header .site-title:visited,
+body.dark-mode .site-header .site-nav a {
+  color: #ffffff; /* header text and nav links */
+}
+
+body.dark-mode .site-header .site-nav a:hover {
+  color: #80cbc4; /* accent color on hover */
+}
+
+#darkModeToggle {
+  background: transparent;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-left: 1rem;
+}

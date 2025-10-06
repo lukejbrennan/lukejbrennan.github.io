@@ -1,0 +1,23 @@
+---
+title: Topics
+layout: base
+permalink: /categories/
+---
+
+{% for category in site.categories %} 
+  {% assign category_name = category | first%}
+  {% assign category_slug = category_name | slugify %}
+  <h3>
+    <a href="{{ '/category/' | append: category_slug | append: '/' | relative_url }}">
+    <u>{{ category_name }}</u>
+  </a>
+  </h3>
+  <ul>
+    {% for post in category.last limit:5 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date |
+      date: "%B %d, %Y" }})
+    </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page-no-title
+title: Blog
 ---
 # Blogs
 {% for post in site.posts %}

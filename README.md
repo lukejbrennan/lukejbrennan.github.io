@@ -25,7 +25,8 @@ My software development portfolio
 
  <!-- `bundle exec jekyll serve --livereload` -->
 
-    bundle config path ~/.bundle_gems
+    bundle config path ~/.bundle_gems then bundle install 
+    got an error on installastion
 
 see source
  `open $(bundle info --path minima)`

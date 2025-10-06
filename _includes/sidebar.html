@@ -1,0 +1,13 @@
+<div class="sidebar">
+    <h2>Topics</h2>
+    <ul>
+      {% for category in site.categories %}
+      {% assign category_name = category | first %}
+      {% assign posts = category | last %}
+      <li>
+        <a href="{{ site.baseurl }}/category/{{ category_name | slugify }}">{{ category_name }}</a> ({{ posts | size }})
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  

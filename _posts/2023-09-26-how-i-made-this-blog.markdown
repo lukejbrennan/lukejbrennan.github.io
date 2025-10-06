@@ -3,8 +3,8 @@ layout: post
 title:  "How I made this blog"
 excerpt: "A nice post"
 date:   2023-09-28 10:00:00
-categories: 
-- Writing and Blogging
+categories: [Making This] 
+comments: True
 ---
 
 Hello world, this is a blog that I wrote using GitHub Pages and Jekyll. Below, are a list of resources that I found helpful. You can also see *exactly* what's going on with this site by going to the [github repository](https://github.com/lukejbrennan/lukejbrennan.github.io)
