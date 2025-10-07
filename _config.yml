@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jemoji
+  - jekyll-picture-tag
 
 header_pages:
   - index.markdown # home page, just blogs
@@ -48,6 +49,46 @@ header_pages:
 collections:
   category:
     output: true
+
+picture:
+  source: "assets/images"
+  output: "assets/generated"
+  picturefill: false
+  markup: "picture"
+  fallback_width: 800
+  formats:
+    webp:
+      quality: 80
+    jpeg:
+      quality: 80
+  presets:
+    default:
+      widths: [400, 800, 1200]
+      formats: [webp, jpeg]
+      sizes:
+        - "(max-width: 600px) 100vw"
+        - "(max-width: 1200px) 90vw"
+        - "1200px"
+      attributes:
+        loading: lazy
+        decoding: async
+        class: "post-image"
+    full:
+      widths: [1200, 1600, 2400]
+      formats: [webp, jpeg]
+      sizes:
+        - "100vw"
+      attributes:
+        class: "full-width"
+    inline:
+      widths: [200, 400, 600]
+      formats: [webp, jpeg]
+      sizes:
+        - "(max-width: 700px) 100vw"
+        - "40vw"
+      attributes:
+        class: "inline-img"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

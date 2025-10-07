@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Madiera - Portugal
 date: 2025-10-05 16:19:53
 category: [Travel]
@@ -11,15 +11,20 @@ Today we flew (standby!) to Madiera
 Highlight - we stopped by a fruit stand and this guy fed us drippy yellow mango. There were 4 of us around this guy explaining that the mangos came a month early this year because it was a cool summer, cutting ripe mango slices off with a knife. He had a whole basket full of mangos that were ripe. Also Sur for always giving us pieces of chocolate in the evening. 
 
 # Monday - PR6's 
-Woke up, went to get coffee in Funchal and then drove to PR6 trails to get some waterfall chasin' in. 
+Woke up, went to get coffee in Funchal and then drove to PR6 trails to get some waterfall chasin' in around the PR6s. 
+
 
 ### Places to see
+{% include responsive-image.html src="IMG_6521.jpeg" alt="Epic mountain view" class="full-width" %}
+
+
 Porto Moniz
 - Véu da Noiva Viewpoint
 - natural pools
 - Cachalote natural pools
 - Ribeira da Janela
 
+{% include responsive-image.html src="IMG_6521.jpeg" alt="Epic mountain view" class="inline-width" %}
 Funchal
 - 
 

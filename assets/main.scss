@@ -3,12 +3,6 @@
 
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-// darkmode almost...: 
-// body {    
-//     background-color: black;
-//     color: white; // proof of concept for showing that we have control over the styles! 
-// }
-
 .active {
     text-decoration: underline;
 }
@@ -104,4 +98,37 @@ body.dark-mode .site-header .site-nav a:hover {
   font-size: 1rem;
   cursor: pointer;
   margin-left: 1rem;
+  transition: transform 0.3s ease;
+}
+
+// #darkModeToggle:active {
+//   transform: rotate(180deg);
+// }
+
+/* Dark mode code block styling */
+body.dark-mode code,
+body.dark-mode .highlight {
+  background-color: #1e1e1e !important; /* dark background */
+  color: #e0e0e0 !important;           /* light text */
+  border-color: #333 !important;
+}
+
+/// IMAGES
+.full-width {
+  display: block;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.inline-img {
+  display: inline-block;
+  max-width: 30%;
+  margin: 0.5rem 1rem;
+  vertical-align: middle;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
 }

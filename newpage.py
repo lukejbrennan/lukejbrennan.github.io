@@ -9,11 +9,12 @@ def get_configs():
     args = parser.parse_args()
     return args 
 
-def create_category(category):
-    print(f"Creating a folder (with 'drafts' and '_posts') for {category}")
-    os.mkdir(category)
-    os.mkdir(os.path.join(category, '_posts'))
-    os.mkdir(os.path.join(category, 'drafts'))
+def create_category(category, to_create):
+    if to_create == 'Y': 
+        print(f"Creating a folder (with 'drafts' and '_posts') for {category}")
+        os.mkdir(category)
+        os.mkdir(os.path.join(category, '_posts'))
+        os.mkdir(os.path.join(category, 'drafts'))
 
     print('Creating a file for the category permalink')
     category_permalink = category.replace(' ', '-').lower()
@@ -32,11 +33,7 @@ def category_check(category):
         print('good to go!')
     else:
         to_create = input(f"No folder for '{category}' found... Would you like to create one? Y/N\n")
-        if to_create == 'Y':
-            create_category(category)
-        else:
-            print("byeeeee")
-            quit()
+        create_category(category, to_create)
 
 def main():
     args = get_configs()
@@ -54,7 +51,7 @@ def main():
     now_datetime = now.strftime("%Y-%m-%d %H:%M%:%S")
 
     page_contents = f"""---
-layout: page
+layout: post
 title: {title}
 date: {now_datetime}
 category: [{category}]

@@ -3,7 +3,7 @@ layout: post
 title:  "How I made this blog"
 excerpt: "A nice post"
 date:   2023-09-28 10:00:00
-categories: [Making This] 
+categories: [Making This Site] 
 comments: True
 ---
 
