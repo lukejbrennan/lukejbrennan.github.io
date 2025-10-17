@@ -2,10 +2,9 @@
 {% assign img_alt = include.alt | default: "" %}
 {% assign img_class = include.class | default: "full-width" %}
 
-  <!-- WebP version -->
-  <source srcset="/assets/images/{{ img_src | split: '.' | first }}.webp" type="image/webp">
-  <!-- Fallback JPEG/PNG -->
+<a href="/assets/images/{{ img_src }}" class="lightbox-link">
   <img src="/assets/images/{{ img_src }}" 
        alt="{{ img_alt }}" 
        class="{{ img_class }}" 
        loading="lazy">
+</a>

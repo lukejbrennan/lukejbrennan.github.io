@@ -4,6 +4,11 @@
   
   <body>
     
+<div id="lightbox-overlay">
+  <img src="" alt="Lightbox image">
+</div>
+
+
 
     {%- include header.html -%}
     {%- include sidebar.html -%}
@@ -18,5 +23,61 @@
     {%- include footer.html -%}
 
   </body>
+  <!-- LIGHT BOX OVERLAY AND NAVIGATION -->
+<script>
+const overlay = document.getElementById('lightbox-overlay');
+const overlayImg = overlay.querySelector('img');
+const images = Array.from(document.querySelectorAll('.lightbox-link'));
+let currentIndex = 0;
+
+function openLightbox(index) {
+  currentIndex = index;
+  overlayImg.src = images[currentIndex].href;
+  overlay.style.display = 'flex';
+}
+
+// Click images to open
+images.forEach((link, i) => {
+  link.addEventListener('click', e => {
+    e.preventDefault();
+    openLightbox(i);
+  });
+});
+
+// Click outside image to close
+overlay.addEventListener('click', (e) => {
+  if (e.target === overlay) { // only if clicking on overlay itself
+    overlay.style.display = 'none';
+    overlayImg.src = '';
+  }
+});
+
+// Optional: click image to go next (uncomment if desired)
+// overlayImg.addEventListener('click', () => {
+//   currentIndex = (currentIndex + 1) % images.length;
+//   overlayImg.src = images[currentIndex].href;
+// });
+
+// Keyboard support
+document.addEventListener('keydown', e => {
+  if (overlay.style.display === 'flex') {
+    if (e.key === 'ArrowLeft') {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      overlayImg.src = images[currentIndex].href;
+    }
+    if (e.key === 'ArrowRight') {
+      currentIndex = (currentIndex + 1) % images.length;
+      overlayImg.src = images[currentIndex].href;
+    }
+    if (e.key === 'Escape') {
+      overlay.style.display = 'none';
+      overlayImg.src = '';
+    }
+  }
+});
+</script>
+
+
+
 
 </html>

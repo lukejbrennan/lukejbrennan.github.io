@@ -1,0 +1,16 @@
+{% assign image_list = include.images | split: ',' %} {% assign alt_list =
+include.alts | split: ',' %} {% assign row_class = include.class | default:
+"image-row" %}
+
+<div class="{{ row_class }}">
+  {% for img in image_list %}
+    {% assign img_trimmed = img | strip %}
+    {% assign alt_text = alt_list[forloop.index0] | default: "" %}
+    <a href="/assets/images/{{ img_trimmed }}" class="lightbox-link row-img-wrapper">
+      <img src="/assets/images/{{ img_trimmed }}"
+           alt="{{ alt_text }}"
+           loading="lazy"
+           class="row-img">
+    </a>
+  {% endfor %}
+</div>

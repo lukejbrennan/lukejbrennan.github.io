@@ -72,11 +72,19 @@
 // Dark mode toggle
 body.dark-mode {
   background-color: #121212;
-  color: #e0e0e0;
+  // background-color: #181818;
+  color: #ECECF1;
 }
 body.dark-mode a {
   color: #80cbc4;
+  // // color: #A2E7DF;
+  // // color: #8EF0E0;
+  // // color: #894077;
+  // color: #A78BFA;
 }
+// body.dark-mode a:hover {
+//   color: #B388FF;
+// }
 
 body.dark-mode .site-header {
   background-color: #1e1e1e;
@@ -132,3 +140,67 @@ img {
   height: auto;
   border-radius: 8px;
 }
+
+///
+/// image row... 
+/// 
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+.image-row .row-img-wrapper {
+  flex: 1 1 auto;      /* let it grow/shrink */
+  max-width: calc(33.333% - 0.5rem);
+  display: block;      /* ensures the <a> behaves like a flex item */
+}
+
+.image-row .row-img {
+  width: 100%;         /* fill the <a> wrapper */
+  border-radius: 8px;
+  object-fit: cover;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.image-row .row-img:hover {
+  transform: scale(1.03);
+}
+
+@media (max-width: 800px) {
+  .image-row .row-img-wrapper {
+    max-width: calc(50% - 0.5rem);
+  }
+}
+
+@media (max-width: 500px) {
+  .image-row .row-img-wrapper {
+    max-width: 100%;
+  }
+}
+
+#lightbox-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.95);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  cursor: pointer; /* indicate click-to-next */
+}
+
+#lightbox-overlay img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 6px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+  cursor: default;
+}
+

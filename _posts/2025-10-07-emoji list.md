@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emoji Reference
-category: [Making This Site]
+category: [For Reference]
 ---
 
 # 😎 Emoji Reference
@@ -13,33 +13,41 @@ Here’s a categorized collection you can use anywhere on your site.
 
 ## ☀️ Basic Symbols
 
-🌙 🌞 ☀️ ⭐ ⚡ 🔥 💧 🌈 ☁️ ❄️ ⛅ 🌪️ 🌊 ⬜ ✅
+🌙 🌞 ☀️ ⭐ ⚡ 🔥 💧 🌈   
+☁️ ❄️ ⛅ 🌪️ 🌊 ⬜ ✅ 🚀
+👀 👌 💯
 
 ---
 
 ## ❤️ Emotions
 
-😀 😃 😄 😁 😆 😅 😂 🤣 😊 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😎 🤓 🫠  
-🤔 😐 😑 😶 🙄 😏 😣 😥 😮‍💨 😮 😯 😲 😳 🫢 😱 😨 😰 😢 😭 😤 😠 😡 🤬
+😀 😃 😄 😁 😆 😅 😂 🤣 😊 🙂 🙃   
+😉 😌 😍 🥰 😘 😗 😙 😚 😋 😎 🤓     
+🤔 😐 😑 😶 🙄 😏 😣 😥 😮‍💨 😮 😯   
+😲 😳 🫢 😱 😨 😰 😢 😭 😤 😠 🫠  
 
 ---
 
 ## 👍 Gestures
 
-👍 👎 👌 🤌 🤞 🤟 🤘 🤙 ✊ 👊 🤛 🤜 👏 🙌 🫶 🤝 🙏  
-👉 👈 👆 👇 🖕 ✋ 🤚 🖐 🖖 👋 🤏 🤲
+👍 👎 👌 🤌 🤞 🤟 🤘 🤙 ✊ 👊 
+🤛 🤜 👏 🙌 🫶 🤝 🙏 👉 👈 👆 
+👇 🖕 ✋ 🤚 🖐 🖖 👋 🤏 🤲
 
 ---
 
 ## 🧠 People / Body
 
-🧠 💪 🦵 🦶 👂 👃 👀 👁 👅 👄 🦷 🦴 👶 🧒 👦 👧 🧑 👨 👩 🧓 👴 👵 🧔
+🧠 💪 🦵 🦶 👂 👃 👀 👁 👅 
+👄 🦷 🦴 👶 🧒 👦 👧 🧑 👨 
+👩 🧓 👴 👵 🧔
 
 ---
 
 ## 🎉 Fun / Celebration
 
-🎉 🎊 🥳 🎈 🎂 🍰 🍾 🥂 🍻 🍺 🎶 🎵 🎸 🎺 🎷 🎤 🎧 🎬 🎮 🎯 🎲 🪩
+🎉 🎊 🥳 🎈 🎂 🍰 🍾 🥂 🍻 🍺 🎶 
+🎵 🎸 🎺 🎷 🎤 🎧 🎬 🎮 🎯 🎲 🪩
 
 ---
 

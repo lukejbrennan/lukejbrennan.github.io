@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from datetime import datetime
 import os
 import argparse
@@ -6,6 +8,7 @@ def get_configs():
     parser = argparse.ArgumentParser(description="Make a new post (if it has spaces, make sure to use double quotes!!)")
     parser.add_argument('--cat', type=str, help="What're you writing about?")
     parser.add_argument('--title', type=str, help="What's the name of the thing you are writing?")
+    parser.add_argument('--draft', type=bool, default=True, required=False)
     args = parser.parse_args()
     return args 
 
@@ -61,7 +64,10 @@ Yes, and at last, we begin to write something pretty sweet. As we always do. By 
 
     # WRITE THE FILE
     # post_path = os.path.join(f"./{category}/_posts/{now_date}-{title}.md")
-    post_path = os.path.join(f"./_posts/{now_date}-{title}.md")
+    if args.draft: 
+        post_path = os.path.join(f"./_drafts/{now_date}-{title}.md")
+    else: 
+        post_path = os.path.join(f"./_posts/{now_date}-{title}.md")
     print(f"Creating (or overwriting in 5..4..)'{post_path}'")
     with open(post_path, 'w') as file:
         file.write(page_contents)
