@@ -4,7 +4,9 @@ title: "II-II-I: Bags of tea with strangers, a new way to pet dogs, Brick review
 category: [The II-II-I Newsletter]
 ---
 
-<!-- {% include 5b5-header.html header_title="Hump day 5" link="https://lukejbrennan.github.io/about/" tag="The latest from author and poop scientist"%} -->
+{% include 5b5-header.html header_title="The II-II-I Newsletter" link="https://lukejbrennan.github.io/about/" tag="The latest from author and poop scientist"%}
+
+<br>
 
 Hi! 
 
