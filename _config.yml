@@ -35,12 +35,12 @@ plugins:
   - jemoji
   - jekyll-picture-tag
 
-header_pages:
-  - index.markdown # home page, just blogs
-  - books.markdown
-  - writing.markdown # will be 'new.markdown' to show the site blog. table of contents. follow tim's guide
-  - newsletter.markdown 
-  - about.markdown # update? 
+# header_pages:
+#   - index.markdown # home page, just blogs
+#   - books.markdown
+#   - writing.markdown # will be 'new.markdown' to show the site blog. table of contents. follow tim's guide
+#   - newsletter.markdown 
+#   - about.markdown # update? 
   # - blog.markdown
   # - contact.markdown
   # - resume.markdown
