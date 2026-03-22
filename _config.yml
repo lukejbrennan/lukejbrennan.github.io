@@ -21,8 +21,6 @@
 title: Luke Brennan
 email: lukejohnbrennan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  if you'd like to support this project, you can [buy me a coffee](buymeacoffee.com/lukebrennan)
-# baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://lukejbrennan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: luke-brennan
 github_username:  lukejbrennan
