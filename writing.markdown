@@ -8,9 +8,11 @@ permalink: /writing/
 [A Prayer for Everyone](https://magazine.nd.edu/stories/a-prayer-for-everyone/)
 
 ### The South Seattle Emerald
-[Sweeps Continue in Seattle: Perspectives From the Street](https://southseattleemerald.com/2021/06/14/sweeps-continue-in-seattle-perspectives-from-the-street/)
+[Sweeps Continue in Seattle: Perspectives From the Street](https://southseattleemerald.org/news/2021/06/14/sweeps-continue-in-seattle-perspectives-from-the-street)
 
-[History of the Unhoused 2010-Present](https://southseattleemerald.com/2021/07/29/then-and-now-seattles-plan-for-homelessness-from-2010-to-2020/)
+[History of the Unhoused 2010-Present](https://southseattleemerald.org/feature/2021/07/29/then-and-now-seattles-plan-for-homelessness-from-2010-to-2020)
+
+
 
 ### SlackJaw 
 [(Tough) Love From God](https://medium.com/slackjaw/tough-love-from-god-3bdd0905ffa7)
