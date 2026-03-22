@@ -15,7 +15,7 @@ Here’s a categorized collection you can use anywhere on your site.
 
 🌙 🌞 ☀️ ⭐ ⚡ 🔥 💧 🌈   
 ☁️ ❄️ ⛅ 🌪️ 🌊 ⬜ ✅ 🚀
-👀 👌 💯
+👀 👌 💯 ✨ 🌿
 
 ---
 
