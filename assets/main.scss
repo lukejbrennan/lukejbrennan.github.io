@@ -59,16 +59,16 @@
   }
   
 /* Make Disqus emoji reactions smaller */
-#disqus_thread .post-reactions {
-  transform: scale(0.7);   /* Shrinks the whole bar */
-  transform-origin: top left; 
-  margin-top: -10px;       /* Pulls it closer to comments */
-}
+// #disqus_thread .post-reactions {
+//   transform: scale(0.7);   /* Shrinks the whole bar */
+//   transform-origin: top left; 
+//   margin-top: -10px;       /* Pulls it closer to comments */
+// }
 
-#disqus_thread .post-reactions .reaction {
-  font-size: 0.8em;        /* Shrinks individual emojis */
-  padding: 2px 4px;        /* Less padding around each */
-}
+// #disqus_thread .post-reactions .reaction {
+//   font-size: 0.8em;        /* Shrinks individual emojis */
+//   padding: 2px 4px;        /* Less padding around each */
+// }
 
 
 // Dark mode toggle
