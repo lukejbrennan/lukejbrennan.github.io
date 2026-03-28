@@ -26,8 +26,8 @@ description: >-
 url: "https://lukejbrennan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: luke-brennan
 github_username:  lukejbrennan
+instagram_username: thatsbananas21
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
