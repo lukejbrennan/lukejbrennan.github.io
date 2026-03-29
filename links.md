@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /links/
+hide_footer: true
 ---
 
 <style>
