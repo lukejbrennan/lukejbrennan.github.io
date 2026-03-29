@@ -13,6 +13,6 @@ permalink: /links/
 <div class="links-page">
   <a class="link-item" href="https://lukejhnbrnnn.substack.com/">Newsletter</a>
   <a class="link-item" href="https://www.instagram.com/thatsbananas21">Instagram</a>
-  <a class="link-item" href="mailto:lukejohnbrennan@gmail.com">Email</a>
   <a class="link-item" href="https://github.com/lukejbrennan">GitHub</a>
+  <a class="link-item" href="https://buymeacoffee.com/lukebrennan">Buy me a coffee</a>
 </div>
