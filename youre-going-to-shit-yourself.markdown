@@ -3,7 +3,7 @@ layout: page
 title: You're Going to Shit Yourself
 permalink: /well-shit/
 ---
-[$5 - Buy the e-book now](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)  
+[$5 - Buy the book](https://www.amazon.com/dp/B0GZ5YB5RS/ref=sr_1_1?crid=2JU68LVPQ6IPF&dib=eyJ2IjoiMSJ9.y3qna7MtlTGXmCb6XU_E6TPfLWqnA9E2DOnT-uurJkzKrinNIsr8MgH5_8SkmcK2Qbst9NDZ8tnTI6i7IdfLlAmTY595IBXA_H6CQXC_4EZStPDDwNoJ3_K18QUNRzybG81vwOYq9AUxxL6fuWSlk8YO67uNOxwJnMc8c_bd1aN91RQI0qmqi7pmwoUPENWZ0d2JvGoVWn7YPE2eFkjc6Jw4ZyM5kcDv7E5MyDlHDv0.MljeVUvThQmn2oA125DqmFwogzEIIpiw8Lb16ucsNjo&dib_tag=se&keywords=you%27re+going+to+shit+yourself&qid=1777640943&sprefix=you%27re+going+to+shit+yourself%2Caps%2C140&sr=8-1)  
 **​​"Gripping… Extremely funny... painfully honest... [and] over much too soon." - Jerry**. 
 <br>
 
@@ -24,7 +24,7 @@ And if you haven’t yet? Well it's just a matter of time.
 <br>
 
 
-### [Don't waste time. Go birding. And also buy this e-book](https://buy.stripe.com/eVqeVc0BcfmMfIMgNO67S01)
+### [Don't waste time. Go birding. And also buy this e-book](https://www.amazon.com/dp/B0GZ5YB5RS/ref=sr_1_1?crid=2JU68LVPQ6IPF&dib=eyJ2IjoiMSJ9.y3qna7MtlTGXmCb6XU_E6TPfLWqnA9E2DOnT-uurJkzKrinNIsr8MgH5_8SkmcK2Qbst9NDZ8tnTI6i7IdfLlAmTY595IBXA_H6CQXC_4EZStPDDwNoJ3_K18QUNRzybG81vwOYq9AUxxL6fuWSlk8YO67uNOxwJnMc8c_bd1aN91RQI0qmqi7pmwoUPENWZ0d2JvGoVWn7YPE2eFkjc6Jw4ZyM5kcDv7E5MyDlHDv0.MljeVUvThQmn2oA125DqmFwogzEIIpiw8Lb16ucsNjo&dib_tag=se&keywords=you%27re+going+to+shit+yourself&qid=1777640943&sprefix=you%27re+going+to+shit+yourself%2Caps%2C140&sr=8-1)
 
 <br>
 
