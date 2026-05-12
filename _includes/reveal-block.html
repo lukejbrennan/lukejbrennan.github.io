@@ -1,0 +1,46 @@
+<div class="reveal-block">
+  <button type="button" class="reveal-toggle" aria-expanded="false">
+    <span class="reveal-tri">▶</span><span class="reveal-tri">▶</span>
+    <span class="reveal-line"></span>
+    <span class="reveal-label">{{ include.label }}</span>
+    <span class="reveal-line"></span>
+    <span class="reveal-tri">◀</span><span class="reveal-tri">◀</span>
+  </button>
+  <div class="reveal-content">
+    <div class="reveal-inner">
+      {{ include.content }}
+    </div>
+  </div>
+  <button type="button" class="reveal-close">
+    <span class="reveal-line"></span>
+    <span class="reveal-tri">▲</span>
+    <span class="reveal-line"></span>
+    <span class="reveal-tri">▲</span>
+    <span class="reveal-line"></span>
+  </button>
+</div>
+
+{% unless include.no_js %}
+<script>
+if (!window._revealBlockReady) {
+  window._revealBlockReady = true;
+  document.addEventListener('click', function (e) {
+    var toggle = e.target.closest('.reveal-toggle');
+    var close  = e.target.closest('.reveal-close');
+    if (toggle) {
+      e.preventDefault(); e.stopPropagation();
+      var content = toggle.closest('.reveal-block').querySelector('.reveal-content');
+      var isOpen = content.classList.contains('open');
+      content.classList.toggle('open', !isOpen);
+      toggle.setAttribute('aria-expanded', String(!isOpen));
+    }
+    if (close) {
+      e.preventDefault(); e.stopPropagation();
+      var block = close.closest('.reveal-block');
+      block.querySelector('.reveal-content').classList.remove('open');
+      block.querySelector('.reveal-toggle').setAttribute('aria-expanded', 'false');
+    }
+  });
+}
+</script>
+{% endunless %}
