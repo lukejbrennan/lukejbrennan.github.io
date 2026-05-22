@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:  
 permalink: /links/
 hide_footer: true
 ---
