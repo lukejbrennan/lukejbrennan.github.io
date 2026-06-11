@@ -277,3 +277,13 @@ img {
   display: flex;
 }
 
+.yt-clean {
+  position: relative;
+  display: inline-block;
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+}
+

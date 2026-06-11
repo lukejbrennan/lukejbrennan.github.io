@@ -14,6 +14,7 @@ hide_footer: true
 <div class="links-page">
   <a class="link-item" href="https://www.amazon.com/dp/B0GZ5YB5RS/ref=sr_1_1?crid=2JU68LVPQ6IPF&dib=eyJ2IjoiMSJ9.y3qna7MtlTGXmCb6XU_E6TPfLWqnA9E2DOnT-uurJkzKrinNIsr8MgH5_8SkmcK2Qbst9NDZ8tnTI6i7IdfLlAmTY595IBXA_H6CQXC_4EZStPDDwNoJ3_K18QUNRzybG81vwOYq9AUxxL6fuWSlk8YO67uNOxwJnMc8c_bd1aN91RQI0qmqi7pmwoUPENWZ0d2JvGoVWn7YPE2eFkjc6Jw4ZyM5kcDv7E5MyDlHDv0.MljeVUvThQmn2oA125DqmFwogzEIIpiw8Lb16ucsNjo&dib_tag=se&keywords=you%27re+going+to+shit+yourself&qid=1777640943&sprefix=you%27re+going+to+shit+yourself%2Caps%2C140&sr=8-1">You're Going to Shit Yourself</a>
   <a class="link-item" href="https://lukejhnbrnnn.substack.com/">Newsletter</a>
+  <a class="link-item" href="https://docs.google.com/forms/d/e/1FAIpQLSdQOw8gy2JIdKaWMjMXSy32TVj8jOhR4ZbnDYUrWK9Xi6RbiA/viewform?usp=dialog">Pooped your pants? Let's hear it</a>
   <a class="link-item" href="https://www.instagram.com/thatsbananas21">Instagram</a>
   <a class="link-item" href="https://github.com/lukejbrennan">GitHub</a>
   <a class="link-item" href="https://buymeacoffee.com/lukebrennan">Buy me a coffee</a>
