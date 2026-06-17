@@ -92,6 +92,13 @@ body.dark-mode .site-header {
   background-color: #1e1e1e;
 }
 
+/* Mobile nav dropdown: Minima gives .site-nav a white background on small
+   screens, which made the (white) dark-mode links invisible. */
+body.dark-mode .site-header .site-nav {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
 body.dark-mode .site-header .site-title,
 body.dark-mode .site-header .site-title:visited,
 body.dark-mode .site-header .site-nav a {
