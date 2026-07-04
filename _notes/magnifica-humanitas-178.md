@@ -1,0 +1,17 @@
+---
+layout: note
+title: "Magnifica Humanitas 178"
+permalink: /notes/magnifica-humanitas-178/
+backlinks:
+  - title: "Magnifica Humanitas 177"
+    url: /notes/magnifica-humanitas-177/
+  - title: "Magnifica Humanitas 178 (summary)"
+    url: /notes/magnifica-humanitas-178-summary/
+---
+
+Even today, colonialism assumes new forms. It no longer dominates only bodies, but appropriates data, transforming personal lives into exploitable information. Entire regions, especially those marked by structural fragility and limited geopolitical relevance, are currently subjected to a new mindset of extraction: that of health data, epidemiological profiles, genetic maps and demographic information. These have become the new “rare earths” of power: vital data which, once aggregated and analyzed, can be used to train predictive models, guide investment strategies, anticipate crises and, above all, determine who and what is deemed to matter. Those who control the health data of entire peoples — often collected under the pretext of aid, research or innovation — possess a structural leverage over the future, for they can shape needs and markets. They can also decide, before others, to whom medicines, investments and protections will be allocated. Here lies one of the most urgent moral challenges of our time: to ensure that shared knowledge becomes a true common good rather than an instrument of dominance. This requires restoring to individuals not only the data that describes them, but also the ability to decide how it is used, by whom and for whose benefit. Otherwise, the digital age will not be post-colonial, but colonial in another form.
+
+---
+
+Next: [Magnifica Humanitas 179](/notes/magnifica-humanitas-179/)
+Summary: [Magnifica Humanitas 178 (summary)](/notes/magnifica-humanitas-178-summary/)
