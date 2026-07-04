@@ -28,6 +28,11 @@ linkedin_username: luke-brennan
 github_username:  lukejbrennan
 instagram_username: thatsbananas21
 
+# Privacy-friendly analytics (goatcounter.com). Set this to your GoatCounter
+# site code (the MYCODE in https://MYCODE.goatcounter.com) to enable tracking
+# and the /stats/ page. Leave unset to disable both.
+# goatcounter: mycode
+goatcounter: lukejbrennan
 theme: minima
 plugins:
   - jekyll-feed
@@ -48,6 +53,8 @@ plugins:
 
 collections:
   category:
+    output: true
+  notes:
     output: true
 
 picture:

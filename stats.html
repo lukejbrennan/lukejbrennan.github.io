@@ -1,0 +1,265 @@
+---
+layout: page
+title: Stats
+permalink: /stats/
+---
+
+<div id="stats-root" data-code="{{ site.goatcounter }}">
+  <p class="stats-loading">Loading traffic data…</p>
+</div>
+
+<script>
+  window.STATS_PAGES = [
+    { path: "/", title: "Home" },
+    {% for p in site.pages %}{% if p.title and p.url != "/stats/" and p.url != "/404.html" %}{ path: {{ p.url | jsonify }}, title: {{ p.title | jsonify }} },
+    {% endif %}{% endfor %}
+    {% for p in site.posts %}{ path: {{ p.url | jsonify }}, title: {{ p.title | jsonify }} },
+    {% endfor %}
+  ];
+</script>
+
+<style>
+  #stats-root {
+    --surface: #fcfcfb; --ink: #0b0b0b; --secondary: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --baseline: #c3c2b7; --border: rgba(11,11,11,0.10);
+    --s1: #2a78d6; --track: #cde2fb;
+    font-size: 14px;
+  }
+  body.dark-mode #stats-root {
+    --surface: #1a1a19; --ink: #ffffff; --secondary: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
+    --s1: #3987e5; --track: #10315c;
+  }
+  .stats-loading, .stats-note { color: var(--muted); }
+  .stats-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; margin: 0 0 16px; }
+  .stats-tile { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .stats-tile .label { color: var(--secondary); font-size: 13px; }
+  .stats-tile .value { font-size: 26px; font-weight: 600; margin-top: 2px; color: var(--ink); }
+  .stats-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px 10px; margin-bottom: 16px; }
+  .stats-card h2 { font-size: 15px; font-weight: 600; margin: 0 0 2px; }
+  .stats-card .sub { color: var(--muted); font-size: 12px; margin: 0 0 10px; }
+  .stats-card svg { display: block; width: 100%; }
+  .stats-card svg text { font: 11px system-ui, -apple-system, "Segoe UI", sans-serif; fill: var(--muted); }
+  .stats-pages { width: 100%; border-collapse: collapse; font-size: 13px; }
+  /* the theme's default table styling (zebra rows, borders) fights the cards */
+  #stats-root .stats-pages tr { background: transparent; }
+  #stats-root .stats-pages td {
+    padding: 6px 8px 6px 0; border: none; border-top: 1px solid var(--grid);
+    vertical-align: middle; background: transparent; color: var(--secondary);
+  }
+  #stats-root .stats-pages tr:first-child td { border-top: none; }
+  .stats-pages .n { text-align: right; font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; white-space: nowrap; padding-left: 10px; }
+  .stats-pages .t a { color: inherit; text-decoration: none; }
+  .stats-pages .t a:hover { text-decoration: underline; }
+  .stats-pages .t .path { color: var(--muted); font-size: 12px; margin-left: 6px; }
+  .stats-pages .bar-cell { width: 34%; }
+  .stats-pages .bar { height: 8px; border-radius: 4px; background: var(--s1); min-width: 2px; }
+  .stats-tip {
+    position: fixed; pointer-events: none; z-index: 10; display: none;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.15); padding: 7px 10px; font-size: 12px;
+  }
+  .stats-tip .v { font-weight: 600; color: var(--ink); }
+  .stats-tip .w { color: var(--muted); }
+  .stats-footer { font-size: 12px; color: var(--muted); }
+  .stats-setup code { font-size: 13px; }
+</style>
+
+<script>
+(function () {
+  "use strict";
+  var root = document.getElementById("stats-root");
+  var code = (root.getAttribute("data-code") || "").trim();
+
+  if (!code) {
+    root.innerHTML =
+      '<div class="stats-card stats-setup">' +
+      "<h2>Analytics isn’t set up yet</h2>" +
+      '<p>This page reads from <a href="https://www.goatcounter.com">GoatCounter</a> — free, open-source, no cookies. To turn it on:</p>' +
+      "<ol>" +
+      "<li>Create a site at goatcounter.com and pick a code (e.g. <code>lukebrennan</code>).</li>" +
+      "<li>In its settings, enable <em>“Allow adding visitor counts on your website”</em>.</li>" +
+      "<li>Set <code>goatcounter: yourcode</code> in <code>_config.yml</code> and redeploy.</li>" +
+      "</ol></div>";
+    return;
+  }
+
+  var BASE = "https://" + code + ".goatcounter.com";
+
+  function ymd(d) {
+    return d.getFullYear() + "-" +
+      String(d.getMonth() + 1).padStart(2, "0") + "-" +
+      String(d.getDate()).padStart(2, "0");
+  }
+  function daysAgo(n) { var d = new Date(); d.setDate(d.getDate() - n); return d; }
+  function fmt(n) { return n.toLocaleString("en-US"); }
+
+  // GoatCounter's counter endpoint; count comes back as a formatted string.
+  function counter(path, params) {
+    var qs = params ? "?" + new URLSearchParams(params) : "";
+    var p = path === "TOTAL" ? "TOTAL" : encodeURI(path);
+    return fetch(BASE + "/counter/" + p + ".json" + qs)
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (j) { return parseInt(String(j.count).replace(/\D/g, ""), 10) || 0; });
+  }
+
+  // small pool so ~45 requests don't fire at once
+  function pool(tasks, width) {
+    var i = 0, results = new Array(tasks.length);
+    function next() {
+      if (i >= tasks.length) return Promise.resolve();
+      var idx = i++;
+      return tasks[idx]().then(function (v) { results[idx] = v; }, function () { results[idx] = null; }).then(next);
+    }
+    var lanes = [];
+    for (var w = 0; w < width; w++) lanes.push(next());
+    return Promise.all(lanes).then(function () { return results; });
+  }
+
+  var css = function (name) { return getComputedStyle(root).getPropertyValue(name).trim(); };
+
+  /* ---------- layout skeleton ---------- */
+  root.innerHTML =
+    '<div class="stats-tiles" id="st-tiles"></div>' +
+    '<div class="stats-card"><h2>Visitors</h2><p class="sub">per day, last 30 days</p><div id="st-chart"><p class="stats-loading">Loading…</p></div></div>' +
+    '<div class="stats-card"><h2>Top pages</h2><p class="sub">visitors in the last 30 days</p><div id="st-pages"><p class="stats-loading">Loading…</p></div></div>' +
+    '<p class="stats-footer">Counted by <a href="https://www.goatcounter.com">GoatCounter</a> — no cookies, no personal data. ' +
+    'Referrers, browsers, and locations are on the <a href="' + BASE + '">full dashboard</a>. Notes pages aren’t listed in top pages.</p>';
+
+  var tip = document.createElement("div");
+  tip.className = "stats-tip";
+  document.body.appendChild(tip);
+
+  function tile(label, value) {
+    return '<div class="stats-tile"><div class="label">' + label + '</div><div class="value">' + value + "</div></div>";
+  }
+
+  function fail(el, msg) { el.innerHTML = '<p class="stats-note">' + msg + "</p>"; }
+  var failMsg = "Couldn’t load counts — check that “Allow adding visitor counts on your website” is enabled in GoatCounter’s settings (or an adblocker is blocking it).";
+
+  /* ---------- KPI tiles ---------- */
+  var tiles = document.getElementById("st-tiles");
+  Promise.all([
+    counter("TOTAL", { start: ymd(new Date()) }),
+    counter("TOTAL", { start: ymd(daysAgo(6)) }),
+    counter("TOTAL", { start: ymd(daysAgo(29)) }),
+    counter("TOTAL")
+  ]).then(function (v) {
+    tiles.innerHTML = tile("Today", fmt(v[0])) + tile("Last 7 days", fmt(v[1])) +
+      tile("Last 30 days", fmt(v[2])) + tile("All time", fmt(v[3]));
+  }).catch(function () { fail(tiles, failMsg); });
+
+  /* ---------- daily chart ---------- */
+  var DAYS = 30;
+  var chartBox = document.getElementById("st-chart");
+  var dayTasks = [];
+  for (var i = DAYS - 1; i >= 0; i--) {
+    (function (d) {
+      dayTasks.push(function () { return counter("TOTAL", { start: ymd(d), end: ymd(d) }); });
+    })(daysAgo(i));
+  }
+  pool(dayTasks, 4).then(function (counts) {
+    if (counts.every(function (c) { return c === null; })) { fail(chartBox, failMsg); return; }
+    drawChart(counts.map(function (c) { return c || 0; }));
+  });
+
+  function drawChart(values) {
+    var W = chartBox.clientWidth || 640, H = 190;
+    var padL = 34, padR = 6, padT = 8, padB = 22;
+    var plotW = W - padL - padR, plotH = H - padT - padB;
+    var max = Math.max.apply(null, values.concat([1]));
+    var step = Math.pow(10, Math.floor(Math.log10(max / 2 || 1)));
+    var top = Math.ceil(max / step) * step;
+
+    var NS = "http://www.w3.org/2000/svg";
+    var svg = document.createElementNS(NS, "svg");
+    svg.setAttribute("viewBox", "0 0 " + W + " " + H);
+    svg.setAttribute("height", H);
+    function el(name, attrs) {
+      var e = document.createElementNS(NS, name);
+      for (var k in attrs) e.setAttribute(k, attrs[k]);
+      return e;
+    }
+    var y = function (v) { return padT + plotH * (1 - v / top); };
+    [0, top / 2, top].forEach(function (t) {
+      svg.appendChild(el("line", { x1: padL, x2: W - padR, y1: y(t), y2: y(t), stroke: t === 0 ? css("--baseline") : css("--grid"), "stroke-width": 1 }));
+      var txt = el("text", { x: padL - 6, y: y(t) + 3.5, "text-anchor": "end" });
+      txt.textContent = t % 1 === 0 ? fmt(t) : t.toFixed(1);
+      svg.appendChild(txt);
+    });
+
+    var band = plotW / values.length;
+    var barW = Math.min(24, band - 2);
+    values.forEach(function (v, i) {
+      var d = daysAgo(values.length - 1 - i);
+      var cx = padL + band * i + band / 2;
+      if (v > 0) {
+        var h = plotH + padT - y(v), r = Math.min(4, barW / 2, h);
+        var x = cx - barW / 2, yy = y(v);
+        svg.appendChild(el("path", {
+          d: "M" + x + "," + (yy + h) + " V" + (yy + r) + " Q" + x + "," + yy + " " + (x + r) + "," + yy +
+            " H" + (x + barW - r) + " Q" + (x + barW) + "," + yy + " " + (x + barW) + "," + (yy + r) + " V" + (yy + h) + " Z",
+          fill: css("--s1"), "data-i": i
+        }));
+      }
+      if (i % 5 === 0) {
+        var lbl = el("text", { x: cx, y: H - 6, "text-anchor": "middle" });
+        lbl.textContent = (d.getMonth() + 1) + "/" + d.getDate();
+        svg.appendChild(lbl);
+      }
+      var hit = el("rect", { x: padL + band * i, y: padT, width: band, height: plotH, fill: "transparent" });
+      hit.addEventListener("pointermove", function (ev) {
+        svg.querySelectorAll("path").forEach(function (b) { b.style.opacity = +b.getAttribute("data-i") === i ? 1 : 0.45; });
+        tip.innerHTML = "";
+        var vv = document.createElement("div"); vv.className = "v"; vv.textContent = fmt(v) + " visitors";
+        var ww = document.createElement("div"); ww.className = "w";
+        ww.textContent = d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+        tip.appendChild(vv); tip.appendChild(ww);
+        tip.style.display = "block";
+        tip.style.left = Math.min(ev.clientX + 12, window.innerWidth - tip.offsetWidth - 8) + "px";
+        tip.style.top = (ev.clientY + 12) + "px";
+      });
+      hit.addEventListener("pointerleave", function () {
+        svg.querySelectorAll("path").forEach(function (b) { b.style.opacity = 1; });
+        tip.style.display = "none";
+      });
+      svg.appendChild(hit);
+    });
+    chartBox.innerHTML = "";
+    chartBox.appendChild(svg);
+  }
+
+  /* ---------- top pages ---------- */
+  var pagesBox = document.getElementById("st-pages");
+  var pages = window.STATS_PAGES || [];
+  var start = ymd(daysAgo(29));
+  pool(pages.map(function (p) {
+    return function () { return counter(p.path, { start: start }); };
+  }), 4).then(function (counts) {
+    if (counts.every(function (c) { return c === null; })) { fail(pagesBox, failMsg); return; }
+    var rows = pages.map(function (p, i) { return { p: p, n: counts[i] || 0 }; })
+      .sort(function (a, b) { return b.n - a.n; })
+      .slice(0, 12);
+    var max = Math.max(rows[0] ? rows[0].n : 0, 1);
+    var table = document.createElement("table");
+    table.className = "stats-pages";
+    rows.forEach(function (r) {
+      var tr = document.createElement("tr");
+      var t = document.createElement("td"); t.className = "t";
+      var a = document.createElement("a"); a.href = r.p.path; a.textContent = r.p.title;
+      var span = document.createElement("span"); span.className = "path"; span.textContent = r.p.path;
+      t.appendChild(a); t.appendChild(span);
+      var bar = document.createElement("td"); bar.className = "bar-cell";
+      var fill = document.createElement("div"); fill.className = "bar";
+      fill.style.width = Math.max(2, (r.n / max) * 100) + "%";
+      if (r.n === 0) fill.style.opacity = 0.25;
+      bar.appendChild(fill);
+      var n = document.createElement("td"); n.className = "n"; n.textContent = fmt(r.n);
+      tr.appendChild(t); tr.appendChild(bar); tr.appendChild(n);
+      table.appendChild(tr);
+    });
+    pagesBox.innerHTML = "";
+    pagesBox.appendChild(table);
+  });
+})();
+</script>
