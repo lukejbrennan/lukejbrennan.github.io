@@ -1,0 +1,41 @@
+---
+layout: base
+---
+<article class="post note">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.backlinks %}
+  <aside class="note-backlinks">
+    <h3>Linked from</h3>
+    <ul>
+      {% for b in page.backlinks %}
+      <li><a href="{{ b.url | relative_url }}">{{ b.title | escape }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <p class="note-graphlink">
+    <a href="{{ '/graph/' | relative_url }}#{{ page.title | url_encode }}">← see this note in the graph</a>
+  </p>
+
+</article>
+
+<style>
+  .note-backlinks {
+    margin-top: 2.5em;
+    padding: 12px 18px;
+    border: 1px solid rgba(128, 128, 128, 0.25);
+    border-radius: 8px;
+  }
+  .note-backlinks h3 { margin: 0 0 6px; font-size: 0.95em; }
+  .note-backlinks ul { margin: 0; padding-left: 1.2em; }
+  .note-graphlink { margin-top: 1.5em; font-size: 0.9em; }
+</style>

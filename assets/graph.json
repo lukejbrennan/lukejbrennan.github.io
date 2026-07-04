@@ -1,0 +1,5422 @@
+{
+ "generated": "2026-07-02",
+ "tag": "published",
+ "nodes": [
+  {
+   "id": "Creating contexts we like",
+   "url": "/notes/creating-contexts-we-like/",
+   "wc": 163
+  },
+  {
+   "id": "increase surface area for autonomy",
+   "url": "/notes/increase-surface-area-for-autonomy/",
+   "wc": 32
+  },
+  {
+   "id": "joy in being the driver",
+   "url": "/notes/joy-in-being-the-driver/",
+   "wc": 68
+  },
+  {
+   "id": "Magnifica Humanitas 1",
+   "url": "/notes/magnifica-humanitas-1/",
+   "wc": 159
+  },
+  {
+   "id": "Magnifica Humanitas 1 (summary)",
+   "url": "/notes/magnifica-humanitas-1-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 10",
+   "url": "/notes/magnifica-humanitas-10/",
+   "wc": 282
+  },
+  {
+   "id": "Magnifica Humanitas 10 (summary)",
+   "url": "/notes/magnifica-humanitas-10-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 100",
+   "url": "/notes/magnifica-humanitas-100/",
+   "wc": 288
+  },
+  {
+   "id": "Magnifica Humanitas 100 (summary)",
+   "url": "/notes/magnifica-humanitas-100-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 101",
+   "url": "/notes/magnifica-humanitas-101/",
+   "wc": 155
+  },
+  {
+   "id": "Magnifica Humanitas 101 (summary)",
+   "url": "/notes/magnifica-humanitas-101-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 102",
+   "url": "/notes/magnifica-humanitas-102/",
+   "wc": 137
+  },
+  {
+   "id": "Magnifica Humanitas 102 (summary)",
+   "url": "/notes/magnifica-humanitas-102-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 103",
+   "url": "/notes/magnifica-humanitas-103/",
+   "wc": 115
+  },
+  {
+   "id": "Magnifica Humanitas 103 (summary)",
+   "url": "/notes/magnifica-humanitas-103-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 104",
+   "url": "/notes/magnifica-humanitas-104/",
+   "wc": 149
+  },
+  {
+   "id": "Magnifica Humanitas 104 (summary)",
+   "url": "/notes/magnifica-humanitas-104-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 105",
+   "url": "/notes/magnifica-humanitas-105/",
+   "wc": 101
+  },
+  {
+   "id": "Magnifica Humanitas 105 (summary)",
+   "url": "/notes/magnifica-humanitas-105-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 106",
+   "url": "/notes/magnifica-humanitas-106/",
+   "wc": 131
+  },
+  {
+   "id": "Magnifica Humanitas 106 (summary)",
+   "url": "/notes/magnifica-humanitas-106-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 107",
+   "url": "/notes/magnifica-humanitas-107/",
+   "wc": 132
+  },
+  {
+   "id": "Magnifica Humanitas 107 (summary)",
+   "url": "/notes/magnifica-humanitas-107-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 108",
+   "url": "/notes/magnifica-humanitas-108/",
+   "wc": 213
+  },
+  {
+   "id": "Magnifica Humanitas 108 (summary)",
+   "url": "/notes/magnifica-humanitas-108-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 109",
+   "url": "/notes/magnifica-humanitas-109/",
+   "wc": 195
+  },
+  {
+   "id": "Magnifica Humanitas 109 (summary)",
+   "url": "/notes/magnifica-humanitas-109-summary/",
+   "wc": 73
+  },
+  {
+   "id": "Magnifica Humanitas 11",
+   "url": "/notes/magnifica-humanitas-11/",
+   "wc": 122
+  },
+  {
+   "id": "Magnifica Humanitas 11 (summary)",
+   "url": "/notes/magnifica-humanitas-11-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 110",
+   "url": "/notes/magnifica-humanitas-110/",
+   "wc": 197
+  },
+  {
+   "id": "Magnifica Humanitas 110 (summary)",
+   "url": "/notes/magnifica-humanitas-110-summary/",
+   "wc": 67
+  },
+  {
+   "id": "Magnifica Humanitas 111",
+   "url": "/notes/magnifica-humanitas-111/",
+   "wc": 105
+  },
+  {
+   "id": "Magnifica Humanitas 111 (summary)",
+   "url": "/notes/magnifica-humanitas-111-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 112",
+   "url": "/notes/magnifica-humanitas-112/",
+   "wc": 122
+  },
+  {
+   "id": "Magnifica Humanitas 112 (summary)",
+   "url": "/notes/magnifica-humanitas-112-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 113",
+   "url": "/notes/magnifica-humanitas-113/",
+   "wc": 145
+  },
+  {
+   "id": "Magnifica Humanitas 113 (summary)",
+   "url": "/notes/magnifica-humanitas-113-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 114",
+   "url": "/notes/magnifica-humanitas-114/",
+   "wc": 162
+  },
+  {
+   "id": "Magnifica Humanitas 114 (summary)",
+   "url": "/notes/magnifica-humanitas-114-summary/",
+   "wc": 63
+  },
+  {
+   "id": "Magnifica Humanitas 115",
+   "url": "/notes/magnifica-humanitas-115/",
+   "wc": 108
+  },
+  {
+   "id": "Magnifica Humanitas 115 (summary)",
+   "url": "/notes/magnifica-humanitas-115-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 116",
+   "url": "/notes/magnifica-humanitas-116/",
+   "wc": 155
+  },
+  {
+   "id": "Magnifica Humanitas 116 (summary)",
+   "url": "/notes/magnifica-humanitas-116-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 117",
+   "url": "/notes/magnifica-humanitas-117/",
+   "wc": 165
+  },
+  {
+   "id": "Magnifica Humanitas 117 (summary)",
+   "url": "/notes/magnifica-humanitas-117-summary/",
+   "wc": 62
+  },
+  {
+   "id": "Magnifica Humanitas 118",
+   "url": "/notes/magnifica-humanitas-118/",
+   "wc": 157
+  },
+  {
+   "id": "Magnifica Humanitas 118 (summary)",
+   "url": "/notes/magnifica-humanitas-118-summary/",
+   "wc": 68
+  },
+  {
+   "id": "Magnifica Humanitas 119",
+   "url": "/notes/magnifica-humanitas-119/",
+   "wc": 115
+  },
+  {
+   "id": "Magnifica Humanitas 119 (summary)",
+   "url": "/notes/magnifica-humanitas-119-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 12",
+   "url": "/notes/magnifica-humanitas-12/",
+   "wc": 171
+  },
+  {
+   "id": "Magnifica Humanitas 12 (summary)",
+   "url": "/notes/magnifica-humanitas-12-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 120",
+   "url": "/notes/magnifica-humanitas-120/",
+   "wc": 144
+  },
+  {
+   "id": "Magnifica Humanitas 120 (summary)",
+   "url": "/notes/magnifica-humanitas-120-summary/",
+   "wc": 60
+  },
+  {
+   "id": "Magnifica Humanitas 121",
+   "url": "/notes/magnifica-humanitas-121/",
+   "wc": 140
+  },
+  {
+   "id": "Magnifica Humanitas 121 (summary)",
+   "url": "/notes/magnifica-humanitas-121-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 122",
+   "url": "/notes/magnifica-humanitas-122/",
+   "wc": 131
+  },
+  {
+   "id": "Magnifica Humanitas 122 (summary)",
+   "url": "/notes/magnifica-humanitas-122-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 123",
+   "url": "/notes/magnifica-humanitas-123/",
+   "wc": 235
+  },
+  {
+   "id": "Magnifica Humanitas 123 (summary)",
+   "url": "/notes/magnifica-humanitas-123-summary/",
+   "wc": 60
+  },
+  {
+   "id": "Magnifica Humanitas 124",
+   "url": "/notes/magnifica-humanitas-124/",
+   "wc": 120
+  },
+  {
+   "id": "Magnifica Humanitas 124 (summary)",
+   "url": "/notes/magnifica-humanitas-124-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 125",
+   "url": "/notes/magnifica-humanitas-125/",
+   "wc": 150
+  },
+  {
+   "id": "Magnifica Humanitas 125 (summary)",
+   "url": "/notes/magnifica-humanitas-125-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 126",
+   "url": "/notes/magnifica-humanitas-126/",
+   "wc": 133
+  },
+  {
+   "id": "Magnifica Humanitas 126 (summary)",
+   "url": "/notes/magnifica-humanitas-126-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 127",
+   "url": "/notes/magnifica-humanitas-127/",
+   "wc": 203
+  },
+  {
+   "id": "Magnifica Humanitas 127 (summary)",
+   "url": "/notes/magnifica-humanitas-127-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 128",
+   "url": "/notes/magnifica-humanitas-128/",
+   "wc": 164
+  },
+  {
+   "id": "Magnifica Humanitas 128 (summary)",
+   "url": "/notes/magnifica-humanitas-128-summary/",
+   "wc": 59
+  },
+  {
+   "id": "Magnifica Humanitas 129",
+   "url": "/notes/magnifica-humanitas-129/",
+   "wc": 205
+  },
+  {
+   "id": "Magnifica Humanitas 129 (summary)",
+   "url": "/notes/magnifica-humanitas-129-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 13",
+   "url": "/notes/magnifica-humanitas-13/",
+   "wc": 132
+  },
+  {
+   "id": "Magnifica Humanitas 13 (summary)",
+   "url": "/notes/magnifica-humanitas-13-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 130",
+   "url": "/notes/magnifica-humanitas-130/",
+   "wc": 204
+  },
+  {
+   "id": "Magnifica Humanitas 130 (summary)",
+   "url": "/notes/magnifica-humanitas-130-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 131",
+   "url": "/notes/magnifica-humanitas-131/",
+   "wc": 116
+  },
+  {
+   "id": "Magnifica Humanitas 131 (summary)",
+   "url": "/notes/magnifica-humanitas-131-summary/",
+   "wc": 43
+  },
+  {
+   "id": "Magnifica Humanitas 132",
+   "url": "/notes/magnifica-humanitas-132/",
+   "wc": 189
+  },
+  {
+   "id": "Magnifica Humanitas 132 (summary)",
+   "url": "/notes/magnifica-humanitas-132-summary/",
+   "wc": 59
+  },
+  {
+   "id": "Magnifica Humanitas 133",
+   "url": "/notes/magnifica-humanitas-133/",
+   "wc": 316
+  },
+  {
+   "id": "Magnifica Humanitas 133 (summary)",
+   "url": "/notes/magnifica-humanitas-133-summary/",
+   "wc": 71
+  },
+  {
+   "id": "Magnifica Humanitas 134",
+   "url": "/notes/magnifica-humanitas-134/",
+   "wc": 159
+  },
+  {
+   "id": "Magnifica Humanitas 134 (summary)",
+   "url": "/notes/magnifica-humanitas-134-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 135",
+   "url": "/notes/magnifica-humanitas-135/",
+   "wc": 92
+  },
+  {
+   "id": "Magnifica Humanitas 135 (summary)",
+   "url": "/notes/magnifica-humanitas-135-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 136",
+   "url": "/notes/magnifica-humanitas-136/",
+   "wc": 89
+  },
+  {
+   "id": "Magnifica Humanitas 136 (summary)",
+   "url": "/notes/magnifica-humanitas-136-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 137",
+   "url": "/notes/magnifica-humanitas-137/",
+   "wc": 177
+  },
+  {
+   "id": "Magnifica Humanitas 137 (summary)",
+   "url": "/notes/magnifica-humanitas-137-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 138",
+   "url": "/notes/magnifica-humanitas-138/",
+   "wc": 163
+  },
+  {
+   "id": "Magnifica Humanitas 138 (summary)",
+   "url": "/notes/magnifica-humanitas-138-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 139",
+   "url": "/notes/magnifica-humanitas-139/",
+   "wc": 76
+  },
+  {
+   "id": "Magnifica Humanitas 139 (summary)",
+   "url": "/notes/magnifica-humanitas-139-summary/",
+   "wc": 43
+  },
+  {
+   "id": "Magnifica Humanitas 14",
+   "url": "/notes/magnifica-humanitas-14/",
+   "wc": 123
+  },
+  {
+   "id": "Magnifica Humanitas 14 (summary)",
+   "url": "/notes/magnifica-humanitas-14-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 140",
+   "url": "/notes/magnifica-humanitas-140/",
+   "wc": 180
+  },
+  {
+   "id": "Magnifica Humanitas 140 (summary)",
+   "url": "/notes/magnifica-humanitas-140-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 141",
+   "url": "/notes/magnifica-humanitas-141/",
+   "wc": 175
+  },
+  {
+   "id": "Magnifica Humanitas 141 (summary)",
+   "url": "/notes/magnifica-humanitas-141-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 142",
+   "url": "/notes/magnifica-humanitas-142/",
+   "wc": 166
+  },
+  {
+   "id": "Magnifica Humanitas 142 (summary)",
+   "url": "/notes/magnifica-humanitas-142-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 143",
+   "url": "/notes/magnifica-humanitas-143/",
+   "wc": 118
+  },
+  {
+   "id": "Magnifica Humanitas 143 (summary)",
+   "url": "/notes/magnifica-humanitas-143-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 144",
+   "url": "/notes/magnifica-humanitas-144/",
+   "wc": 151
+  },
+  {
+   "id": "Magnifica Humanitas 144 (summary)",
+   "url": "/notes/magnifica-humanitas-144-summary/",
+   "wc": 41
+  },
+  {
+   "id": "Magnifica Humanitas 145",
+   "url": "/notes/magnifica-humanitas-145/",
+   "wc": 124
+  },
+  {
+   "id": "Magnifica Humanitas 145 (summary)",
+   "url": "/notes/magnifica-humanitas-145-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 146",
+   "url": "/notes/magnifica-humanitas-146/",
+   "wc": 141
+  },
+  {
+   "id": "Magnifica Humanitas 146 (summary)",
+   "url": "/notes/magnifica-humanitas-146-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 147",
+   "url": "/notes/magnifica-humanitas-147/",
+   "wc": 120
+  },
+  {
+   "id": "Magnifica Humanitas 147 (summary)",
+   "url": "/notes/magnifica-humanitas-147-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 148",
+   "url": "/notes/magnifica-humanitas-148/",
+   "wc": 169
+  },
+  {
+   "id": "Magnifica Humanitas 148 (summary)",
+   "url": "/notes/magnifica-humanitas-148-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 149",
+   "url": "/notes/magnifica-humanitas-149/",
+   "wc": 85
+  },
+  {
+   "id": "Magnifica Humanitas 149 (summary)",
+   "url": "/notes/magnifica-humanitas-149-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 15",
+   "url": "/notes/magnifica-humanitas-15/",
+   "wc": 129
+  },
+  {
+   "id": "Magnifica Humanitas 15 (summary)",
+   "url": "/notes/magnifica-humanitas-15-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 150",
+   "url": "/notes/magnifica-humanitas-150/",
+   "wc": 169
+  },
+  {
+   "id": "Magnifica Humanitas 150 (summary)",
+   "url": "/notes/magnifica-humanitas-150-summary/",
+   "wc": 60
+  },
+  {
+   "id": "Magnifica Humanitas 151",
+   "url": "/notes/magnifica-humanitas-151/",
+   "wc": 131
+  },
+  {
+   "id": "Magnifica Humanitas 151 (summary)",
+   "url": "/notes/magnifica-humanitas-151-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 152",
+   "url": "/notes/magnifica-humanitas-152/",
+   "wc": 87
+  },
+  {
+   "id": "Magnifica Humanitas 152 (summary)",
+   "url": "/notes/magnifica-humanitas-152-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 153",
+   "url": "/notes/magnifica-humanitas-153/",
+   "wc": 183
+  },
+  {
+   "id": "Magnifica Humanitas 153 (summary)",
+   "url": "/notes/magnifica-humanitas-153-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 154",
+   "url": "/notes/magnifica-humanitas-154/",
+   "wc": 205
+  },
+  {
+   "id": "Magnifica Humanitas 154 (summary)",
+   "url": "/notes/magnifica-humanitas-154-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 155",
+   "url": "/notes/magnifica-humanitas-155/",
+   "wc": 192
+  },
+  {
+   "id": "Magnifica Humanitas 155 (summary)",
+   "url": "/notes/magnifica-humanitas-155-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 156",
+   "url": "/notes/magnifica-humanitas-156/",
+   "wc": 160
+  },
+  {
+   "id": "Magnifica Humanitas 156 (summary)",
+   "url": "/notes/magnifica-humanitas-156-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 157",
+   "url": "/notes/magnifica-humanitas-157/",
+   "wc": 100
+  },
+  {
+   "id": "Magnifica Humanitas 157 (summary)",
+   "url": "/notes/magnifica-humanitas-157-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 158",
+   "url": "/notes/magnifica-humanitas-158/",
+   "wc": 170
+  },
+  {
+   "id": "Magnifica Humanitas 158 (summary)",
+   "url": "/notes/magnifica-humanitas-158-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 159",
+   "url": "/notes/magnifica-humanitas-159/",
+   "wc": 144
+  },
+  {
+   "id": "Magnifica Humanitas 159 (summary)",
+   "url": "/notes/magnifica-humanitas-159-summary/",
+   "wc": 41
+  },
+  {
+   "id": "Magnifica Humanitas 16",
+   "url": "/notes/magnifica-humanitas-16/",
+   "wc": 228
+  },
+  {
+   "id": "Magnifica Humanitas 16 (summary)",
+   "url": "/notes/magnifica-humanitas-16-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 160",
+   "url": "/notes/magnifica-humanitas-160/",
+   "wc": 162
+  },
+  {
+   "id": "Magnifica Humanitas 160 (summary)",
+   "url": "/notes/magnifica-humanitas-160-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 161",
+   "url": "/notes/magnifica-humanitas-161/",
+   "wc": 178
+  },
+  {
+   "id": "Magnifica Humanitas 161 (summary)",
+   "url": "/notes/magnifica-humanitas-161-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 162",
+   "url": "/notes/magnifica-humanitas-162/",
+   "wc": 104
+  },
+  {
+   "id": "Magnifica Humanitas 162 (summary)",
+   "url": "/notes/magnifica-humanitas-162-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 163",
+   "url": "/notes/magnifica-humanitas-163/",
+   "wc": 156
+  },
+  {
+   "id": "Magnifica Humanitas 163 (summary)",
+   "url": "/notes/magnifica-humanitas-163-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 164",
+   "url": "/notes/magnifica-humanitas-164/",
+   "wc": 151
+  },
+  {
+   "id": "Magnifica Humanitas 164 (summary)",
+   "url": "/notes/magnifica-humanitas-164-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 165",
+   "url": "/notes/magnifica-humanitas-165/",
+   "wc": 112
+  },
+  {
+   "id": "Magnifica Humanitas 165 (summary)",
+   "url": "/notes/magnifica-humanitas-165-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 166",
+   "url": "/notes/magnifica-humanitas-166/",
+   "wc": 99
+  },
+  {
+   "id": "Magnifica Humanitas 166 (summary)",
+   "url": "/notes/magnifica-humanitas-166-summary/",
+   "wc": 40
+  },
+  {
+   "id": "Magnifica Humanitas 167",
+   "url": "/notes/magnifica-humanitas-167/",
+   "wc": 133
+  },
+  {
+   "id": "Magnifica Humanitas 167 (summary)",
+   "url": "/notes/magnifica-humanitas-167-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 168",
+   "url": "/notes/magnifica-humanitas-168/",
+   "wc": 97
+  },
+  {
+   "id": "Magnifica Humanitas 168 (summary)",
+   "url": "/notes/magnifica-humanitas-168-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 169",
+   "url": "/notes/magnifica-humanitas-169/",
+   "wc": 183
+  },
+  {
+   "id": "Magnifica Humanitas 169 (summary)",
+   "url": "/notes/magnifica-humanitas-169-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 17",
+   "url": "/notes/magnifica-humanitas-17/",
+   "wc": 115
+  },
+  {
+   "id": "Magnifica Humanitas 17 (summary)",
+   "url": "/notes/magnifica-humanitas-17-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 170",
+   "url": "/notes/magnifica-humanitas-170/",
+   "wc": 144
+  },
+  {
+   "id": "Magnifica Humanitas 170 (summary)",
+   "url": "/notes/magnifica-humanitas-170-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 171",
+   "url": "/notes/magnifica-humanitas-171/",
+   "wc": 202
+  },
+  {
+   "id": "Magnifica Humanitas 171 (summary)",
+   "url": "/notes/magnifica-humanitas-171-summary/",
+   "wc": 63
+  },
+  {
+   "id": "Magnifica Humanitas 172",
+   "url": "/notes/magnifica-humanitas-172/",
+   "wc": 136
+  },
+  {
+   "id": "Magnifica Humanitas 172 (summary)",
+   "url": "/notes/magnifica-humanitas-172-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 173",
+   "url": "/notes/magnifica-humanitas-173/",
+   "wc": 305
+  },
+  {
+   "id": "Magnifica Humanitas 173 (summary)",
+   "url": "/notes/magnifica-humanitas-173-summary/",
+   "wc": 69
+  },
+  {
+   "id": "Magnifica Humanitas 174",
+   "url": "/notes/magnifica-humanitas-174/",
+   "wc": 143
+  },
+  {
+   "id": "Magnifica Humanitas 174 (summary)",
+   "url": "/notes/magnifica-humanitas-174-summary/",
+   "wc": 59
+  },
+  {
+   "id": "Magnifica Humanitas 175",
+   "url": "/notes/magnifica-humanitas-175/",
+   "wc": 64
+  },
+  {
+   "id": "Magnifica Humanitas 175 (summary)",
+   "url": "/notes/magnifica-humanitas-175-summary/",
+   "wc": 39
+  },
+  {
+   "id": "Magnifica Humanitas 176",
+   "url": "/notes/magnifica-humanitas-176/",
+   "wc": 289
+  },
+  {
+   "id": "Magnifica Humanitas 176 (summary)",
+   "url": "/notes/magnifica-humanitas-176-summary/",
+   "wc": 70
+  },
+  {
+   "id": "Magnifica Humanitas 177",
+   "url": "/notes/magnifica-humanitas-177/",
+   "wc": 113
+  },
+  {
+   "id": "Magnifica Humanitas 177 (summary)",
+   "url": "/notes/magnifica-humanitas-177-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 178",
+   "url": "/notes/magnifica-humanitas-178/",
+   "wc": 221
+  },
+  {
+   "id": "Magnifica Humanitas 178 (summary)",
+   "url": "/notes/magnifica-humanitas-178-summary/",
+   "wc": 72
+  },
+  {
+   "id": "Magnifica Humanitas 179",
+   "url": "/notes/magnifica-humanitas-179/",
+   "wc": 150
+  },
+  {
+   "id": "Magnifica Humanitas 179 (summary)",
+   "url": "/notes/magnifica-humanitas-179-summary/",
+   "wc": 61
+  },
+  {
+   "id": "Magnifica Humanitas 18",
+   "url": "/notes/magnifica-humanitas-18/",
+   "wc": 126
+  },
+  {
+   "id": "Magnifica Humanitas 18 (summary)",
+   "url": "/notes/magnifica-humanitas-18-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 180",
+   "url": "/notes/magnifica-humanitas-180/",
+   "wc": 94
+  },
+  {
+   "id": "Magnifica Humanitas 180 (summary)",
+   "url": "/notes/magnifica-humanitas-180-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 181",
+   "url": "/notes/magnifica-humanitas-181/",
+   "wc": 127
+  },
+  {
+   "id": "Magnifica Humanitas 181 (summary)",
+   "url": "/notes/magnifica-humanitas-181-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 182",
+   "url": "/notes/magnifica-humanitas-182/",
+   "wc": 128
+  },
+  {
+   "id": "Magnifica Humanitas 182 (summary)",
+   "url": "/notes/magnifica-humanitas-182-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 183",
+   "url": "/notes/magnifica-humanitas-183/",
+   "wc": 182
+  },
+  {
+   "id": "Magnifica Humanitas 183 (summary)",
+   "url": "/notes/magnifica-humanitas-183-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 184",
+   "url": "/notes/magnifica-humanitas-184/",
+   "wc": 78
+  },
+  {
+   "id": "Magnifica Humanitas 184 (summary)",
+   "url": "/notes/magnifica-humanitas-184-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 185",
+   "url": "/notes/magnifica-humanitas-185/",
+   "wc": 216
+  },
+  {
+   "id": "Magnifica Humanitas 185 (summary)",
+   "url": "/notes/magnifica-humanitas-185-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 186",
+   "url": "/notes/magnifica-humanitas-186/",
+   "wc": 170
+  },
+  {
+   "id": "Magnifica Humanitas 186 (summary)",
+   "url": "/notes/magnifica-humanitas-186-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 187",
+   "url": "/notes/magnifica-humanitas-187/",
+   "wc": 164
+  },
+  {
+   "id": "Magnifica Humanitas 187 (summary)",
+   "url": "/notes/magnifica-humanitas-187-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 188",
+   "url": "/notes/magnifica-humanitas-188/",
+   "wc": 110
+  },
+  {
+   "id": "Magnifica Humanitas 188 (summary)",
+   "url": "/notes/magnifica-humanitas-188-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 189",
+   "url": "/notes/magnifica-humanitas-189/",
+   "wc": 198
+  },
+  {
+   "id": "Magnifica Humanitas 189 (summary)",
+   "url": "/notes/magnifica-humanitas-189-summary/",
+   "wc": 59
+  },
+  {
+   "id": "Magnifica Humanitas 19",
+   "url": "/notes/magnifica-humanitas-19/",
+   "wc": 195
+  },
+  {
+   "id": "Magnifica Humanitas 19 (summary)",
+   "url": "/notes/magnifica-humanitas-19-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 190",
+   "url": "/notes/magnifica-humanitas-190/",
+   "wc": 111
+  },
+  {
+   "id": "Magnifica Humanitas 190 (summary)",
+   "url": "/notes/magnifica-humanitas-190-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 191",
+   "url": "/notes/magnifica-humanitas-191/",
+   "wc": 89
+  },
+  {
+   "id": "Magnifica Humanitas 191 (summary)",
+   "url": "/notes/magnifica-humanitas-191-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 192",
+   "url": "/notes/magnifica-humanitas-192/",
+   "wc": 211
+  },
+  {
+   "id": "Magnifica Humanitas 192 (summary)",
+   "url": "/notes/magnifica-humanitas-192-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 193",
+   "url": "/notes/magnifica-humanitas-193/",
+   "wc": 122
+  },
+  {
+   "id": "Magnifica Humanitas 193 (summary)",
+   "url": "/notes/magnifica-humanitas-193-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 194",
+   "url": "/notes/magnifica-humanitas-194/",
+   "wc": 175
+  },
+  {
+   "id": "Magnifica Humanitas 194 (summary)",
+   "url": "/notes/magnifica-humanitas-194-summary/",
+   "wc": 60
+  },
+  {
+   "id": "Magnifica Humanitas 195",
+   "url": "/notes/magnifica-humanitas-195/",
+   "wc": 66
+  },
+  {
+   "id": "Magnifica Humanitas 195 (summary)",
+   "url": "/notes/magnifica-humanitas-195-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 196",
+   "url": "/notes/magnifica-humanitas-196/",
+   "wc": 91
+  },
+  {
+   "id": "Magnifica Humanitas 196 (summary)",
+   "url": "/notes/magnifica-humanitas-196-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 197",
+   "url": "/notes/magnifica-humanitas-197/",
+   "wc": 114
+  },
+  {
+   "id": "Magnifica Humanitas 197 (summary)",
+   "url": "/notes/magnifica-humanitas-197-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 198",
+   "url": "/notes/magnifica-humanitas-198/",
+   "wc": 195
+  },
+  {
+   "id": "Magnifica Humanitas 198 (summary)",
+   "url": "/notes/magnifica-humanitas-198-summary/",
+   "wc": 65
+  },
+  {
+   "id": "Magnifica Humanitas 199",
+   "url": "/notes/magnifica-humanitas-199/",
+   "wc": 164
+  },
+  {
+   "id": "Magnifica Humanitas 199 (summary)",
+   "url": "/notes/magnifica-humanitas-199-summary/",
+   "wc": 64
+  },
+  {
+   "id": "Magnifica Humanitas 2",
+   "url": "/notes/magnifica-humanitas-2/",
+   "wc": 180
+  },
+  {
+   "id": "Magnifica Humanitas 2 (summary)",
+   "url": "/notes/magnifica-humanitas-2-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 20",
+   "url": "/notes/magnifica-humanitas-20/",
+   "wc": 200
+  },
+  {
+   "id": "Magnifica Humanitas 20 (summary)",
+   "url": "/notes/magnifica-humanitas-20-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 200",
+   "url": "/notes/magnifica-humanitas-200/",
+   "wc": 109
+  },
+  {
+   "id": "Magnifica Humanitas 200 (summary)",
+   "url": "/notes/magnifica-humanitas-200-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 201",
+   "url": "/notes/magnifica-humanitas-201/",
+   "wc": 179
+  },
+  {
+   "id": "Magnifica Humanitas 201 (summary)",
+   "url": "/notes/magnifica-humanitas-201-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 202",
+   "url": "/notes/magnifica-humanitas-202/",
+   "wc": 116
+  },
+  {
+   "id": "Magnifica Humanitas 202 (summary)",
+   "url": "/notes/magnifica-humanitas-202-summary/",
+   "wc": 41
+  },
+  {
+   "id": "Magnifica Humanitas 203",
+   "url": "/notes/magnifica-humanitas-203/",
+   "wc": 88
+  },
+  {
+   "id": "Magnifica Humanitas 203 (summary)",
+   "url": "/notes/magnifica-humanitas-203-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 204",
+   "url": "/notes/magnifica-humanitas-204/",
+   "wc": 202
+  },
+  {
+   "id": "Magnifica Humanitas 204 (summary)",
+   "url": "/notes/magnifica-humanitas-204-summary/",
+   "wc": 61
+  },
+  {
+   "id": "Magnifica Humanitas 205",
+   "url": "/notes/magnifica-humanitas-205/",
+   "wc": 190
+  },
+  {
+   "id": "Magnifica Humanitas 205 (summary)",
+   "url": "/notes/magnifica-humanitas-205-summary/",
+   "wc": 64
+  },
+  {
+   "id": "Magnifica Humanitas 206",
+   "url": "/notes/magnifica-humanitas-206/",
+   "wc": 94
+  },
+  {
+   "id": "Magnifica Humanitas 206 (summary)",
+   "url": "/notes/magnifica-humanitas-206-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 207",
+   "url": "/notes/magnifica-humanitas-207/",
+   "wc": 130
+  },
+  {
+   "id": "Magnifica Humanitas 207 (summary)",
+   "url": "/notes/magnifica-humanitas-207-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 208",
+   "url": "/notes/magnifica-humanitas-208/",
+   "wc": 92
+  },
+  {
+   "id": "Magnifica Humanitas 208 (summary)",
+   "url": "/notes/magnifica-humanitas-208-summary/",
+   "wc": 41
+  },
+  {
+   "id": "Magnifica Humanitas 209",
+   "url": "/notes/magnifica-humanitas-209/",
+   "wc": 132
+  },
+  {
+   "id": "Magnifica Humanitas 209 (summary)",
+   "url": "/notes/magnifica-humanitas-209-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 21",
+   "url": "/notes/magnifica-humanitas-21/",
+   "wc": 245
+  },
+  {
+   "id": "Magnifica Humanitas 21 (summary)",
+   "url": "/notes/magnifica-humanitas-21-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 210",
+   "url": "/notes/magnifica-humanitas-210/",
+   "wc": 175
+  },
+  {
+   "id": "Magnifica Humanitas 210 (summary)",
+   "url": "/notes/magnifica-humanitas-210-summary/",
+   "wc": 64
+  },
+  {
+   "id": "Magnifica Humanitas 211",
+   "url": "/notes/magnifica-humanitas-211/",
+   "wc": 154
+  },
+  {
+   "id": "Magnifica Humanitas 211 (summary)",
+   "url": "/notes/magnifica-humanitas-211-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 212",
+   "url": "/notes/magnifica-humanitas-212/",
+   "wc": 151
+  },
+  {
+   "id": "Magnifica Humanitas 212 (summary)",
+   "url": "/notes/magnifica-humanitas-212-summary/",
+   "wc": 65
+  },
+  {
+   "id": "Magnifica Humanitas 213",
+   "url": "/notes/magnifica-humanitas-213/",
+   "wc": 185
+  },
+  {
+   "id": "Magnifica Humanitas 213 (summary)",
+   "url": "/notes/magnifica-humanitas-213-summary/",
+   "wc": 79
+  },
+  {
+   "id": "Magnifica Humanitas 214",
+   "url": "/notes/magnifica-humanitas-214/",
+   "wc": 175
+  },
+  {
+   "id": "Magnifica Humanitas 214 (summary)",
+   "url": "/notes/magnifica-humanitas-214-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 215",
+   "url": "/notes/magnifica-humanitas-215/",
+   "wc": 207
+  },
+  {
+   "id": "Magnifica Humanitas 215 (summary)",
+   "url": "/notes/magnifica-humanitas-215-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 216",
+   "url": "/notes/magnifica-humanitas-216/",
+   "wc": 137
+  },
+  {
+   "id": "Magnifica Humanitas 216 (summary)",
+   "url": "/notes/magnifica-humanitas-216-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 217",
+   "url": "/notes/magnifica-humanitas-217/",
+   "wc": 159
+  },
+  {
+   "id": "Magnifica Humanitas 217 (summary)",
+   "url": "/notes/magnifica-humanitas-217-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 218",
+   "url": "/notes/magnifica-humanitas-218/",
+   "wc": 161
+  },
+  {
+   "id": "Magnifica Humanitas 218 (summary)",
+   "url": "/notes/magnifica-humanitas-218-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 219",
+   "url": "/notes/magnifica-humanitas-219/",
+   "wc": 93
+  },
+  {
+   "id": "Magnifica Humanitas 219 (summary)",
+   "url": "/notes/magnifica-humanitas-219-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 22",
+   "url": "/notes/magnifica-humanitas-22/",
+   "wc": 265
+  },
+  {
+   "id": "Magnifica Humanitas 22 (summary)",
+   "url": "/notes/magnifica-humanitas-22-summary/",
+   "wc": 61
+  },
+  {
+   "id": "Magnifica Humanitas 220",
+   "url": "/notes/magnifica-humanitas-220/",
+   "wc": 80
+  },
+  {
+   "id": "Magnifica Humanitas 220 (summary)",
+   "url": "/notes/magnifica-humanitas-220-summary/",
+   "wc": 40
+  },
+  {
+   "id": "Magnifica Humanitas 221",
+   "url": "/notes/magnifica-humanitas-221/",
+   "wc": 110
+  },
+  {
+   "id": "Magnifica Humanitas 221 (summary)",
+   "url": "/notes/magnifica-humanitas-221-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 222",
+   "url": "/notes/magnifica-humanitas-222/",
+   "wc": 150
+  },
+  {
+   "id": "Magnifica Humanitas 222 (summary)",
+   "url": "/notes/magnifica-humanitas-222-summary/",
+   "wc": 61
+  },
+  {
+   "id": "Magnifica Humanitas 223",
+   "url": "/notes/magnifica-humanitas-223/",
+   "wc": 118
+  },
+  {
+   "id": "Magnifica Humanitas 223 (summary)",
+   "url": "/notes/magnifica-humanitas-223-summary/",
+   "wc": 62
+  },
+  {
+   "id": "Magnifica Humanitas 224",
+   "url": "/notes/magnifica-humanitas-224/",
+   "wc": 96
+  },
+  {
+   "id": "Magnifica Humanitas 224 (summary)",
+   "url": "/notes/magnifica-humanitas-224-summary/",
+   "wc": 40
+  },
+  {
+   "id": "Magnifica Humanitas 225",
+   "url": "/notes/magnifica-humanitas-225/",
+   "wc": 107
+  },
+  {
+   "id": "Magnifica Humanitas 225 (summary)",
+   "url": "/notes/magnifica-humanitas-225-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 226",
+   "url": "/notes/magnifica-humanitas-226/",
+   "wc": 152
+  },
+  {
+   "id": "Magnifica Humanitas 226 (summary)",
+   "url": "/notes/magnifica-humanitas-226-summary/",
+   "wc": 59
+  },
+  {
+   "id": "Magnifica Humanitas 227",
+   "url": "/notes/magnifica-humanitas-227/",
+   "wc": 111
+  },
+  {
+   "id": "Magnifica Humanitas 227 (summary)",
+   "url": "/notes/magnifica-humanitas-227-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 228",
+   "url": "/notes/magnifica-humanitas-228/",
+   "wc": 134
+  },
+  {
+   "id": "Magnifica Humanitas 228 (summary)",
+   "url": "/notes/magnifica-humanitas-228-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 229",
+   "url": "/notes/magnifica-humanitas-229/",
+   "wc": 131
+  },
+  {
+   "id": "Magnifica Humanitas 229 (summary)",
+   "url": "/notes/magnifica-humanitas-229-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 23",
+   "url": "/notes/magnifica-humanitas-23/",
+   "wc": 261
+  },
+  {
+   "id": "Magnifica Humanitas 23 (summary)",
+   "url": "/notes/magnifica-humanitas-23-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 230",
+   "url": "/notes/magnifica-humanitas-230/",
+   "wc": 109
+  },
+  {
+   "id": "Magnifica Humanitas 230 (summary)",
+   "url": "/notes/magnifica-humanitas-230-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 231",
+   "url": "/notes/magnifica-humanitas-231/",
+   "wc": 162
+  },
+  {
+   "id": "Magnifica Humanitas 231 (summary)",
+   "url": "/notes/magnifica-humanitas-231-summary/",
+   "wc": 61
+  },
+  {
+   "id": "Magnifica Humanitas 232",
+   "url": "/notes/magnifica-humanitas-232/",
+   "wc": 270
+  },
+  {
+   "id": "Magnifica Humanitas 232 (summary)",
+   "url": "/notes/magnifica-humanitas-232-summary/",
+   "wc": 67
+  },
+  {
+   "id": "Magnifica Humanitas 233",
+   "url": "/notes/magnifica-humanitas-233/",
+   "wc": 230
+  },
+  {
+   "id": "Magnifica Humanitas 233 (summary)",
+   "url": "/notes/magnifica-humanitas-233-summary/",
+   "wc": 68
+  },
+  {
+   "id": "Magnifica Humanitas 234",
+   "url": "/notes/magnifica-humanitas-234/",
+   "wc": 253
+  },
+  {
+   "id": "Magnifica Humanitas 234 (summary)",
+   "url": "/notes/magnifica-humanitas-234-summary/",
+   "wc": 58
+  },
+  {
+   "id": "Magnifica Humanitas 235",
+   "url": "/notes/magnifica-humanitas-235/",
+   "wc": 164
+  },
+  {
+   "id": "Magnifica Humanitas 235 (summary)",
+   "url": "/notes/magnifica-humanitas-235-summary/",
+   "wc": 64
+  },
+  {
+   "id": "Magnifica Humanitas 236",
+   "url": "/notes/magnifica-humanitas-236/",
+   "wc": 186
+  },
+  {
+   "id": "Magnifica Humanitas 236 (summary)",
+   "url": "/notes/magnifica-humanitas-236-summary/",
+   "wc": 66
+  },
+  {
+   "id": "Magnifica Humanitas 237",
+   "url": "/notes/magnifica-humanitas-237/",
+   "wc": 188
+  },
+  {
+   "id": "Magnifica Humanitas 237 (summary)",
+   "url": "/notes/magnifica-humanitas-237-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 238",
+   "url": "/notes/magnifica-humanitas-238/",
+   "wc": 176
+  },
+  {
+   "id": "Magnifica Humanitas 238 (summary)",
+   "url": "/notes/magnifica-humanitas-238-summary/",
+   "wc": 60
+  },
+  {
+   "id": "Magnifica Humanitas 239",
+   "url": "/notes/magnifica-humanitas-239/",
+   "wc": 142
+  },
+  {
+   "id": "Magnifica Humanitas 239 (summary)",
+   "url": "/notes/magnifica-humanitas-239-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 24",
+   "url": "/notes/magnifica-humanitas-24/",
+   "wc": 162
+  },
+  {
+   "id": "Magnifica Humanitas 24 (summary)",
+   "url": "/notes/magnifica-humanitas-24-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 240",
+   "url": "/notes/magnifica-humanitas-240/",
+   "wc": 182
+  },
+  {
+   "id": "Magnifica Humanitas 240 (summary)",
+   "url": "/notes/magnifica-humanitas-240-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 241",
+   "url": "/notes/magnifica-humanitas-241/",
+   "wc": 193
+  },
+  {
+   "id": "Magnifica Humanitas 241 (summary)",
+   "url": "/notes/magnifica-humanitas-241-summary/",
+   "wc": 73
+  },
+  {
+   "id": "Magnifica Humanitas 242",
+   "url": "/notes/magnifica-humanitas-242/",
+   "wc": 169
+  },
+  {
+   "id": "Magnifica Humanitas 242 (summary)",
+   "url": "/notes/magnifica-humanitas-242-summary/",
+   "wc": 68
+  },
+  {
+   "id": "Magnifica Humanitas 243",
+   "url": "/notes/magnifica-humanitas-243/",
+   "wc": 246
+  },
+  {
+   "id": "Magnifica Humanitas 243 (summary)",
+   "url": "/notes/magnifica-humanitas-243-summary/",
+   "wc": 78
+  },
+  {
+   "id": "Magnifica Humanitas 244",
+   "url": "/notes/magnifica-humanitas-244/",
+   "wc": 175
+  },
+  {
+   "id": "Magnifica Humanitas 244 (summary)",
+   "url": "/notes/magnifica-humanitas-244-summary/",
+   "wc": 61
+  },
+  {
+   "id": "Magnifica Humanitas 245",
+   "url": "/notes/magnifica-humanitas-245/",
+   "wc": 156
+  },
+  {
+   "id": "Magnifica Humanitas 245 (summary)",
+   "url": "/notes/magnifica-humanitas-245-summary/",
+   "wc": 106
+  },
+  {
+   "id": "Magnifica Humanitas 25",
+   "url": "/notes/magnifica-humanitas-25/",
+   "wc": 241
+  },
+  {
+   "id": "Magnifica Humanitas 25 (summary)",
+   "url": "/notes/magnifica-humanitas-25-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 26",
+   "url": "/notes/magnifica-humanitas-26/",
+   "wc": 243
+  },
+  {
+   "id": "Magnifica Humanitas 26 (summary)",
+   "url": "/notes/magnifica-humanitas-26-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 27",
+   "url": "/notes/magnifica-humanitas-27/",
+   "wc": 181
+  },
+  {
+   "id": "Magnifica Humanitas 27 (summary)",
+   "url": "/notes/magnifica-humanitas-27-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 28",
+   "url": "/notes/magnifica-humanitas-28/",
+   "wc": 203
+  },
+  {
+   "id": "Magnifica Humanitas 28 (summary)",
+   "url": "/notes/magnifica-humanitas-28-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 29",
+   "url": "/notes/magnifica-humanitas-29/",
+   "wc": 265
+  },
+  {
+   "id": "Magnifica Humanitas 29 (summary)",
+   "url": "/notes/magnifica-humanitas-29-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 3",
+   "url": "/notes/magnifica-humanitas-3/",
+   "wc": 261
+  },
+  {
+   "id": "Magnifica Humanitas 3 (summary)",
+   "url": "/notes/magnifica-humanitas-3-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 30",
+   "url": "/notes/magnifica-humanitas-30/",
+   "wc": 255
+  },
+  {
+   "id": "Magnifica Humanitas 30 (summary)",
+   "url": "/notes/magnifica-humanitas-30-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 31",
+   "url": "/notes/magnifica-humanitas-31/",
+   "wc": 310
+  },
+  {
+   "id": "Magnifica Humanitas 31 (summary)",
+   "url": "/notes/magnifica-humanitas-31-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 32",
+   "url": "/notes/magnifica-humanitas-32/",
+   "wc": 330
+  },
+  {
+   "id": "Magnifica Humanitas 32 (summary)",
+   "url": "/notes/magnifica-humanitas-32-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 33",
+   "url": "/notes/magnifica-humanitas-33/",
+   "wc": 286
+  },
+  {
+   "id": "Magnifica Humanitas 33 (summary)",
+   "url": "/notes/magnifica-humanitas-33-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 34",
+   "url": "/notes/magnifica-humanitas-34/",
+   "wc": 288
+  },
+  {
+   "id": "Magnifica Humanitas 34 (summary)",
+   "url": "/notes/magnifica-humanitas-34-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 35",
+   "url": "/notes/magnifica-humanitas-35/",
+   "wc": 186
+  },
+  {
+   "id": "Magnifica Humanitas 35 (summary)",
+   "url": "/notes/magnifica-humanitas-35-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 36",
+   "url": "/notes/magnifica-humanitas-36/",
+   "wc": 235
+  },
+  {
+   "id": "Magnifica Humanitas 36 (summary)",
+   "url": "/notes/magnifica-humanitas-36-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 37",
+   "url": "/notes/magnifica-humanitas-37/",
+   "wc": 205
+  },
+  {
+   "id": "Magnifica Humanitas 37 (summary)",
+   "url": "/notes/magnifica-humanitas-37-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 38",
+   "url": "/notes/magnifica-humanitas-38/",
+   "wc": 141
+  },
+  {
+   "id": "Magnifica Humanitas 38 (summary)",
+   "url": "/notes/magnifica-humanitas-38-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 39",
+   "url": "/notes/magnifica-humanitas-39/",
+   "wc": 178
+  },
+  {
+   "id": "Magnifica Humanitas 39 (summary)",
+   "url": "/notes/magnifica-humanitas-39-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 4",
+   "url": "/notes/magnifica-humanitas-4/",
+   "wc": 235
+  },
+  {
+   "id": "Magnifica Humanitas 4 (summary)",
+   "url": "/notes/magnifica-humanitas-4-summary/",
+   "wc": 57
+  },
+  {
+   "id": "Magnifica Humanitas 40",
+   "url": "/notes/magnifica-humanitas-40/",
+   "wc": 184
+  },
+  {
+   "id": "Magnifica Humanitas 40 (summary)",
+   "url": "/notes/magnifica-humanitas-40-summary/",
+   "wc": 40
+  },
+  {
+   "id": "Magnifica Humanitas 41",
+   "url": "/notes/magnifica-humanitas-41/",
+   "wc": 162
+  },
+  {
+   "id": "Magnifica Humanitas 41 (summary)",
+   "url": "/notes/magnifica-humanitas-41-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 42",
+   "url": "/notes/magnifica-humanitas-42/",
+   "wc": 134
+  },
+  {
+   "id": "Magnifica Humanitas 42 (summary)",
+   "url": "/notes/magnifica-humanitas-42-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 43",
+   "url": "/notes/magnifica-humanitas-43/",
+   "wc": 153
+  },
+  {
+   "id": "Magnifica Humanitas 43 (summary)",
+   "url": "/notes/magnifica-humanitas-43-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 44",
+   "url": "/notes/magnifica-humanitas-44/",
+   "wc": 149
+  },
+  {
+   "id": "Magnifica Humanitas 44 (summary)",
+   "url": "/notes/magnifica-humanitas-44-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 45",
+   "url": "/notes/magnifica-humanitas-45/",
+   "wc": 237
+  },
+  {
+   "id": "Magnifica Humanitas 45 (summary)",
+   "url": "/notes/magnifica-humanitas-45-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 46",
+   "url": "/notes/magnifica-humanitas-46/",
+   "wc": 173
+  },
+  {
+   "id": "Magnifica Humanitas 46 (summary)",
+   "url": "/notes/magnifica-humanitas-46-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 47",
+   "url": "/notes/magnifica-humanitas-47/",
+   "wc": 153
+  },
+  {
+   "id": "Magnifica Humanitas 47 (summary)",
+   "url": "/notes/magnifica-humanitas-47-summary/",
+   "wc": 43
+  },
+  {
+   "id": "Magnifica Humanitas 48",
+   "url": "/notes/magnifica-humanitas-48/",
+   "wc": 103
+  },
+  {
+   "id": "Magnifica Humanitas 48 (summary)",
+   "url": "/notes/magnifica-humanitas-48-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 49",
+   "url": "/notes/magnifica-humanitas-49/",
+   "wc": 179
+  },
+  {
+   "id": "Magnifica Humanitas 49 (summary)",
+   "url": "/notes/magnifica-humanitas-49-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 5",
+   "url": "/notes/magnifica-humanitas-5/",
+   "wc": 195
+  },
+  {
+   "id": "Magnifica Humanitas 5 (summary)",
+   "url": "/notes/magnifica-humanitas-5-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 50",
+   "url": "/notes/magnifica-humanitas-50/",
+   "wc": 134
+  },
+  {
+   "id": "Magnifica Humanitas 50 (summary)",
+   "url": "/notes/magnifica-humanitas-50-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 51",
+   "url": "/notes/magnifica-humanitas-51/",
+   "wc": 233
+  },
+  {
+   "id": "Magnifica Humanitas 51 (summary)",
+   "url": "/notes/magnifica-humanitas-51-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 52",
+   "url": "/notes/magnifica-humanitas-52/",
+   "wc": 167
+  },
+  {
+   "id": "Magnifica Humanitas 52 (summary)",
+   "url": "/notes/magnifica-humanitas-52-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 53",
+   "url": "/notes/magnifica-humanitas-53/",
+   "wc": 144
+  },
+  {
+   "id": "Magnifica Humanitas 53 (summary)",
+   "url": "/notes/magnifica-humanitas-53-summary/",
+   "wc": 39
+  },
+  {
+   "id": "Magnifica Humanitas 54",
+   "url": "/notes/magnifica-humanitas-54/",
+   "wc": 127
+  },
+  {
+   "id": "Magnifica Humanitas 54 (summary)",
+   "url": "/notes/magnifica-humanitas-54-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 55",
+   "url": "/notes/magnifica-humanitas-55/",
+   "wc": 145
+  },
+  {
+   "id": "Magnifica Humanitas 55 (summary)",
+   "url": "/notes/magnifica-humanitas-55-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 56",
+   "url": "/notes/magnifica-humanitas-56/",
+   "wc": 176
+  },
+  {
+   "id": "Magnifica Humanitas 56 (summary)",
+   "url": "/notes/magnifica-humanitas-56-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 57",
+   "url": "/notes/magnifica-humanitas-57/",
+   "wc": 160
+  },
+  {
+   "id": "Magnifica Humanitas 57 (summary)",
+   "url": "/notes/magnifica-humanitas-57-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 58",
+   "url": "/notes/magnifica-humanitas-58/",
+   "wc": 87
+  },
+  {
+   "id": "Magnifica Humanitas 58 (summary)",
+   "url": "/notes/magnifica-humanitas-58-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 59",
+   "url": "/notes/magnifica-humanitas-59/",
+   "wc": 144
+  },
+  {
+   "id": "Magnifica Humanitas 59 (summary)",
+   "url": "/notes/magnifica-humanitas-59-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 6",
+   "url": "/notes/magnifica-humanitas-6/",
+   "wc": 145
+  },
+  {
+   "id": "Magnifica Humanitas 6 (summary)",
+   "url": "/notes/magnifica-humanitas-6-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 60",
+   "url": "/notes/magnifica-humanitas-60/",
+   "wc": 141
+  },
+  {
+   "id": "Magnifica Humanitas 60 (summary)",
+   "url": "/notes/magnifica-humanitas-60-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 61",
+   "url": "/notes/magnifica-humanitas-61/",
+   "wc": 161
+  },
+  {
+   "id": "Magnifica Humanitas 61 (summary)",
+   "url": "/notes/magnifica-humanitas-61-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 62",
+   "url": "/notes/magnifica-humanitas-62/",
+   "wc": 163
+  },
+  {
+   "id": "Magnifica Humanitas 62 (summary)",
+   "url": "/notes/magnifica-humanitas-62-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 63",
+   "url": "/notes/magnifica-humanitas-63/",
+   "wc": 110
+  },
+  {
+   "id": "Magnifica Humanitas 63 (summary)",
+   "url": "/notes/magnifica-humanitas-63-summary/",
+   "wc": 43
+  },
+  {
+   "id": "Magnifica Humanitas 64",
+   "url": "/notes/magnifica-humanitas-64/",
+   "wc": 159
+  },
+  {
+   "id": "Magnifica Humanitas 64 (summary)",
+   "url": "/notes/magnifica-humanitas-64-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 65",
+   "url": "/notes/magnifica-humanitas-65/",
+   "wc": 162
+  },
+  {
+   "id": "Magnifica Humanitas 65 (summary)",
+   "url": "/notes/magnifica-humanitas-65-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 66",
+   "url": "/notes/magnifica-humanitas-66/",
+   "wc": 160
+  },
+  {
+   "id": "Magnifica Humanitas 66 (summary)",
+   "url": "/notes/magnifica-humanitas-66-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 67",
+   "url": "/notes/magnifica-humanitas-67/",
+   "wc": 160
+  },
+  {
+   "id": "Magnifica Humanitas 67 (summary)",
+   "url": "/notes/magnifica-humanitas-67-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 68",
+   "url": "/notes/magnifica-humanitas-68/",
+   "wc": 129
+  },
+  {
+   "id": "Magnifica Humanitas 68 (summary)",
+   "url": "/notes/magnifica-humanitas-68-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 69",
+   "url": "/notes/magnifica-humanitas-69/",
+   "wc": 164
+  },
+  {
+   "id": "Magnifica Humanitas 69 (summary)",
+   "url": "/notes/magnifica-humanitas-69-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 7",
+   "url": "/notes/magnifica-humanitas-7/",
+   "wc": 235
+  },
+  {
+   "id": "Magnifica Humanitas 7 (summary)",
+   "url": "/notes/magnifica-humanitas-7-summary/",
+   "wc": 59
+  },
+  {
+   "id": "Magnifica Humanitas 70",
+   "url": "/notes/magnifica-humanitas-70/",
+   "wc": 151
+  },
+  {
+   "id": "Magnifica Humanitas 70 (summary)",
+   "url": "/notes/magnifica-humanitas-70-summary/",
+   "wc": 41
+  },
+  {
+   "id": "Magnifica Humanitas 71",
+   "url": "/notes/magnifica-humanitas-71/",
+   "wc": 126
+  },
+  {
+   "id": "Magnifica Humanitas 71 (summary)",
+   "url": "/notes/magnifica-humanitas-71-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 72",
+   "url": "/notes/magnifica-humanitas-72/",
+   "wc": 124
+  },
+  {
+   "id": "Magnifica Humanitas 72 (summary)",
+   "url": "/notes/magnifica-humanitas-72-summary/",
+   "wc": 45
+  },
+  {
+   "id": "Magnifica Humanitas 73",
+   "url": "/notes/magnifica-humanitas-73/",
+   "wc": 254
+  },
+  {
+   "id": "Magnifica Humanitas 73 (summary)",
+   "url": "/notes/magnifica-humanitas-73-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 74",
+   "url": "/notes/magnifica-humanitas-74/",
+   "wc": 169
+  },
+  {
+   "id": "Magnifica Humanitas 74 (summary)",
+   "url": "/notes/magnifica-humanitas-74-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 75",
+   "url": "/notes/magnifica-humanitas-75/",
+   "wc": 158
+  },
+  {
+   "id": "Magnifica Humanitas 75 (summary)",
+   "url": "/notes/magnifica-humanitas-75-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 76",
+   "url": "/notes/magnifica-humanitas-76/",
+   "wc": 126
+  },
+  {
+   "id": "Magnifica Humanitas 76 (summary)",
+   "url": "/notes/magnifica-humanitas-76-summary/",
+   "wc": 48
+  },
+  {
+   "id": "Magnifica Humanitas 77",
+   "url": "/notes/magnifica-humanitas-77/",
+   "wc": 181
+  },
+  {
+   "id": "Magnifica Humanitas 77 (summary)",
+   "url": "/notes/magnifica-humanitas-77-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 78",
+   "url": "/notes/magnifica-humanitas-78/",
+   "wc": 95
+  },
+  {
+   "id": "Magnifica Humanitas 78 (summary)",
+   "url": "/notes/magnifica-humanitas-78-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 79",
+   "url": "/notes/magnifica-humanitas-79/",
+   "wc": 173
+  },
+  {
+   "id": "Magnifica Humanitas 79 (summary)",
+   "url": "/notes/magnifica-humanitas-79-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 8",
+   "url": "/notes/magnifica-humanitas-8/",
+   "wc": 232
+  },
+  {
+   "id": "Magnifica Humanitas 8 (summary)",
+   "url": "/notes/magnifica-humanitas-8-summary/",
+   "wc": 56
+  },
+  {
+   "id": "Magnifica Humanitas 80",
+   "url": "/notes/magnifica-humanitas-80/",
+   "wc": 150
+  },
+  {
+   "id": "Magnifica Humanitas 80 (summary)",
+   "url": "/notes/magnifica-humanitas-80-summary/",
+   "wc": 46
+  },
+  {
+   "id": "Magnifica Humanitas 81",
+   "url": "/notes/magnifica-humanitas-81/",
+   "wc": 214
+  },
+  {
+   "id": "Magnifica Humanitas 81 (summary)",
+   "url": "/notes/magnifica-humanitas-81-summary/",
+   "wc": 54
+  },
+  {
+   "id": "Magnifica Humanitas 82",
+   "url": "/notes/magnifica-humanitas-82/",
+   "wc": 122
+  },
+  {
+   "id": "Magnifica Humanitas 82 (summary)",
+   "url": "/notes/magnifica-humanitas-82-summary/",
+   "wc": 43
+  },
+  {
+   "id": "Magnifica Humanitas 83",
+   "url": "/notes/magnifica-humanitas-83/",
+   "wc": 175
+  },
+  {
+   "id": "Magnifica Humanitas 83 (summary)",
+   "url": "/notes/magnifica-humanitas-83-summary/",
+   "wc": 49
+  },
+  {
+   "id": "Magnifica Humanitas 84",
+   "url": "/notes/magnifica-humanitas-84/",
+   "wc": 114
+  },
+  {
+   "id": "Magnifica Humanitas 84 (summary)",
+   "url": "/notes/magnifica-humanitas-84-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 85",
+   "url": "/notes/magnifica-humanitas-85/",
+   "wc": 118
+  },
+  {
+   "id": "Magnifica Humanitas 85 (summary)",
+   "url": "/notes/magnifica-humanitas-85-summary/",
+   "wc": 47
+  },
+  {
+   "id": "Magnifica Humanitas 86",
+   "url": "/notes/magnifica-humanitas-86/",
+   "wc": 142
+  },
+  {
+   "id": "Magnifica Humanitas 86 (summary)",
+   "url": "/notes/magnifica-humanitas-86-summary/",
+   "wc": 42
+  },
+  {
+   "id": "Magnifica Humanitas 87",
+   "url": "/notes/magnifica-humanitas-87/",
+   "wc": 83
+  },
+  {
+   "id": "Magnifica Humanitas 87 (summary)",
+   "url": "/notes/magnifica-humanitas-87-summary/",
+   "wc": 39
+  },
+  {
+   "id": "Magnifica Humanitas 88",
+   "url": "/notes/magnifica-humanitas-88/",
+   "wc": 126
+  },
+  {
+   "id": "Magnifica Humanitas 88 (summary)",
+   "url": "/notes/magnifica-humanitas-88-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 89",
+   "url": "/notes/magnifica-humanitas-89/",
+   "wc": 264
+  },
+  {
+   "id": "Magnifica Humanitas 89 (summary)",
+   "url": "/notes/magnifica-humanitas-89-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 9",
+   "url": "/notes/magnifica-humanitas-9/",
+   "wc": 165
+  },
+  {
+   "id": "Magnifica Humanitas 9 (summary)",
+   "url": "/notes/magnifica-humanitas-9-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 90",
+   "url": "/notes/magnifica-humanitas-90/",
+   "wc": 195
+  },
+  {
+   "id": "Magnifica Humanitas 90 (summary)",
+   "url": "/notes/magnifica-humanitas-90-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 91",
+   "url": "/notes/magnifica-humanitas-91/",
+   "wc": 132
+  },
+  {
+   "id": "Magnifica Humanitas 91 (summary)",
+   "url": "/notes/magnifica-humanitas-91-summary/",
+   "wc": 53
+  },
+  {
+   "id": "Magnifica Humanitas 92",
+   "url": "/notes/magnifica-humanitas-92/",
+   "wc": 100
+  },
+  {
+   "id": "Magnifica Humanitas 92 (summary)",
+   "url": "/notes/magnifica-humanitas-92-summary/",
+   "wc": 44
+  },
+  {
+   "id": "Magnifica Humanitas 93",
+   "url": "/notes/magnifica-humanitas-93/",
+   "wc": 104
+  },
+  {
+   "id": "Magnifica Humanitas 93 (summary)",
+   "url": "/notes/magnifica-humanitas-93-summary/",
+   "wc": 55
+  },
+  {
+   "id": "Magnifica Humanitas 94",
+   "url": "/notes/magnifica-humanitas-94/",
+   "wc": 138
+  },
+  {
+   "id": "Magnifica Humanitas 94 (summary)",
+   "url": "/notes/magnifica-humanitas-94-summary/",
+   "wc": 43
+  },
+  {
+   "id": "Magnifica Humanitas 95",
+   "url": "/notes/magnifica-humanitas-95/",
+   "wc": 107
+  },
+  {
+   "id": "Magnifica Humanitas 95 (summary)",
+   "url": "/notes/magnifica-humanitas-95-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 96",
+   "url": "/notes/magnifica-humanitas-96/",
+   "wc": 114
+  },
+  {
+   "id": "Magnifica Humanitas 96 (summary)",
+   "url": "/notes/magnifica-humanitas-96-summary/",
+   "wc": 50
+  },
+  {
+   "id": "Magnifica Humanitas 97",
+   "url": "/notes/magnifica-humanitas-97/",
+   "wc": 94
+  },
+  {
+   "id": "Magnifica Humanitas 97 (summary)",
+   "url": "/notes/magnifica-humanitas-97-summary/",
+   "wc": 52
+  },
+  {
+   "id": "Magnifica Humanitas 98",
+   "url": "/notes/magnifica-humanitas-98/",
+   "wc": 136
+  },
+  {
+   "id": "Magnifica Humanitas 98 (summary)",
+   "url": "/notes/magnifica-humanitas-98-summary/",
+   "wc": 51
+  },
+  {
+   "id": "Magnifica Humanitas 99",
+   "url": "/notes/magnifica-humanitas-99/",
+   "wc": 254
+  },
+  {
+   "id": "Magnifica Humanitas 99 (summary)",
+   "url": "/notes/magnifica-humanitas-99-summary/",
+   "wc": 53
+  },
+  {
+   "id": "more choices, less autonomy",
+   "url": "/notes/more-choices-less-autonomy/",
+   "wc": 51
+  }
+ ],
+ "links": [
+  {
+   "source": 0,
+   "target": 2
+  },
+  {
+   "source": 1,
+   "target": 2
+  },
+  {
+   "source": 1,
+   "target": 493
+  },
+  {
+   "source": 3,
+   "target": 4
+  },
+  {
+   "source": 3,
+   "target": 225
+  },
+  {
+   "source": 4,
+   "target": 226
+  },
+  {
+   "source": 5,
+   "target": 6
+  },
+  {
+   "source": 5,
+   "target": 27
+  },
+  {
+   "source": 5,
+   "target": 471
+  },
+  {
+   "source": 6,
+   "target": 28
+  },
+  {
+   "source": 6,
+   "target": 472
+  },
+  {
+   "source": 7,
+   "target": 8
+  },
+  {
+   "source": 7,
+   "target": 9
+  },
+  {
+   "source": 7,
+   "target": 491
+  },
+  {
+   "source": 8,
+   "target": 10
+  },
+  {
+   "source": 8,
+   "target": 492
+  },
+  {
+   "source": 9,
+   "target": 10
+  },
+  {
+   "source": 9,
+   "target": 11
+  },
+  {
+   "source": 10,
+   "target": 12
+  },
+  {
+   "source": 11,
+   "target": 12
+  },
+  {
+   "source": 11,
+   "target": 13
+  },
+  {
+   "source": 12,
+   "target": 14
+  },
+  {
+   "source": 13,
+   "target": 14
+  },
+  {
+   "source": 13,
+   "target": 15
+  },
+  {
+   "source": 14,
+   "target": 16
+  },
+  {
+   "source": 15,
+   "target": 16
+  },
+  {
+   "source": 15,
+   "target": 17
+  },
+  {
+   "source": 16,
+   "target": 18
+  },
+  {
+   "source": 17,
+   "target": 18
+  },
+  {
+   "source": 17,
+   "target": 19
+  },
+  {
+   "source": 18,
+   "target": 20
+  },
+  {
+   "source": 19,
+   "target": 20
+  },
+  {
+   "source": 19,
+   "target": 21
+  },
+  {
+   "source": 20,
+   "target": 22
+  },
+  {
+   "source": 21,
+   "target": 22
+  },
+  {
+   "source": 21,
+   "target": 23
+  },
+  {
+   "source": 22,
+   "target": 24
+  },
+  {
+   "source": 23,
+   "target": 24
+  },
+  {
+   "source": 23,
+   "target": 25
+  },
+  {
+   "source": 24,
+   "target": 26
+  },
+  {
+   "source": 25,
+   "target": 26
+  },
+  {
+   "source": 25,
+   "target": 29
+  },
+  {
+   "source": 26,
+   "target": 30
+  },
+  {
+   "source": 27,
+   "target": 28
+  },
+  {
+   "source": 27,
+   "target": 49
+  },
+  {
+   "source": 28,
+   "target": 50
+  },
+  {
+   "source": 29,
+   "target": 30
+  },
+  {
+   "source": 29,
+   "target": 31
+  },
+  {
+   "source": 30,
+   "target": 32
+  },
+  {
+   "source": 31,
+   "target": 32
+  },
+  {
+   "source": 31,
+   "target": 33
+  },
+  {
+   "source": 32,
+   "target": 34
+  },
+  {
+   "source": 33,
+   "target": 34
+  },
+  {
+   "source": 33,
+   "target": 35
+  },
+  {
+   "source": 34,
+   "target": 36
+  },
+  {
+   "source": 35,
+   "target": 36
+  },
+  {
+   "source": 35,
+   "target": 37
+  },
+  {
+   "source": 36,
+   "target": 38
+  },
+  {
+   "source": 37,
+   "target": 38
+  },
+  {
+   "source": 37,
+   "target": 39
+  },
+  {
+   "source": 38,
+   "target": 40
+  },
+  {
+   "source": 39,
+   "target": 40
+  },
+  {
+   "source": 39,
+   "target": 41
+  },
+  {
+   "source": 40,
+   "target": 42
+  },
+  {
+   "source": 41,
+   "target": 42
+  },
+  {
+   "source": 41,
+   "target": 43
+  },
+  {
+   "source": 42,
+   "target": 44
+  },
+  {
+   "source": 43,
+   "target": 44
+  },
+  {
+   "source": 43,
+   "target": 45
+  },
+  {
+   "source": 44,
+   "target": 46
+  },
+  {
+   "source": 45,
+   "target": 46
+  },
+  {
+   "source": 45,
+   "target": 47
+  },
+  {
+   "source": 46,
+   "target": 48
+  },
+  {
+   "source": 47,
+   "target": 48
+  },
+  {
+   "source": 47,
+   "target": 51
+  },
+  {
+   "source": 48,
+   "target": 52
+  },
+  {
+   "source": 49,
+   "target": 50
+  },
+  {
+   "source": 49,
+   "target": 71
+  },
+  {
+   "source": 50,
+   "target": 72
+  },
+  {
+   "source": 51,
+   "target": 52
+  },
+  {
+   "source": 51,
+   "target": 53
+  },
+  {
+   "source": 52,
+   "target": 54
+  },
+  {
+   "source": 53,
+   "target": 54
+  },
+  {
+   "source": 53,
+   "target": 55
+  },
+  {
+   "source": 54,
+   "target": 56
+  },
+  {
+   "source": 55,
+   "target": 56
+  },
+  {
+   "source": 55,
+   "target": 57
+  },
+  {
+   "source": 56,
+   "target": 58
+  },
+  {
+   "source": 57,
+   "target": 58
+  },
+  {
+   "source": 57,
+   "target": 59
+  },
+  {
+   "source": 58,
+   "target": 60
+  },
+  {
+   "source": 59,
+   "target": 60
+  },
+  {
+   "source": 59,
+   "target": 61
+  },
+  {
+   "source": 60,
+   "target": 62
+  },
+  {
+   "source": 61,
+   "target": 62
+  },
+  {
+   "source": 61,
+   "target": 63
+  },
+  {
+   "source": 62,
+   "target": 64
+  },
+  {
+   "source": 63,
+   "target": 64
+  },
+  {
+   "source": 63,
+   "target": 65
+  },
+  {
+   "source": 64,
+   "target": 66
+  },
+  {
+   "source": 65,
+   "target": 66
+  },
+  {
+   "source": 65,
+   "target": 67
+  },
+  {
+   "source": 66,
+   "target": 68
+  },
+  {
+   "source": 67,
+   "target": 68
+  },
+  {
+   "source": 67,
+   "target": 69
+  },
+  {
+   "source": 68,
+   "target": 70
+  },
+  {
+   "source": 69,
+   "target": 70
+  },
+  {
+   "source": 69,
+   "target": 73
+  },
+  {
+   "source": 70,
+   "target": 74
+  },
+  {
+   "source": 71,
+   "target": 72
+  },
+  {
+   "source": 71,
+   "target": 93
+  },
+  {
+   "source": 72,
+   "target": 94
+  },
+  {
+   "source": 73,
+   "target": 74
+  },
+  {
+   "source": 73,
+   "target": 75
+  },
+  {
+   "source": 74,
+   "target": 76
+  },
+  {
+   "source": 75,
+   "target": 76
+  },
+  {
+   "source": 75,
+   "target": 77
+  },
+  {
+   "source": 76,
+   "target": 78
+  },
+  {
+   "source": 77,
+   "target": 78
+  },
+  {
+   "source": 77,
+   "target": 79
+  },
+  {
+   "source": 78,
+   "target": 80
+  },
+  {
+   "source": 79,
+   "target": 80
+  },
+  {
+   "source": 79,
+   "target": 81
+  },
+  {
+   "source": 80,
+   "target": 82
+  },
+  {
+   "source": 81,
+   "target": 82
+  },
+  {
+   "source": 81,
+   "target": 83
+  },
+  {
+   "source": 82,
+   "target": 84
+  },
+  {
+   "source": 83,
+   "target": 84
+  },
+  {
+   "source": 83,
+   "target": 85
+  },
+  {
+   "source": 84,
+   "target": 86
+  },
+  {
+   "source": 85,
+   "target": 86
+  },
+  {
+   "source": 85,
+   "target": 87
+  },
+  {
+   "source": 86,
+   "target": 88
+  },
+  {
+   "source": 87,
+   "target": 88
+  },
+  {
+   "source": 87,
+   "target": 89
+  },
+  {
+   "source": 88,
+   "target": 90
+  },
+  {
+   "source": 89,
+   "target": 90
+  },
+  {
+   "source": 89,
+   "target": 91
+  },
+  {
+   "source": 90,
+   "target": 92
+  },
+  {
+   "source": 91,
+   "target": 92
+  },
+  {
+   "source": 91,
+   "target": 95
+  },
+  {
+   "source": 92,
+   "target": 96
+  },
+  {
+   "source": 93,
+   "target": 94
+  },
+  {
+   "source": 93,
+   "target": 115
+  },
+  {
+   "source": 94,
+   "target": 116
+  },
+  {
+   "source": 95,
+   "target": 96
+  },
+  {
+   "source": 95,
+   "target": 97
+  },
+  {
+   "source": 96,
+   "target": 98
+  },
+  {
+   "source": 97,
+   "target": 98
+  },
+  {
+   "source": 97,
+   "target": 99
+  },
+  {
+   "source": 98,
+   "target": 100
+  },
+  {
+   "source": 99,
+   "target": 100
+  },
+  {
+   "source": 99,
+   "target": 101
+  },
+  {
+   "source": 100,
+   "target": 102
+  },
+  {
+   "source": 101,
+   "target": 102
+  },
+  {
+   "source": 101,
+   "target": 103
+  },
+  {
+   "source": 102,
+   "target": 104
+  },
+  {
+   "source": 103,
+   "target": 104
+  },
+  {
+   "source": 103,
+   "target": 105
+  },
+  {
+   "source": 104,
+   "target": 106
+  },
+  {
+   "source": 105,
+   "target": 106
+  },
+  {
+   "source": 105,
+   "target": 107
+  },
+  {
+   "source": 106,
+   "target": 108
+  },
+  {
+   "source": 107,
+   "target": 108
+  },
+  {
+   "source": 107,
+   "target": 109
+  },
+  {
+   "source": 108,
+   "target": 110
+  },
+  {
+   "source": 109,
+   "target": 110
+  },
+  {
+   "source": 109,
+   "target": 111
+  },
+  {
+   "source": 110,
+   "target": 112
+  },
+  {
+   "source": 111,
+   "target": 112
+  },
+  {
+   "source": 111,
+   "target": 113
+  },
+  {
+   "source": 112,
+   "target": 114
+  },
+  {
+   "source": 113,
+   "target": 114
+  },
+  {
+   "source": 113,
+   "target": 117
+  },
+  {
+   "source": 114,
+   "target": 118
+  },
+  {
+   "source": 115,
+   "target": 116
+  },
+  {
+   "source": 115,
+   "target": 137
+  },
+  {
+   "source": 116,
+   "target": 138
+  },
+  {
+   "source": 117,
+   "target": 118
+  },
+  {
+   "source": 117,
+   "target": 119
+  },
+  {
+   "source": 118,
+   "target": 120
+  },
+  {
+   "source": 119,
+   "target": 120
+  },
+  {
+   "source": 119,
+   "target": 121
+  },
+  {
+   "source": 120,
+   "target": 122
+  },
+  {
+   "source": 121,
+   "target": 122
+  },
+  {
+   "source": 121,
+   "target": 123
+  },
+  {
+   "source": 122,
+   "target": 124
+  },
+  {
+   "source": 123,
+   "target": 124
+  },
+  {
+   "source": 123,
+   "target": 125
+  },
+  {
+   "source": 124,
+   "target": 126
+  },
+  {
+   "source": 125,
+   "target": 126
+  },
+  {
+   "source": 125,
+   "target": 127
+  },
+  {
+   "source": 126,
+   "target": 128
+  },
+  {
+   "source": 127,
+   "target": 128
+  },
+  {
+   "source": 127,
+   "target": 129
+  },
+  {
+   "source": 128,
+   "target": 130
+  },
+  {
+   "source": 129,
+   "target": 130
+  },
+  {
+   "source": 129,
+   "target": 131
+  },
+  {
+   "source": 130,
+   "target": 132
+  },
+  {
+   "source": 131,
+   "target": 132
+  },
+  {
+   "source": 131,
+   "target": 133
+  },
+  {
+   "source": 132,
+   "target": 134
+  },
+  {
+   "source": 133,
+   "target": 134
+  },
+  {
+   "source": 133,
+   "target": 135
+  },
+  {
+   "source": 134,
+   "target": 136
+  },
+  {
+   "source": 135,
+   "target": 136
+  },
+  {
+   "source": 135,
+   "target": 139
+  },
+  {
+   "source": 136,
+   "target": 140
+  },
+  {
+   "source": 137,
+   "target": 138
+  },
+  {
+   "source": 137,
+   "target": 159
+  },
+  {
+   "source": 138,
+   "target": 160
+  },
+  {
+   "source": 139,
+   "target": 140
+  },
+  {
+   "source": 139,
+   "target": 141
+  },
+  {
+   "source": 140,
+   "target": 142
+  },
+  {
+   "source": 141,
+   "target": 142
+  },
+  {
+   "source": 141,
+   "target": 143
+  },
+  {
+   "source": 142,
+   "target": 144
+  },
+  {
+   "source": 143,
+   "target": 144
+  },
+  {
+   "source": 143,
+   "target": 145
+  },
+  {
+   "source": 144,
+   "target": 146
+  },
+  {
+   "source": 145,
+   "target": 146
+  },
+  {
+   "source": 145,
+   "target": 147
+  },
+  {
+   "source": 146,
+   "target": 148
+  },
+  {
+   "source": 147,
+   "target": 148
+  },
+  {
+   "source": 147,
+   "target": 149
+  },
+  {
+   "source": 148,
+   "target": 150
+  },
+  {
+   "source": 149,
+   "target": 150
+  },
+  {
+   "source": 149,
+   "target": 151
+  },
+  {
+   "source": 150,
+   "target": 152
+  },
+  {
+   "source": 151,
+   "target": 152
+  },
+  {
+   "source": 151,
+   "target": 153
+  },
+  {
+   "source": 152,
+   "target": 154
+  },
+  {
+   "source": 153,
+   "target": 154
+  },
+  {
+   "source": 153,
+   "target": 155
+  },
+  {
+   "source": 154,
+   "target": 156
+  },
+  {
+   "source": 155,
+   "target": 156
+  },
+  {
+   "source": 155,
+   "target": 157
+  },
+  {
+   "source": 156,
+   "target": 158
+  },
+  {
+   "source": 157,
+   "target": 158
+  },
+  {
+   "source": 157,
+   "target": 161
+  },
+  {
+   "source": 158,
+   "target": 162
+  },
+  {
+   "source": 159,
+   "target": 160
+  },
+  {
+   "source": 159,
+   "target": 181
+  },
+  {
+   "source": 160,
+   "target": 182
+  },
+  {
+   "source": 161,
+   "target": 162
+  },
+  {
+   "source": 161,
+   "target": 163
+  },
+  {
+   "source": 162,
+   "target": 164
+  },
+  {
+   "source": 163,
+   "target": 164
+  },
+  {
+   "source": 163,
+   "target": 165
+  },
+  {
+   "source": 164,
+   "target": 166
+  },
+  {
+   "source": 165,
+   "target": 166
+  },
+  {
+   "source": 165,
+   "target": 167
+  },
+  {
+   "source": 166,
+   "target": 168
+  },
+  {
+   "source": 167,
+   "target": 168
+  },
+  {
+   "source": 167,
+   "target": 169
+  },
+  {
+   "source": 168,
+   "target": 170
+  },
+  {
+   "source": 169,
+   "target": 170
+  },
+  {
+   "source": 169,
+   "target": 171
+  },
+  {
+   "source": 170,
+   "target": 172
+  },
+  {
+   "source": 171,
+   "target": 172
+  },
+  {
+   "source": 171,
+   "target": 173
+  },
+  {
+   "source": 172,
+   "target": 174
+  },
+  {
+   "source": 173,
+   "target": 174
+  },
+  {
+   "source": 173,
+   "target": 175
+  },
+  {
+   "source": 174,
+   "target": 176
+  },
+  {
+   "source": 175,
+   "target": 176
+  },
+  {
+   "source": 175,
+   "target": 177
+  },
+  {
+   "source": 176,
+   "target": 178
+  },
+  {
+   "source": 177,
+   "target": 178
+  },
+  {
+   "source": 177,
+   "target": 179
+  },
+  {
+   "source": 178,
+   "target": 180
+  },
+  {
+   "source": 179,
+   "target": 180
+  },
+  {
+   "source": 179,
+   "target": 183
+  },
+  {
+   "source": 180,
+   "target": 184
+  },
+  {
+   "source": 181,
+   "target": 182
+  },
+  {
+   "source": 181,
+   "target": 203
+  },
+  {
+   "source": 182,
+   "target": 204
+  },
+  {
+   "source": 183,
+   "target": 184
+  },
+  {
+   "source": 183,
+   "target": 185
+  },
+  {
+   "source": 184,
+   "target": 186
+  },
+  {
+   "source": 185,
+   "target": 186
+  },
+  {
+   "source": 185,
+   "target": 187
+  },
+  {
+   "source": 186,
+   "target": 188
+  },
+  {
+   "source": 187,
+   "target": 188
+  },
+  {
+   "source": 187,
+   "target": 189
+  },
+  {
+   "source": 188,
+   "target": 190
+  },
+  {
+   "source": 189,
+   "target": 190
+  },
+  {
+   "source": 189,
+   "target": 191
+  },
+  {
+   "source": 190,
+   "target": 192
+  },
+  {
+   "source": 191,
+   "target": 192
+  },
+  {
+   "source": 191,
+   "target": 193
+  },
+  {
+   "source": 192,
+   "target": 194
+  },
+  {
+   "source": 193,
+   "target": 194
+  },
+  {
+   "source": 193,
+   "target": 195
+  },
+  {
+   "source": 194,
+   "target": 196
+  },
+  {
+   "source": 195,
+   "target": 196
+  },
+  {
+   "source": 195,
+   "target": 197
+  },
+  {
+   "source": 196,
+   "target": 198
+  },
+  {
+   "source": 197,
+   "target": 198
+  },
+  {
+   "source": 197,
+   "target": 199
+  },
+  {
+   "source": 198,
+   "target": 200
+  },
+  {
+   "source": 199,
+   "target": 200
+  },
+  {
+   "source": 199,
+   "target": 201
+  },
+  {
+   "source": 200,
+   "target": 202
+  },
+  {
+   "source": 201,
+   "target": 202
+  },
+  {
+   "source": 201,
+   "target": 205
+  },
+  {
+   "source": 202,
+   "target": 206
+  },
+  {
+   "source": 203,
+   "target": 204
+  },
+  {
+   "source": 203,
+   "target": 227
+  },
+  {
+   "source": 204,
+   "target": 228
+  },
+  {
+   "source": 205,
+   "target": 206
+  },
+  {
+   "source": 205,
+   "target": 207
+  },
+  {
+   "source": 206,
+   "target": 208
+  },
+  {
+   "source": 207,
+   "target": 208
+  },
+  {
+   "source": 207,
+   "target": 209
+  },
+  {
+   "source": 208,
+   "target": 210
+  },
+  {
+   "source": 209,
+   "target": 210
+  },
+  {
+   "source": 209,
+   "target": 211
+  },
+  {
+   "source": 210,
+   "target": 212
+  },
+  {
+   "source": 211,
+   "target": 212
+  },
+  {
+   "source": 211,
+   "target": 213
+  },
+  {
+   "source": 212,
+   "target": 214
+  },
+  {
+   "source": 213,
+   "target": 214
+  },
+  {
+   "source": 213,
+   "target": 215
+  },
+  {
+   "source": 214,
+   "target": 216
+  },
+  {
+   "source": 215,
+   "target": 216
+  },
+  {
+   "source": 215,
+   "target": 217
+  },
+  {
+   "source": 216,
+   "target": 218
+  },
+  {
+   "source": 217,
+   "target": 218
+  },
+  {
+   "source": 217,
+   "target": 219
+  },
+  {
+   "source": 218,
+   "target": 220
+  },
+  {
+   "source": 219,
+   "target": 220
+  },
+  {
+   "source": 219,
+   "target": 221
+  },
+  {
+   "source": 220,
+   "target": 222
+  },
+  {
+   "source": 221,
+   "target": 222
+  },
+  {
+   "source": 221,
+   "target": 223
+  },
+  {
+   "source": 222,
+   "target": 224
+  },
+  {
+   "source": 223,
+   "target": 224
+  },
+  {
+   "source": 223,
+   "target": 229
+  },
+  {
+   "source": 224,
+   "target": 230
+  },
+  {
+   "source": 225,
+   "target": 226
+  },
+  {
+   "source": 225,
+   "target": 339
+  },
+  {
+   "source": 226,
+   "target": 340
+  },
+  {
+   "source": 227,
+   "target": 228
+  },
+  {
+   "source": 227,
+   "target": 249
+  },
+  {
+   "source": 228,
+   "target": 250
+  },
+  {
+   "source": 229,
+   "target": 230
+  },
+  {
+   "source": 229,
+   "target": 231
+  },
+  {
+   "source": 230,
+   "target": 232
+  },
+  {
+   "source": 231,
+   "target": 232
+  },
+  {
+   "source": 231,
+   "target": 233
+  },
+  {
+   "source": 232,
+   "target": 234
+  },
+  {
+   "source": 233,
+   "target": 234
+  },
+  {
+   "source": 233,
+   "target": 235
+  },
+  {
+   "source": 234,
+   "target": 236
+  },
+  {
+   "source": 235,
+   "target": 236
+  },
+  {
+   "source": 235,
+   "target": 237
+  },
+  {
+   "source": 236,
+   "target": 238
+  },
+  {
+   "source": 237,
+   "target": 238
+  },
+  {
+   "source": 237,
+   "target": 239
+  },
+  {
+   "source": 238,
+   "target": 240
+  },
+  {
+   "source": 239,
+   "target": 240
+  },
+  {
+   "source": 239,
+   "target": 241
+  },
+  {
+   "source": 240,
+   "target": 242
+  },
+  {
+   "source": 241,
+   "target": 242
+  },
+  {
+   "source": 241,
+   "target": 243
+  },
+  {
+   "source": 242,
+   "target": 244
+  },
+  {
+   "source": 243,
+   "target": 244
+  },
+  {
+   "source": 243,
+   "target": 245
+  },
+  {
+   "source": 244,
+   "target": 246
+  },
+  {
+   "source": 245,
+   "target": 246
+  },
+  {
+   "source": 245,
+   "target": 247
+  },
+  {
+   "source": 246,
+   "target": 248
+  },
+  {
+   "source": 247,
+   "target": 248
+  },
+  {
+   "source": 247,
+   "target": 251
+  },
+  {
+   "source": 248,
+   "target": 252
+  },
+  {
+   "source": 249,
+   "target": 250
+  },
+  {
+   "source": 249,
+   "target": 271
+  },
+  {
+   "source": 250,
+   "target": 272
+  },
+  {
+   "source": 251,
+   "target": 252
+  },
+  {
+   "source": 251,
+   "target": 253
+  },
+  {
+   "source": 252,
+   "target": 254
+  },
+  {
+   "source": 253,
+   "target": 254
+  },
+  {
+   "source": 253,
+   "target": 255
+  },
+  {
+   "source": 254,
+   "target": 256
+  },
+  {
+   "source": 255,
+   "target": 256
+  },
+  {
+   "source": 255,
+   "target": 257
+  },
+  {
+   "source": 256,
+   "target": 258
+  },
+  {
+   "source": 257,
+   "target": 258
+  },
+  {
+   "source": 257,
+   "target": 259
+  },
+  {
+   "source": 258,
+   "target": 260
+  },
+  {
+   "source": 259,
+   "target": 260
+  },
+  {
+   "source": 259,
+   "target": 261
+  },
+  {
+   "source": 260,
+   "target": 262
+  },
+  {
+   "source": 261,
+   "target": 262
+  },
+  {
+   "source": 261,
+   "target": 263
+  },
+  {
+   "source": 262,
+   "target": 264
+  },
+  {
+   "source": 263,
+   "target": 264
+  },
+  {
+   "source": 263,
+   "target": 265
+  },
+  {
+   "source": 264,
+   "target": 266
+  },
+  {
+   "source": 265,
+   "target": 266
+  },
+  {
+   "source": 265,
+   "target": 267
+  },
+  {
+   "source": 266,
+   "target": 268
+  },
+  {
+   "source": 267,
+   "target": 268
+  },
+  {
+   "source": 267,
+   "target": 269
+  },
+  {
+   "source": 268,
+   "target": 270
+  },
+  {
+   "source": 269,
+   "target": 270
+  },
+  {
+   "source": 269,
+   "target": 273
+  },
+  {
+   "source": 270,
+   "target": 274
+  },
+  {
+   "source": 271,
+   "target": 272
+  },
+  {
+   "source": 271,
+   "target": 293
+  },
+  {
+   "source": 272,
+   "target": 294
+  },
+  {
+   "source": 273,
+   "target": 274
+  },
+  {
+   "source": 273,
+   "target": 275
+  },
+  {
+   "source": 274,
+   "target": 276
+  },
+  {
+   "source": 275,
+   "target": 276
+  },
+  {
+   "source": 275,
+   "target": 277
+  },
+  {
+   "source": 276,
+   "target": 278
+  },
+  {
+   "source": 277,
+   "target": 278
+  },
+  {
+   "source": 277,
+   "target": 279
+  },
+  {
+   "source": 278,
+   "target": 280
+  },
+  {
+   "source": 279,
+   "target": 280
+  },
+  {
+   "source": 279,
+   "target": 281
+  },
+  {
+   "source": 280,
+   "target": 282
+  },
+  {
+   "source": 281,
+   "target": 282
+  },
+  {
+   "source": 281,
+   "target": 283
+  },
+  {
+   "source": 282,
+   "target": 284
+  },
+  {
+   "source": 283,
+   "target": 284
+  },
+  {
+   "source": 283,
+   "target": 285
+  },
+  {
+   "source": 284,
+   "target": 286
+  },
+  {
+   "source": 285,
+   "target": 286
+  },
+  {
+   "source": 285,
+   "target": 287
+  },
+  {
+   "source": 286,
+   "target": 288
+  },
+  {
+   "source": 287,
+   "target": 288
+  },
+  {
+   "source": 287,
+   "target": 289
+  },
+  {
+   "source": 288,
+   "target": 290
+  },
+  {
+   "source": 289,
+   "target": 290
+  },
+  {
+   "source": 289,
+   "target": 291
+  },
+  {
+   "source": 290,
+   "target": 292
+  },
+  {
+   "source": 291,
+   "target": 292
+  },
+  {
+   "source": 291,
+   "target": 295
+  },
+  {
+   "source": 292,
+   "target": 296
+  },
+  {
+   "source": 293,
+   "target": 294
+  },
+  {
+   "source": 293,
+   "target": 315
+  },
+  {
+   "source": 294,
+   "target": 316
+  },
+  {
+   "source": 295,
+   "target": 296
+  },
+  {
+   "source": 295,
+   "target": 297
+  },
+  {
+   "source": 296,
+   "target": 298
+  },
+  {
+   "source": 297,
+   "target": 298
+  },
+  {
+   "source": 297,
+   "target": 299
+  },
+  {
+   "source": 298,
+   "target": 300
+  },
+  {
+   "source": 299,
+   "target": 300
+  },
+  {
+   "source": 299,
+   "target": 301
+  },
+  {
+   "source": 300,
+   "target": 302
+  },
+  {
+   "source": 301,
+   "target": 302
+  },
+  {
+   "source": 301,
+   "target": 303
+  },
+  {
+   "source": 302,
+   "target": 304
+  },
+  {
+   "source": 303,
+   "target": 304
+  },
+  {
+   "source": 303,
+   "target": 305
+  },
+  {
+   "source": 304,
+   "target": 306
+  },
+  {
+   "source": 305,
+   "target": 306
+  },
+  {
+   "source": 305,
+   "target": 307
+  },
+  {
+   "source": 306,
+   "target": 308
+  },
+  {
+   "source": 307,
+   "target": 308
+  },
+  {
+   "source": 307,
+   "target": 309
+  },
+  {
+   "source": 308,
+   "target": 310
+  },
+  {
+   "source": 309,
+   "target": 310
+  },
+  {
+   "source": 309,
+   "target": 311
+  },
+  {
+   "source": 310,
+   "target": 312
+  },
+  {
+   "source": 311,
+   "target": 312
+  },
+  {
+   "source": 311,
+   "target": 313
+  },
+  {
+   "source": 312,
+   "target": 314
+  },
+  {
+   "source": 313,
+   "target": 314
+  },
+  {
+   "source": 313,
+   "target": 317
+  },
+  {
+   "source": 314,
+   "target": 318
+  },
+  {
+   "source": 315,
+   "target": 316
+  },
+  {
+   "source": 315,
+   "target": 329
+  },
+  {
+   "source": 316,
+   "target": 330
+  },
+  {
+   "source": 317,
+   "target": 318
+  },
+  {
+   "source": 317,
+   "target": 319
+  },
+  {
+   "source": 318,
+   "target": 320
+  },
+  {
+   "source": 319,
+   "target": 320
+  },
+  {
+   "source": 319,
+   "target": 321
+  },
+  {
+   "source": 320,
+   "target": 322
+  },
+  {
+   "source": 321,
+   "target": 322
+  },
+  {
+   "source": 321,
+   "target": 323
+  },
+  {
+   "source": 322,
+   "target": 324
+  },
+  {
+   "source": 323,
+   "target": 324
+  },
+  {
+   "source": 323,
+   "target": 325
+  },
+  {
+   "source": 324,
+   "target": 326
+  },
+  {
+   "source": 325,
+   "target": 326
+  },
+  {
+   "source": 325,
+   "target": 327
+  },
+  {
+   "source": 326,
+   "target": 328
+  },
+  {
+   "source": 327,
+   "target": 328
+  },
+  {
+   "source": 329,
+   "target": 330
+  },
+  {
+   "source": 329,
+   "target": 331
+  },
+  {
+   "source": 330,
+   "target": 332
+  },
+  {
+   "source": 331,
+   "target": 332
+  },
+  {
+   "source": 331,
+   "target": 333
+  },
+  {
+   "source": 332,
+   "target": 334
+  },
+  {
+   "source": 333,
+   "target": 334
+  },
+  {
+   "source": 333,
+   "target": 335
+  },
+  {
+   "source": 334,
+   "target": 336
+  },
+  {
+   "source": 335,
+   "target": 336
+  },
+  {
+   "source": 335,
+   "target": 337
+  },
+  {
+   "source": 336,
+   "target": 338
+  },
+  {
+   "source": 337,
+   "target": 338
+  },
+  {
+   "source": 337,
+   "target": 341
+  },
+  {
+   "source": 338,
+   "target": 342
+  },
+  {
+   "source": 339,
+   "target": 340
+  },
+  {
+   "source": 339,
+   "target": 361
+  },
+  {
+   "source": 340,
+   "target": 362
+  },
+  {
+   "source": 341,
+   "target": 342
+  },
+  {
+   "source": 341,
+   "target": 343
+  },
+  {
+   "source": 342,
+   "target": 344
+  },
+  {
+   "source": 343,
+   "target": 344
+  },
+  {
+   "source": 343,
+   "target": 345
+  },
+  {
+   "source": 344,
+   "target": 346
+  },
+  {
+   "source": 345,
+   "target": 346
+  },
+  {
+   "source": 345,
+   "target": 347
+  },
+  {
+   "source": 346,
+   "target": 348
+  },
+  {
+   "source": 347,
+   "target": 348
+  },
+  {
+   "source": 347,
+   "target": 349
+  },
+  {
+   "source": 348,
+   "target": 350
+  },
+  {
+   "source": 349,
+   "target": 350
+  },
+  {
+   "source": 349,
+   "target": 351
+  },
+  {
+   "source": 350,
+   "target": 352
+  },
+  {
+   "source": 351,
+   "target": 352
+  },
+  {
+   "source": 351,
+   "target": 353
+  },
+  {
+   "source": 352,
+   "target": 354
+  },
+  {
+   "source": 353,
+   "target": 354
+  },
+  {
+   "source": 353,
+   "target": 355
+  },
+  {
+   "source": 354,
+   "target": 356
+  },
+  {
+   "source": 355,
+   "target": 356
+  },
+  {
+   "source": 355,
+   "target": 357
+  },
+  {
+   "source": 356,
+   "target": 358
+  },
+  {
+   "source": 357,
+   "target": 358
+  },
+  {
+   "source": 357,
+   "target": 359
+  },
+  {
+   "source": 358,
+   "target": 360
+  },
+  {
+   "source": 359,
+   "target": 360
+  },
+  {
+   "source": 359,
+   "target": 363
+  },
+  {
+   "source": 360,
+   "target": 364
+  },
+  {
+   "source": 361,
+   "target": 362
+  },
+  {
+   "source": 361,
+   "target": 383
+  },
+  {
+   "source": 362,
+   "target": 384
+  },
+  {
+   "source": 363,
+   "target": 364
+  },
+  {
+   "source": 363,
+   "target": 365
+  },
+  {
+   "source": 364,
+   "target": 366
+  },
+  {
+   "source": 365,
+   "target": 366
+  },
+  {
+   "source": 365,
+   "target": 367
+  },
+  {
+   "source": 366,
+   "target": 368
+  },
+  {
+   "source": 367,
+   "target": 368
+  },
+  {
+   "source": 367,
+   "target": 369
+  },
+  {
+   "source": 368,
+   "target": 370
+  },
+  {
+   "source": 369,
+   "target": 370
+  },
+  {
+   "source": 369,
+   "target": 371
+  },
+  {
+   "source": 370,
+   "target": 372
+  },
+  {
+   "source": 371,
+   "target": 372
+  },
+  {
+   "source": 371,
+   "target": 373
+  },
+  {
+   "source": 372,
+   "target": 374
+  },
+  {
+   "source": 373,
+   "target": 374
+  },
+  {
+   "source": 373,
+   "target": 375
+  },
+  {
+   "source": 374,
+   "target": 376
+  },
+  {
+   "source": 375,
+   "target": 376
+  },
+  {
+   "source": 375,
+   "target": 377
+  },
+  {
+   "source": 376,
+   "target": 378
+  },
+  {
+   "source": 377,
+   "target": 378
+  },
+  {
+   "source": 377,
+   "target": 379
+  },
+  {
+   "source": 378,
+   "target": 380
+  },
+  {
+   "source": 379,
+   "target": 380
+  },
+  {
+   "source": 379,
+   "target": 381
+  },
+  {
+   "source": 380,
+   "target": 382
+  },
+  {
+   "source": 381,
+   "target": 382
+  },
+  {
+   "source": 381,
+   "target": 385
+  },
+  {
+   "source": 382,
+   "target": 386
+  },
+  {
+   "source": 383,
+   "target": 384
+  },
+  {
+   "source": 383,
+   "target": 405
+  },
+  {
+   "source": 384,
+   "target": 406
+  },
+  {
+   "source": 385,
+   "target": 386
+  },
+  {
+   "source": 385,
+   "target": 387
+  },
+  {
+   "source": 386,
+   "target": 388
+  },
+  {
+   "source": 387,
+   "target": 388
+  },
+  {
+   "source": 387,
+   "target": 389
+  },
+  {
+   "source": 388,
+   "target": 390
+  },
+  {
+   "source": 389,
+   "target": 390
+  },
+  {
+   "source": 389,
+   "target": 391
+  },
+  {
+   "source": 390,
+   "target": 392
+  },
+  {
+   "source": 391,
+   "target": 392
+  },
+  {
+   "source": 391,
+   "target": 393
+  },
+  {
+   "source": 392,
+   "target": 394
+  },
+  {
+   "source": 393,
+   "target": 394
+  },
+  {
+   "source": 393,
+   "target": 395
+  },
+  {
+   "source": 394,
+   "target": 396
+  },
+  {
+   "source": 395,
+   "target": 396
+  },
+  {
+   "source": 395,
+   "target": 397
+  },
+  {
+   "source": 396,
+   "target": 398
+  },
+  {
+   "source": 397,
+   "target": 398
+  },
+  {
+   "source": 397,
+   "target": 399
+  },
+  {
+   "source": 398,
+   "target": 400
+  },
+  {
+   "source": 399,
+   "target": 400
+  },
+  {
+   "source": 399,
+   "target": 401
+  },
+  {
+   "source": 400,
+   "target": 402
+  },
+  {
+   "source": 401,
+   "target": 402
+  },
+  {
+   "source": 401,
+   "target": 403
+  },
+  {
+   "source": 402,
+   "target": 404
+  },
+  {
+   "source": 403,
+   "target": 404
+  },
+  {
+   "source": 403,
+   "target": 407
+  },
+  {
+   "source": 404,
+   "target": 408
+  },
+  {
+   "source": 405,
+   "target": 406
+  },
+  {
+   "source": 405,
+   "target": 427
+  },
+  {
+   "source": 406,
+   "target": 428
+  },
+  {
+   "source": 407,
+   "target": 408
+  },
+  {
+   "source": 407,
+   "target": 409
+  },
+  {
+   "source": 408,
+   "target": 410
+  },
+  {
+   "source": 409,
+   "target": 410
+  },
+  {
+   "source": 409,
+   "target": 411
+  },
+  {
+   "source": 410,
+   "target": 412
+  },
+  {
+   "source": 411,
+   "target": 412
+  },
+  {
+   "source": 411,
+   "target": 413
+  },
+  {
+   "source": 412,
+   "target": 414
+  },
+  {
+   "source": 413,
+   "target": 414
+  },
+  {
+   "source": 413,
+   "target": 415
+  },
+  {
+   "source": 414,
+   "target": 416
+  },
+  {
+   "source": 415,
+   "target": 416
+  },
+  {
+   "source": 415,
+   "target": 417
+  },
+  {
+   "source": 416,
+   "target": 418
+  },
+  {
+   "source": 417,
+   "target": 418
+  },
+  {
+   "source": 417,
+   "target": 419
+  },
+  {
+   "source": 418,
+   "target": 420
+  },
+  {
+   "source": 419,
+   "target": 420
+  },
+  {
+   "source": 419,
+   "target": 421
+  },
+  {
+   "source": 420,
+   "target": 422
+  },
+  {
+   "source": 421,
+   "target": 422
+  },
+  {
+   "source": 421,
+   "target": 423
+  },
+  {
+   "source": 422,
+   "target": 424
+  },
+  {
+   "source": 423,
+   "target": 424
+  },
+  {
+   "source": 423,
+   "target": 425
+  },
+  {
+   "source": 424,
+   "target": 426
+  },
+  {
+   "source": 425,
+   "target": 426
+  },
+  {
+   "source": 425,
+   "target": 429
+  },
+  {
+   "source": 426,
+   "target": 430
+  },
+  {
+   "source": 427,
+   "target": 428
+  },
+  {
+   "source": 427,
+   "target": 449
+  },
+  {
+   "source": 428,
+   "target": 450
+  },
+  {
+   "source": 429,
+   "target": 430
+  },
+  {
+   "source": 429,
+   "target": 431
+  },
+  {
+   "source": 430,
+   "target": 432
+  },
+  {
+   "source": 431,
+   "target": 432
+  },
+  {
+   "source": 431,
+   "target": 433
+  },
+  {
+   "source": 432,
+   "target": 434
+  },
+  {
+   "source": 433,
+   "target": 434
+  },
+  {
+   "source": 433,
+   "target": 435
+  },
+  {
+   "source": 434,
+   "target": 436
+  },
+  {
+   "source": 435,
+   "target": 436
+  },
+  {
+   "source": 435,
+   "target": 437
+  },
+  {
+   "source": 436,
+   "target": 438
+  },
+  {
+   "source": 437,
+   "target": 438
+  },
+  {
+   "source": 437,
+   "target": 439
+  },
+  {
+   "source": 438,
+   "target": 440
+  },
+  {
+   "source": 439,
+   "target": 440
+  },
+  {
+   "source": 439,
+   "target": 441
+  },
+  {
+   "source": 440,
+   "target": 442
+  },
+  {
+   "source": 441,
+   "target": 442
+  },
+  {
+   "source": 441,
+   "target": 443
+  },
+  {
+   "source": 442,
+   "target": 444
+  },
+  {
+   "source": 443,
+   "target": 444
+  },
+  {
+   "source": 443,
+   "target": 445
+  },
+  {
+   "source": 444,
+   "target": 446
+  },
+  {
+   "source": 445,
+   "target": 446
+  },
+  {
+   "source": 445,
+   "target": 447
+  },
+  {
+   "source": 446,
+   "target": 448
+  },
+  {
+   "source": 447,
+   "target": 448
+  },
+  {
+   "source": 447,
+   "target": 451
+  },
+  {
+   "source": 448,
+   "target": 452
+  },
+  {
+   "source": 449,
+   "target": 450
+  },
+  {
+   "source": 449,
+   "target": 471
+  },
+  {
+   "source": 450,
+   "target": 472
+  },
+  {
+   "source": 451,
+   "target": 452
+  },
+  {
+   "source": 451,
+   "target": 453
+  },
+  {
+   "source": 452,
+   "target": 454
+  },
+  {
+   "source": 453,
+   "target": 454
+  },
+  {
+   "source": 453,
+   "target": 455
+  },
+  {
+   "source": 454,
+   "target": 456
+  },
+  {
+   "source": 455,
+   "target": 456
+  },
+  {
+   "source": 455,
+   "target": 457
+  },
+  {
+   "source": 456,
+   "target": 458
+  },
+  {
+   "source": 457,
+   "target": 458
+  },
+  {
+   "source": 457,
+   "target": 459
+  },
+  {
+   "source": 458,
+   "target": 460
+  },
+  {
+   "source": 459,
+   "target": 460
+  },
+  {
+   "source": 459,
+   "target": 461
+  },
+  {
+   "source": 460,
+   "target": 462
+  },
+  {
+   "source": 461,
+   "target": 462
+  },
+  {
+   "source": 461,
+   "target": 463
+  },
+  {
+   "source": 462,
+   "target": 464
+  },
+  {
+   "source": 463,
+   "target": 464
+  },
+  {
+   "source": 463,
+   "target": 465
+  },
+  {
+   "source": 464,
+   "target": 466
+  },
+  {
+   "source": 465,
+   "target": 466
+  },
+  {
+   "source": 465,
+   "target": 467
+  },
+  {
+   "source": 466,
+   "target": 468
+  },
+  {
+   "source": 467,
+   "target": 468
+  },
+  {
+   "source": 467,
+   "target": 469
+  },
+  {
+   "source": 468,
+   "target": 470
+  },
+  {
+   "source": 469,
+   "target": 470
+  },
+  {
+   "source": 469,
+   "target": 473
+  },
+  {
+   "source": 470,
+   "target": 474
+  },
+  {
+   "source": 471,
+   "target": 472
+  },
+  {
+   "source": 473,
+   "target": 474
+  },
+  {
+   "source": 473,
+   "target": 475
+  },
+  {
+   "source": 474,
+   "target": 476
+  },
+  {
+   "source": 475,
+   "target": 476
+  },
+  {
+   "source": 475,
+   "target": 477
+  },
+  {
+   "source": 476,
+   "target": 478
+  },
+  {
+   "source": 477,
+   "target": 478
+  },
+  {
+   "source": 477,
+   "target": 479
+  },
+  {
+   "source": 478,
+   "target": 480
+  },
+  {
+   "source": 479,
+   "target": 480
+  },
+  {
+   "source": 479,
+   "target": 481
+  },
+  {
+   "source": 480,
+   "target": 482
+  },
+  {
+   "source": 481,
+   "target": 482
+  },
+  {
+   "source": 481,
+   "target": 483
+  },
+  {
+   "source": 482,
+   "target": 484
+  },
+  {
+   "source": 483,
+   "target": 484
+  },
+  {
+   "source": 483,
+   "target": 485
+  },
+  {
+   "source": 484,
+   "target": 486
+  },
+  {
+   "source": 485,
+   "target": 486
+  },
+  {
+   "source": 485,
+   "target": 487
+  },
+  {
+   "source": 486,
+   "target": 488
+  },
+  {
+   "source": 487,
+   "target": 488
+  },
+  {
+   "source": 487,
+   "target": 489
+  },
+  {
+   "source": 488,
+   "target": 490
+  },
+  {
+   "source": 489,
+   "target": 490
+  },
+  {
+   "source": 489,
+   "target": 491
+  },
+  {
+   "source": 490,
+   "target": 492
+  },
+  {
+   "source": 491,
+   "target": 492
+  }
+ ]
+}
