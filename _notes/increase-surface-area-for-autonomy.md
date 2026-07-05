@@ -9,4 +9,5 @@ backlinks:
 
 This is different than increasing your choices. Having more choices, ironically, makes you feel more out of control, i think. ([more choices, less autonomy](/notes/more-choices-less-autonomy/)). 
 
+
 - making art as a claim for autonomy
