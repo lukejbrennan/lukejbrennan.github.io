@@ -1,0 +1,25 @@
+---
+layout: note
+title: "Enchiridion 39"
+permalink: /notes/enchiridion-39/
+backlinks:
+  - title: "Enchiridion"
+    url: /notes/enchiridion/
+  - title: "Enchiridion 38"
+    url: /notes/enchiridion-38/
+  - title: "Enchiridion 40"
+    url: /notes/enchiridion-40/
+---
+
+# Enchiridion XXXIX
+*Epictetus, tr. T. W. Higginson (1865)*
+
+[← 38](/notes/enchiridion-38/) | [Enchiridion](/notes/enchiridion/) | [40 →](/notes/enchiridion-40/)
+
+---
+
+The body is to everyone the proper measure of its possessions, as the foot is of the shoe. If, therefore, you stop at this, you will keep the measure; but if you move beyond it, you must necessarily be carried forward, as down a precipice; as in the case of a shoe, if you go beyond its fitness to the foot, it comes first to be gilded, then purple, and then studded with jewels. For to that which once exceeds the fit measure there is no bound.
+
+---
+
+[← 38](/notes/enchiridion-38/) | [Enchiridion](/notes/enchiridion/) | [40 →](/notes/enchiridion-40/)

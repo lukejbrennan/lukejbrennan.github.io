@@ -1,0 +1,76 @@
+---
+layout: note
+title: "Eccl-09"
+permalink: /notes/eccl-09/
+backlinks:
+  - title: "Eccl-08"
+    url: /notes/eccl-08/
+  - title: "Eccl-10"
+    url: /notes/eccl-10/
+  - title: "Ecclesiastes"
+    url: /notes/ecclesiastes/
+---
+
+# Ecclesiastes 9 (DRA)
+
+[← Ecclesiastes 8](/notes/eccl-08/) | [Ecclesiastes](/notes/ecclesiastes/) | [Ecclesiastes 10 →](/notes/eccl-10/)
+
+---
+
+###### v1
+All these things have I considered in my heart, that I might carefully understand them: there are just men and wise men, and their works are in the hand of God: and yet man knoweth not whether he be worthy of love, or hatred:
+
+###### v2
+But all things are kept uncertain for the time to come, because all things equally happen to the just and to the wicked, to the good and to the evil, to the clean and to the unclean, to him that offereth victims, and to him that despiseth sacrifices. As the good is, so also is the sinner: as the perjured, so he also that sweareth truth.
+
+###### v3
+This is a very great evil among all things that are done under the sun, that the same things happen to all men: whereby also the hearts of the children of men are filled with evil, and with contempt while they live, and afterwards they shall be brought down to hell.
+
+###### v4
+There is no man that liveth always, or that hopeth for this: a living dog is better than a dead lion.
+
+###### v5
+For the living know that they shall die, but the dead know nothing more, neither have they a reward any more: for the memory of them is forgotten.
+
+###### v6
+Their love also, and their hatred, and their envy are all perished, neither have they any part in this world, and in the work that is done under the sun.
+
+###### v7
+Go then, and eat thy bread with joy, and drink thy wine with gladness: because thy works please God.
+
+###### v8
+At all times let thy garments be white, and let not oil depart from thy head.
+
+###### v9
+Live joyfully with the wife whom thou lovest, all the days of thy unsteady life, which are given to thee under the sun, all the time of thy vanity: for this is thy portion in life, and in thy labour wherewith thou labourest under the sun.
+
+###### v10
+Whatsoever thy hand is able to do, do it earnestly: for neither work, nor reason, nor wisdom, nor knowledge shall be in hell, whither thou art hastening.
+
+###### v11
+I turned me to another thing, and I saw that under the sun, the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the learned, nor favour to the skillful: but time and chance in all.
+
+###### v12
+Man knoweth not his own end: but as fishes are taken with the hook, and as birds are caught with the snare, so men are taken in the evil time, when it shall suddenly come upon them.
+
+###### v13
+This wisdom also I have seen under the sun, and it seemed to me to be very great:
+
+###### v14
+A little city, and few men in it: there came against it a great king, and invested it, and built bulwarks round about it, and the siege was perfect.
+
+###### v15
+Now there was found in it a man poor and wise, and he delivered the city by his wisdom, and no man afterward remembered that poor man.
+
+###### v16
+And I said that wisdom is better than strength: how then is the wisdom of the poor man slighted, and his words not heard?
+
+###### v17
+The words of the wise are heard in silence, more than the cry of a prince among fools.
+
+###### v18
+Better is wisdom, than weapons of war: and he that shall offend in one, shall lose many good things.
+
+---
+
+[← Ecclesiastes 8](/notes/eccl-08/) | [Ecclesiastes](/notes/ecclesiastes/) | [Ecclesiastes 10 →](/notes/eccl-10/)

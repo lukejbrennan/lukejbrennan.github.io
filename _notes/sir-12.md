@@ -1,0 +1,79 @@
+---
+layout: note
+title: "Sir-12"
+permalink: /notes/sir-12/
+backlinks:
+  - title: "Sir-11"
+    url: /notes/sir-11/
+  - title: "Sir-13"
+    url: /notes/sir-13/
+  - title: "Sirach"
+    url: /notes/sirach/
+---
+
+# Sirach 12 (DRA)
+
+[← Sirach 11](/notes/sir-11/) | [Sirach](/notes/sirach/) | [Sirach 13 →](/notes/sir-13/)
+
+---
+
+###### v1
+If thou do good, know to whom thou dost it, and there shall be much thanks for thy good deeds.
+
+###### v2
+Do good to the just, and thou shalt find great recompense: and if not of him, assuredly of the Lord.
+
+###### v3
+For there is no good for him that is always occupied in evil, and that giveth no alms: for the Highest hateth sinners, and hath mercy on the penitent.
+
+###### v4
+Give to the merciful and uphold not the sinner: God will repay vengeance to the ungodly and to sinners, and keep them against the day of vengeance.
+
+###### v5
+Give to the good, and receive not a sinner.
+
+###### v6
+Do good to the humble, and give not to the ungodly: hold back thy bread, and give it not to him, lest thereby he overmaster thee.
+
+###### v7
+For thou shalt receive twice as much evil for all the good thou shalt have done to him: for the Highest also hateth sinners, and will repay vengeance to the ungodly.
+
+###### v8
+A friend shall not be known in prosperity, and an enemy shall not be hidden in adversity.
+
+###### v9
+In the prosperity of a man, his enemies are grieved: and a friend is known in his adversity.
+
+###### v10
+Never trust thy enemy: for as a brass pot his wickedness rusteth:
+
+###### v11
+Though he humble himself and go crouching, yet take good heed and beware of him.
+
+###### v12
+Set him not by thee, neither let him sit on thy right hand, lest he turn into thy place, and seek to take thy seat: and at the last thou acknowledge my words, and be pricked with my sayings.
+
+###### v13
+Who will pity an enchanter struck by a serpent, or any that come near wild beasts? so is it with him that keepeth company with a wicked man, and is involved in his sins.
+
+###### v14
+For an hour he will abide with thee: but if thou begin to decline, he will not endure it.
+
+###### v15
+An enemy speaketh sweetly with his lips, but in his heart he lieth in wait, to throw thee into a pit.
+
+###### v16
+An enemy weepeth with his eyes: but if he find an opportunity he will not be satisfied with blood:
+
+###### v17
+And if evils come upon thee, thou shalt find him there first.
+
+###### v18
+An enemy hath tears in his eyes, and while he pretendeth to help thee, will undermine thy feet.
+
+###### v19
+He will shake his head, and clap his hands, and whisper much, and change his countenance.
+
+---
+
+[← Sirach 11](/notes/sir-11/) | [Sirach](/notes/sirach/) | [Sirach 13 →](/notes/sir-13/)

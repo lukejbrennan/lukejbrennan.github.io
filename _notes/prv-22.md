@@ -1,0 +1,109 @@
+---
+layout: note
+title: "Prv-22"
+permalink: /notes/prv-22/
+backlinks:
+  - title: "Proverbs"
+    url: /notes/proverbs/
+  - title: "Prv-21"
+    url: /notes/prv-21/
+  - title: "Prv-23"
+    url: /notes/prv-23/
+---
+
+# Proverbs 22 (DRA)
+
+[← Proverbs 21](/notes/prv-21/) | [Proverbs](/notes/proverbs/) | [Proverbs 23 →](/notes/prv-23/)
+
+---
+
+###### v1
+A good name is better than great riches: and good favour is above silver and gold.
+
+###### v2
+The rich and poor have met one another: the Lord is the maker of them both.
+
+###### v3
+The prudent man saw the evil, and hid himself: the simple passed on, and suffered loss.
+
+###### v4
+The fruit of humility is the fear of the Lord, riches and glory and life.
+
+###### v5
+Arms and swords are in the way of the perverse: but he that keepeth his own soul departeth far from them.
+
+###### v6
+It is a proverb: A young man according to his way, even when he is old he will not depart from it.
+
+###### v7
+The rich ruleth over the poor: and the borrower is servant to him that lendeth.
+
+###### v8
+He that soweth iniquity shall reap evils, and with the rod of his anger he shall be consumed.
+
+###### v9
+He that is inclined to mercy shall be blessed: for of his bread he hath given to the poor. He that maketh presents shall purchase victory and honour: but he carrieth away the souls of the receivers.
+
+###### v10
+Cast out the scoffer, and contention shall go out with him, and quarrels and reproaches shall cease.
+
+###### v11
+He that loveth cleanness of heart, for the grace of his lips shall have the king for his friend.
+
+###### v12
+The eyes of the Lord preserve knowledge: and the words of the unjust are overthrown.
+
+###### v13
+The slothful man saith: There is a lion without, I shall be slain in the midst of the streets.
+
+###### v14
+The mouth of a strange woman is a deep pit: he whom the Lord is angry with, shall fall into it.
+
+###### v15
+Folly is bound up in the heart of a child, and the rod of correction shall drive it away.
+
+###### v16
+He that oppresseth the poor, to increase his own riches, shall himself give to one that is richer, and shall be in need.
+
+###### v17
+Incline thy ear, and hear the words of the wise: and apply thy heart to my doctrine:
+
+###### v18
+Which shall be beautiful for thee, if thou keep it in thy bowels, and it shall flow in thy lips:
+
+###### v19
+That thy trust may be in the Lord, wherefore I have also shewn it to thee this day.
+
+###### v20
+Behold I have described it to thee three manner of ways, in thoughts and knowledge:
+
+###### v21
+That I might shew thee the certainty, and the words of truth, to answer out of these to them that sent thee.
+
+###### v22
+Do no violence to the poor, because he is poor: and do not oppress the needy in the gate:
+
+###### v23
+Because the Lord will judge his cause, and will afflict them that have afflicted his soul.
+
+###### v24
+Be not a friend to an angry man, and do not walk with a furious man:
+
+###### v25
+Lest perhaps thou learn his ways, and take scandal to thy soul.
+
+###### v26
+Be not with them that fasten down their hands, and that offer themselves sureties for debts:
+
+###### v27
+For if thou have not wherewith to restore, what cause is there, that he should take the covering from thy bed?
+
+###### v28
+Pass not beyond the ancient bounds which thy fathers have set.
+
+###### v29
+Hast thou seen a man swift in his work? he shall stand before kings, and shall not be before those that are obscure.
+
+---
+
+[← Proverbs 21](/notes/prv-21/) | [Proverbs](/notes/proverbs/) | [Proverbs 23 →](/notes/prv-23/)

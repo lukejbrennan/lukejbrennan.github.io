@@ -1,0 +1,118 @@
+---
+layout: note
+title: "Eph-04"
+permalink: /notes/eph-04/
+backlinks:
+  - title: "Eph-03"
+    url: /notes/eph-03/
+  - title: "Eph-05"
+    url: /notes/eph-05/
+  - title: "Ephesians"
+    url: /notes/ephesians/
+---
+
+# Ephesians 4 (DRA)
+
+[← Ephesians 3](/notes/eph-03/) | [Ephesians](/notes/ephesians/) | [Ephesians 5 →](/notes/eph-05/)
+
+---
+
+###### v1
+I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called,
+
+###### v2
+With all humility and mildness, with patience, supporting one another in charity.
+
+###### v3
+Careful to keep the unity of the Spirit in the bond of peace.
+
+###### v4
+One body and one Spirit; as you are called in one hope of your calling.
+
+###### v5
+One Lord, one faith, one baptism.
+
+###### v6
+One God and Father of all, who is above all, and through all, and in us all.
+
+###### v7
+But to every one of us is given grace, according to the measure of the giving of Christ.
+
+###### v8
+Wherefore he saith: Ascending on high, he led captivity captive; he gave gifts to men.
+
+###### v9
+Now that he ascended, what is it, but because he also descended first into the lower parts of the earth?
+
+###### v10
+He that descended is the same also that ascended above all the heavens, that he might fill all things.
+
+###### v11
+And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors,
+
+###### v12
+For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+
+###### v13
+Until we all meet into the unity of faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ;
+
+###### v14
+That henceforth we be no more children tossed to and fro, and carried about with every wind of doctrine by the wickedness of men, by cunning craftiness, by which they lie in wait to deceive.
+
+###### v15
+But doing the truth in charity, we may in all things grow up in him who is the head, even Christ:
+
+###### v16
+From whom the whole body, being compacted and fitly joined together, by what every joint supplieth, according to the operation in the measure of every part, maketh increase of the body, unto the edifying of itself in charity.
+
+###### v17
+This then I say and testify in the Lord: That henceforward you walk not as also the Gentiles walk in the vanity of their mind,
+
+###### v18
+Having their understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their hearts.
+
+###### v19
+Who despairing, have given themselves up to lasciviousness, unto the working of all uncleanness, unto the working of all uncleanness, unto covetousness.
+
+###### v20
+But you have not so learned Christ;
+
+###### v21
+If so be that you have heard him, and have been taught in him, as the truth is in Jesus:
+
+###### v22
+To put off, according to former conversation, the old man, who is corrupted according to the desire of error.
+
+###### v23
+And be renewed in the spirit of your mind:
+
+###### v24
+And put on the new man, who according to God is created in justice and holiness of truth.
+
+###### v25
+Wherefore putting away lying, speak ye the truth every man with his neighbour; for we are members one of another.
+
+###### v26
+Be angry, and sin not. Let not the sun go down upon your anger.
+
+###### v27
+Give not place to the devil.
+
+###### v28
+He that stole, let him now steal no more; but rather let him labour, working with his hands the thing which is good, that he may have something to give to him that suffereth need.
+
+###### v29
+Let no evil speech proceed from your mouth; but that which is good, to the edification of faith, that it may administer grace to the hearers.
+
+###### v30
+And grieve not the holy Spirit of God: whereby you are sealed unto the day of redemption.
+
+###### v31
+Let all bitterness, and anger, and indignation, and clamour, and blasphemy, be put away from you, with all malice.
+
+###### v32
+And be ye kind one to another; merciful, forgiving one another, even as God hath forgiven you in Christ.
+
+---
+
+[← Ephesians 3](/notes/eph-03/) | [Ephesians](/notes/ephesians/) | [Ephesians 5 →](/notes/eph-05/)

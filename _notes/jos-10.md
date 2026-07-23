@@ -1,0 +1,151 @@
+---
+layout: note
+title: "Jos-10"
+permalink: /notes/jos-10/
+backlinks:
+  - title: "Jos-09"
+    url: /notes/jos-09/
+  - title: "Jos-11"
+    url: /notes/jos-11/
+  - title: "Joshua"
+    url: /notes/joshua/
+---
+
+# Joshua 10 (DRA)
+
+[← Joshua 9](/notes/jos-09/) | [Joshua](/notes/joshua/) | [Joshua 11 →](/notes/jos-11/)
+
+---
+
+###### v1
+When Adonisedec king of Jerusalem had heard these things, to wit, that Josue had taken Hai, and had destroyed it, (for as he had done to Jericho and the king thereof, so did he to Hai, and its king,) and that the Gabaonites were gone over to Israel, and were their confederates,
+
+###### v2
+He was exceedingly afraid. For Gabaon was a great city, and one of the royal cities, and greater than the town of Hai, and all its fighting men were most valiant.
+
+###### v3
+Therefore Adonisedec king of Jerusalem sent to Oham king of Hebron, and to Pharam king of Jerimoth, and to Japhia king of Lachis, and to Dabir king of Eglon, saying:
+
+###### v4
+Come up to me, and bring help, that we may take Gabaon, because it hath gone over to Josue, and to the children of Israel.
+
+###### v5
+So the five kings of the Amorrhites being assembled together went up: the king of Jerusalem, the king of Hebron, the king of Jerimoth, the king of Lachis, the king of Eglon, they and their armies, and camped about Gabaon, laying siege to it.
+
+###### v6
+But the inhabitants of the city of Gabaon which was besieged, sent to Josue, who then abode in the camp at Galgal, and said to him: Withdraw not thy hands from helping thy servants: come up quickly and save us, and bring us succour: for all the kings of the Amorrhites, who dwell in the mountains, are gathered together against us.
+
+###### v7
+And Josue went up from Galgal, and all the army of the warriors with him, most valiant men.
+
+###### v8
+And the Lord said to Josue: Fear them not: for I have delivered them into thy hands: none of them shall be able to stand against thee.
+
+###### v9
+So Josue going up from Galgal all the night, came upon them suddenly.
+
+###### v10
+And the Lord troubled them at the sight of Israel: and he slew them with a great slaughter in Gabaon, and pursued them by the way of the ascent to Beth-horon, and cut them off all the way to Azeca and Maceda.
+
+###### v11
+And when they were fleeing from the children of Israel, and were in the descent of Beth-horon, the Lord cast down upon them great stones from heaven as far as Azeca: and many more were killed with the hailstones than were slain by the swords of the children of Israel.
+
+###### v12
+Then Josue spoke to the Lord, in the day that he delivered the Amorrhite in the sight of the children of Israel, and he said before them: Move not, O sun, toward Gabaon, nor thou, O moon, toward the valley of Ajalon.
+
+###### v13
+And the sun and the moon stood still, till the people revenged themselves of their enemies. Is not this written in the book of the just? So the sun stood still in the midst of heaven, and hasted not to go down the space of one day.
+
+###### v14
+There was not before nor after so long a day, the Lord obeying the voice of a man, and fighting for Israel.
+
+###### v15
+And Josue returned with all Israel into the camp of Galgal.
+
+###### v16
+For the five kings were fled, and had hidden themselves in a cave of the city of Maceda.
+
+###### v17
+And it was told Josue that the five kings were found hidden in a cave of the city of Maceda.
+
+###### v18
+And he commanded them that were with him, saying: Roll great stones to the mouth of the cave, and set careful men, to keep them shut up:
+
+###### v19
+And stay you not, but pursue after the enemies, and kill all the hindermost of them as they flee, and do not suffer them whom the Lord God hath delivered into your hands to shelter themselves in their cities.
+
+###### v20
+So the enemies being slain with a great slaughter, and almost utterly consumed, they that were able to escape from Israel, entered into fenced cities.
+
+###### v21
+And all the army returned to Josue in Maceda, where the camp then was, in good health and without the loss of any one: and no man durst move his tongue against the children of Israel.
+
+###### v22
+And Josue gave orders, saying: Open the mouth of the cave, and bring forth to me the five kings that lie hid therein.
+
+###### v23
+And the ministers did as they were commanded: and they brought out to him the five kings out of the cave: the king of Jerusalem, the king of Hebron, the king of Jerimoth, the king of Lachis, the king of Eglon.
+
+###### v24
+And when they were Drought out to him, he called all the men of Israel, and said to the chiefs of the army that were with him: Go, and set your feet on the necks of these kings. And when they had gone, and put their feet upon the necks of them lying under them,
+
+###### v25
+He said again to them: Fear not, neither be ye dismayed, take courage and be strong: for so will the Lord do to all your enemies, against whom you fight.
+
+###### v26
+And Josue struck, and slew them, and hanged them upon five gibbets, and they hung until the evening.
+
+###### v27
+And when the sun was down, he commanded the soldiers to take them down from the gibbets. And after they were taken down, they cast them into the cave where they had lain hid, and put great stones at the mouth thereof, which remain until this day.
+
+###### v28
+The same day Josue took Maceda and destroyed it, with the edge of the sword, and killed the king and all the inhabitants thereof: he left not in it the least remains. And he did to the king of Maceda, as he had done to the king of Jericho.
+
+###### v29
+And he passed from Maceda with all Israel to Lebna, and fought against it:
+
+###### v30
+And the Lord delivered it with the king thereof into the hands of Israel: and they destroyed the city with the edge of the sword, and all the inhabitants thereof. They left not in it any remains. And they did to the king of Lebna, as they had done to the king of Jericho.
+
+###### v31
+From Lebna he passed unto Lachis, with all Israel: and investing it with his army, besieged it.
+
+###### v32
+And the Lord delivered Lachis into the hands of Israel, and he took it the following day, and put it to the sword, and every soul that was in it, as he had done to Lebna.
+
+###### v33
+At that time Horam king of Gazer, came up to succour Lachis: and Josue slew him with all his people, so as to leave none alive.
+
+###### v34
+And he passed from Lachis to Eglon, and surrounded it,
+
+###### v35
+And took it the same day: and put to the sword all the souls that were in it, according to all that he had done to Lachis.
+
+###### v36
+He went up also with all Israel from Eglon to Hebron, and fought against it:
+
+###### v37
+Took it, and destroyed it with the edge of the sword: the king also thereof, and all the towns of that country, and all the souls that dwelt in it: he left not therein any remains: as he had done to Eglon, so did he also to Hebron, putting to the sword all that he found in it.
+
+###### v38
+Returning from thence to Dabir,
+
+###### v39
+He took it and destroyed it: the king also thereof and all the towns round about he destroyed with the edge of the sword: he left not in it any remains: as he had done to Hebron and Lebna and to their kings, so did he to Dabir and to the king thereof.
+
+###### v40
+So Josue conquered all the country of the hills and of the south and of the plain, and of Asedoth, with their kings: he left not any remains therein, but slew all that breathed, as the Lord the God of Israel had commanded him,
+
+###### v41
+From Cadesbarne even to Gaza. All the land of Gosen even to Gabaon,
+
+###### v42
+And all their kings, and their lands he took and wasted at one onset: for the Lord the God of Israel fought for him.
+
+###### v43
+And he returned with all Israel to the place of the camp in Galgal.
+
+---
+
+[← Joshua 9](/notes/jos-09/) | [Joshua](/notes/joshua/) | [Joshua 11 →](/notes/jos-11/)

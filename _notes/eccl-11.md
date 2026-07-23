@@ -1,0 +1,52 @@
+---
+layout: note
+title: "Eccl-11"
+permalink: /notes/eccl-11/
+backlinks:
+  - title: "Eccl-10"
+    url: /notes/eccl-10/
+  - title: "Eccl-12"
+    url: /notes/eccl-12/
+  - title: "Ecclesiastes"
+    url: /notes/ecclesiastes/
+---
+
+# Ecclesiastes 11 (DRA)
+
+[← Ecclesiastes 10](/notes/eccl-10/) | [Ecclesiastes](/notes/ecclesiastes/) | [Ecclesiastes 12 →](/notes/eccl-12/)
+
+---
+
+###### v1
+Cast thy bread upon the running waters: for after a long time thou shalt find it again.
+
+###### v2
+Give a portion to seven, and also to eight: for thou knowest not what evil shall be upon the earth.
+
+###### v3
+If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be.
+
+###### v4
+He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap.
+
+###### v5
+As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all.
+
+###### v6
+In the morning sow thy seed, and In the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better.
+
+###### v7
+The light is sweet, and it is delightful for the eyes to see the sun.
+
+###### v8
+If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity.
+
+###### v9
+Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment.
+
+###### v10
+Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain.
+
+---
+
+[← Ecclesiastes 10](/notes/eccl-10/) | [Ecclesiastes](/notes/ecclesiastes/) | [Ecclesiastes 12 →](/notes/eccl-12/)

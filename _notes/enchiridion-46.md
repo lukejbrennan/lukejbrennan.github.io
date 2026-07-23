@@ -1,0 +1,25 @@
+---
+layout: note
+title: "Enchiridion 46"
+permalink: /notes/enchiridion-46/
+backlinks:
+  - title: "Enchiridion"
+    url: /notes/enchiridion/
+  - title: "Enchiridion 45"
+    url: /notes/enchiridion-45/
+  - title: "Enchiridion 47"
+    url: /notes/enchiridion-47/
+---
+
+# Enchiridion XLVI
+*Epictetus, tr. T. W. Higginson (1865)*
+
+[← 45](/notes/enchiridion-45/) | [Enchiridion](/notes/enchiridion/) | [47 →](/notes/enchiridion-47/)
+
+---
+
+Never proclaim yourself a philosopher, nor make much talk among the ignorant about your principles, but show them by actions. Thus, at an entertainment, do not discourse how people ought to eat, but eat as you ought. For remember that thus Socrates also universally avoided all ostentation. And when persons came to him and desired to be introduced by him to philosophers, he took them and introduced them; so well did he bear being overlooked. So if ever there should be among the ignorant any discussion of principles, be for the most part silent. For there is great danger in hastily throwing out what is undigested. And if anyone tells you that you know nothing, and you are not nettled at it, then you may be sure that you have really entered on your work. For sheep do not hastily throw up the grass to show the shepherds how much they have eaten, but, inwardly digesting their food, they produce it outwardly in wool and milk. Thus, therefore, do you not make an exhibition before the ignorant of your principles, but of the actions to which their digestion gives rise.
+
+---
+
+[← 45](/notes/enchiridion-45/) | [Enchiridion](/notes/enchiridion/) | [47 →](/notes/enchiridion-47/)

@@ -1,0 +1,67 @@
+---
+layout: note
+title: "Est-03"
+permalink: /notes/est-03/
+backlinks:
+  - title: "Est-02"
+    url: /notes/est-02/
+  - title: "Est-04"
+    url: /notes/est-04/
+  - title: "Esther"
+    url: /notes/esther/
+---
+
+# Esther 3 (DRA)
+
+[← Esther 2](/notes/est-02/) | [Esther](/notes/esther/) | [Esther 4 →](/notes/est-04/)
+
+---
+
+###### v1
+After these things, king Assuerus advanced Aman, the son of Amadathi, who was of the race of Agag: and he set his throne above all the princes that were with him.
+
+###### v2
+And all the king's servants, that were at the doors of the palace, bent their knees, and worshipped Aman: for so the emperor had commanded them, only Mardochai did not bend his knee, nor worship him.
+
+###### v3
+And the king's servants that were chief at the doors of the palace, said to him: Why dost thou alone not observe the king's commandment?
+
+###### v4
+And when they were saying this often, and he would not hearken to them; they told Aman, desirous to know whether he would continue in his resolution: for he had told them that he was a Jew.
+
+###### v5
+Now when Aman had heard this, and had proved by experience that Mardochai did not bend his knee to him, nor worship him, he was exceeding angry.
+
+###### v6
+And he counted it nothing to lay his hands upon Mardochai alone: for he had heard that he was of the nation of the Jews, and he chose rather to destroy all the nation of the Jews that were in the kingdom of Assuerus.
+
+###### v7
+In the first month (which is called Nisan) in the twelfth year a of the reign of Assuerus, the lot was cast into an urn, which in Hebrew is called Phur, before Aman, on what day and what month the nation of the Jews should be destroyed: and there came out the twelfth month, which is called Adar.
+
+###### v8
+And Aman said to king Assuerus: There is a people scattered through all the provinces of thy kingdom, and separated one from another, that use new laws and ceremonies, and moreover despise the king's ordinances: and thou knowest very well that it is not expedient for thy kingdom that they should grow insolent by impunity.
+
+###### v9
+If it please thee, decree that they may he destroyed, and I will pay ten thousand talents to thy treasurers.
+
+###### v10
+And the king took the ring that he used, from his own hand, and gave it to Aman, the son of Amadathi of the race of Agag, the enemy of the Jews,
+
+###### v11
+And he said to him: As to the money which thou promisest, keep it for thyself: and as to the people, do with them as seemeth good to thee.
+
+###### v12
+And the king's scribes were called in the first month Nisan, on the thirteenth day of the same month: and they wrote, as Aman had commanded, to all the king's lieutenants, and to the judges of the provinces, and of divers nations, as every nation could read, and hear according to their different languages, in the name of king Assuerus: and the letters, sealed with his ring,
+
+###### v13
+Were sent by the king's messengers to all provinces, to kill and destroy all the Jews, both young and old, little children, and women, in one day, that is, on the thirteenth of the twelfth month, which is called Adar, and to make a spoil of their goods.
+
+###### v14
+And the contents of the letters were to this effect, that all provinces might know and be ready against that day.
+
+###### v15
+The couriers that were sent made haste to fulfill the king's commandment. And immediately the edict was hung up in Susan, the king and Aman feasting together, and all the Jews that were in the city weeping.
+
+---
+
+[← Esther 2](/notes/est-02/) | [Esther](/notes/esther/) | [Esther 4 →](/notes/est-04/)
