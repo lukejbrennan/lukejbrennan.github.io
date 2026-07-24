@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 087 - Some Arguments in Favour of the Simple Life"
 permalink: /notes/seneca-087-some-arguments-in-favour-of-the-simple-life/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

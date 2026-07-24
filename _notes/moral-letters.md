@@ -2,6 +2,7 @@
 layout: note
 title: "Moral Letters"
 permalink: /notes/moral-letters/
+section: "stoic-library"
 backlinks:
   - title: "Seneca 001 - On Saving Time"
     url: /notes/seneca-001-on-saving-time/

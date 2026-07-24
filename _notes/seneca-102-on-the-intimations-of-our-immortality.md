@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 102 - On the Intimations of Our Immortality"
 permalink: /notes/seneca-102-on-the-intimations-of-our-immortality/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

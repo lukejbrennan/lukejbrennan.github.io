@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 101 - On the Futility of Planning Ahead"
 permalink: /notes/seneca-101-on-the-futility-of-planning-ahead/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

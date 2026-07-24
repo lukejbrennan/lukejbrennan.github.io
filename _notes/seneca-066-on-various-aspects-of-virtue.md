@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 066 - On Various Aspects of Virtue"
 permalink: /notes/seneca-066-on-various-aspects-of-virtue/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

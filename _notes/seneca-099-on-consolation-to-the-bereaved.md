@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 099 - On Consolation to the Bereaved"
 permalink: /notes/seneca-099-on-consolation-to-the-bereaved/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

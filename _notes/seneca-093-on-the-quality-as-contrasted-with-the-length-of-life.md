@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 093 - On the Quality, as Contrasted with the Length, of Life"
 permalink: /notes/seneca-093-on-the-quality-as-contrasted-with-the-length-of-life/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

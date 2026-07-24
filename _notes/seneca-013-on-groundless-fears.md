@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 013 - On Groundless Fears"
 permalink: /notes/seneca-013-on-groundless-fears/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

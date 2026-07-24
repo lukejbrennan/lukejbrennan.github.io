@@ -2,6 +2,7 @@
 layout: note
 title: "Eccl-06"
 permalink: /notes/eccl-06/
+section: "bible"
 backlinks:
   - title: "Eccl-05"
     url: /notes/eccl-05/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 049 - On the Shortness of Life"
 permalink: /notes/seneca-049-on-the-shortness-of-life/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

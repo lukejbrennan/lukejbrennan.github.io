@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 067 - On Ill-Health and Endurance of Suffering"
 permalink: /notes/seneca-067-on-ill-health-and-endurance-of-suffering/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

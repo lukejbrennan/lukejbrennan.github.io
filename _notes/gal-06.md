@@ -2,6 +2,7 @@
 layout: note
 title: "Gal-06"
 permalink: /notes/gal-06/
+section: "bible"
 backlinks:
   - title: "Gal-05"
     url: /notes/gal-05/

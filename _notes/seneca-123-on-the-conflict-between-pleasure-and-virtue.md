@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 123 - On the Conflict Between Pleasure and Virtue"
 permalink: /notes/seneca-123-on-the-conflict-between-pleasure-and-virtue/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

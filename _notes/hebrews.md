@@ -2,6 +2,7 @@
 layout: note
 title: "Hebrews"
 permalink: /notes/hebrews/
+section: "bible"
 backlinks:
   - title: "Heb-01"
     url: /notes/heb-01/

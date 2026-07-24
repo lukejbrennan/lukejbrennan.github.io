@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 075 - On the Diseases of the Soul"
 permalink: /notes/seneca-075-on-the-diseases-of-the-soul/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 110 - On True and False Riches"
 permalink: /notes/seneca-110-on-true-and-false-riches/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

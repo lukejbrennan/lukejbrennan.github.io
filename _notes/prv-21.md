@@ -2,6 +2,7 @@
 layout: note
 title: "Prv-21"
 permalink: /notes/prv-21/
+section: "bible"
 backlinks:
   - title: "Proverbs"
     url: /notes/proverbs/

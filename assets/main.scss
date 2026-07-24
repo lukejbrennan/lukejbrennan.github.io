@@ -4,60 +4,45 @@
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
+// ---------- Zine Garden design tokens ----------
+// Riso-print palette (kraft paper + pink/blue spot colors) driving the
+// sidebar/explorer/search/graph chrome. Keyed off body.dark-mode, the same
+// mechanism the header's toggle already uses (see header.html).
+:root {
+  --zg-paper: #E7E1CF;
+  --zg-surface: #DED7C1;
+  --zg-surface-2: #D3CBB1;
+  --zg-ink: #201C17;
+  --zg-ink-soft: rgba(32,28,23,0.66);
+  --zg-ink-faint: rgba(32,28,23,0.36);
+  --zg-line: rgba(32,28,23,0.24);
+  --zg-pink: #DD3A87;
+  --zg-pink-ink: #2A0A18;
+  --zg-blue: #0072B0;
+  --zg-blue-ink: #05202E;
+  --zg-purple: #5B3E93;
+  --zg-focus: #0072B0;
+}
+body.dark-mode {
+  --zg-paper: #18151A;
+  --zg-surface: #221D24;
+  --zg-surface-2: #2A242D;
+  --zg-ink: #EDE6D6;
+  --zg-ink-soft: rgba(237,230,214,0.68);
+  --zg-ink-faint: rgba(237,230,214,0.36);
+  --zg-line: rgba(237,230,214,0.26);
+  --zg-pink: #FF71B2;
+  --zg-pink-ink: #2A0A18;
+  --zg-blue: #57B8EC;
+  --zg-blue-ink: #05202E;
+  --zg-purple: #A98BE0;
+  --zg-focus: #57B8EC;
+}
 
 .active {
     text-decoration: underline;
 }
 
-.wrapper-header {
-    //  changed <div class="wrapper"> _includes/header.html for <div class="wrapper-header">.
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-    @include media-query($on-laptop) {
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
-}
-.search-container {
-    padding: 100px;
-}
-
-.sidebar {
-    position: fixed;
-    right: 20px; /* Adjust for your layout */
-    top: 115px;
-    width: 200px;
-    padding: 10px;
-    border-radius: 5px;
-  }
-  
-  .sidebar ul {
-    list-style: none;
-    padding: 0;
-    margin-left: 0;
-  }
-  
-  .sidebar li {
-    margin: 5px 0;
-  }
-  
-  .sidebar a {
-    text-decoration: none;
-    color: #333;
-  }
-  
-  .sidebar a:hover {
-    text-decoration: underline;
-  }
-
-  //   makes sure the sidebar goes away with a small screen
-  @media screen and (max-width: 1189px) {
-    .sidebar {
-      display: none;
-    }
-  }
-  
 /* Make Disqus emoji reactions smaller */
 // #disqus_thread .post-reactions {
 //   transform: scale(0.7);   /* Shrinks the whole bar */
@@ -71,43 +56,15 @@
 // }
 
 
-// Dark mode toggle
-body.dark-mode {
-  background-color: #121212;
-  // background-color: #181818;
-  color: #ECECF1;
+// Page background follows the Zine Garden paper token everywhere.
+body {
+  background: var(--zg-paper);
+  background-image: radial-gradient(var(--zg-line) 0.6px, transparent 0.6px);
+  background-size: 14px 14px;
+  color: var(--zg-ink);
 }
-body.dark-mode a {
-  color: #80cbc4;
-  // // color: #A2E7DF;
-  // // color: #8EF0E0;
-  // // color: #894077;
-  // color: #A78BFA;
-}
-// body.dark-mode a:hover {
-//   color: #B388FF;
-// }
-
-body.dark-mode .site-header {
-  background-color: #1e1e1e;
-}
-
-/* Mobile nav dropdown: Minima gives .site-nav a white background on small
-   screens, which made the (white) dark-mode links invisible. */
-body.dark-mode .site-header .site-nav {
-  background-color: #1e1e1e;
-  border-color: #333;
-}
-
-body.dark-mode .site-header .site-title,
-body.dark-mode .site-header .site-title:visited,
-body.dark-mode .site-header .site-nav a {
-  color: #ffffff; /* header text and nav links */
-}
-
-body.dark-mode .site-header .site-nav a:hover {
-  color: #80cbc4; /* accent color on hover */
-}
+a { color: var(--zg-blue); }
+body.dark-mode a { color: var(--zg-blue); }
 
 #darkModeToggle {
   background: transparent;
@@ -118,16 +75,12 @@ body.dark-mode .site-header .site-nav a:hover {
   transition: transform 0.3s ease;
 }
 
-// #darkModeToggle:active {
-//   transform: rotate(180deg);
-// }
-
 /* Dark mode code block styling */
 body.dark-mode code,
 body.dark-mode .highlight {
-  background-color: #1e1e1e !important; /* dark background */
-  color: #e0e0e0 !important;           /* light text */
-  border-color: #333 !important;
+  background-color: var(--zg-surface-2) !important;
+  color: var(--zg-ink) !important;
+  border-color: var(--zg-line) !important;
 }
 
 /// IMAGES
@@ -292,5 +245,454 @@ img {
     position: absolute;
     inset: 0;
   }
+}
+
+// ---------- Zine Garden: three-column shell ----------
+.zg-mono {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+.zg-layout {
+  display: grid;
+  grid-template-columns: 226px minmax(0, 1fr) 264px;
+  align-items: start;
+}
+
+.zg-rail-left, .zg-rail-right {
+  background: var(--zg-surface);
+  padding: 1.6rem 1.15rem;
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+.zg-rail-left { border-right: 1.5px solid var(--zg-ink); }
+.zg-rail-right { border-left: 1.5px solid var(--zg-ink); }
+
+.zg-layout > .page-content {
+  min-width: 0;
+  padding: 2rem 2.25rem 5rem;
+}
+
+@media (max-width: 980px) {
+  .zg-layout { grid-template-columns: minmax(0, 1fr); }
+  .zg-rail-left, .zg-rail-right { display: none; }
+  .zg-layout > .page-content { padding: 1.75rem 1.25rem 4rem; }
+}
+
+// Above the breakpoint, the rail-left masthead/nav replaces the mobile
+// top bar entirely; below it, the top bar (with its hamburger nav) is the
+// only way to navigate, since both rails hide.
+@media (min-width: 981px) {
+  .site-header { display: none; }
+}
+
+// ---------- masthead + primary nav (rail-left) ----------
+.zg-masthead { margin-bottom: 1.3rem; }
+.zg-issue-tag {
+  @extend .zg-mono;
+  font-size: 0.66rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--zg-ink-faint);
+  margin: 0 0 0.35rem;
+}
+.zg-wordmark {
+  position: relative;
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  line-height: 1.05;
+  margin: 0 0 0.4rem;
+  text-decoration: none;
+}
+.zg-wordmark .zg-fill {
+  position: absolute;
+  left: -0.08em; right: -0.08em;
+  bottom: 0.08em; top: 0.5em;
+  background: var(--zg-pink);
+  transform: skew(-8deg);
+  z-index: 0;
+}
+.zg-wordmark span { position: relative; z-index: 1; color: var(--zg-pink-ink); }
+.zg-site-tag {
+  font-size: 0.78rem;
+  color: var(--zg-ink-soft);
+  margin: 0;
+}
+
+.zg-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.05rem;
+  margin: 0 0 1.3rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1.5px dashed var(--zg-line);
+  list-style: none;
+  padding-left: 0;
+}
+.zg-nav a {
+  @extend .zg-mono;
+  display: block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--zg-ink-soft);
+  padding: 0.28rem 0;
+  text-decoration: none;
+}
+.zg-nav li:nth-child(odd) a:hover { color: var(--zg-pink); }
+.zg-nav li:nth-child(even) a:hover { color: var(--zg-blue); }
+.zg-nav a.zg-current { color: var(--zg-ink); }
+.zg-nav a.zg-current::before { content: "» "; color: var(--zg-pink); }
+
+/* Mobile nav dropdown: Minima gives .site-nav a white background on small
+   screens; keep it legible against the paper tokens instead. */
+.site-header .site-nav {
+  background-color: var(--zg-surface);
+  border-color: var(--zg-line);
+}
+.site-header .site-title,
+.site-header .site-title:visited,
+.site-header .site-nav a {
+  color: var(--zg-ink);
+}
+.site-header .site-nav a:hover { color: var(--zg-pink); }
+
+// ---------- search trigger (sidebar) ----------
+.zg-search {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  width: 100%;
+  background: var(--zg-surface-2);
+  border: 1.5px dashed var(--zg-ink);
+  border-radius: 3px;
+  padding: 0.4rem 0.55rem;
+  margin: 1.2rem 0;
+  font: inherit;
+  color: var(--zg-ink-faint);
+  cursor: pointer;
+  text-align: left;
+  &:hover { border-color: var(--zg-pink); color: var(--zg-ink); }
+}
+.zg-search-placeholder {
+  @extend .zg-mono;
+  font-size: 0.76rem;
+  flex: 1;
+}
+.zg-search kbd {
+  @extend .zg-mono;
+  font-size: 0.64rem;
+  color: var(--zg-ink-faint);
+  border: 1px solid var(--zg-line);
+  border-radius: 3px;
+  padding: 0 0.3rem;
+}
+
+// ---------- search modal (takes over the screen) ----------
+.zg-search-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(10, 8, 6, 0.6);
+  padding: 8vh 1.25rem 1.25rem;
+  &.zg-open { display: flex; justify-content: center; }
+}
+body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
+
+.zg-search-modal {
+  width: min(880px, 100%);
+  max-height: 76vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--zg-surface);
+  border: 1.5px solid var(--zg-ink);
+  box-shadow: 8px 8px 0 var(--zg-line);
+}
+
+.zg-search-modal-input-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.9rem 1.1rem;
+  border-bottom: 1.5px solid var(--zg-ink);
+  flex: 0 0 auto;
+}
+.zg-search-modal-input-row input {
+  @extend .zg-mono;
+  flex: 1;
+  border: none;
+  background: transparent;
+  color: var(--zg-ink);
+  font-size: 1.05rem;
+  outline: none;
+  &::placeholder { color: var(--zg-ink-faint); }
+}
+.zg-search-modal-input-row kbd {
+  @extend .zg-mono;
+  font-size: 0.66rem;
+  color: var(--zg-ink-faint);
+  border: 1px solid var(--zg-line);
+  border-radius: 3px;
+  padding: 0.1rem 0.4rem;
+}
+
+.zg-search-modal-body {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+}
+
+.zg-search-modal-list {
+  flex: 0 0 38%;
+  max-width: 38%;
+  overflow-y: auto;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-right: 1.5px solid var(--zg-ink);
+}
+.zg-search-hit {
+  display: block;
+  padding: 0.6rem 0.85rem;
+  border-bottom: 1px solid var(--zg-line);
+  text-decoration: none;
+  &:last-child { border-bottom: none; }
+  &:hover, &.zg-active { background: var(--zg-surface-2); }
+  &.zg-active { border-left: 3px solid var(--zg-pink); padding-left: calc(0.85rem - 3px); }
+  .zg-hit-title {
+    font-size: 0.86rem;
+    font-weight: 700;
+    color: var(--zg-ink);
+    display: block;
+    margin-bottom: 0.15rem;
+  }
+  .zg-hit-tag {
+    @extend .zg-mono;
+    font-size: 0.66rem;
+    color: var(--zg-ink-faint);
+    text-transform: uppercase;
+  }
+  mark {
+    background: var(--zg-pink);
+    color: var(--zg-pink-ink);
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+}
+.zg-search-empty {
+  padding: 0.75rem 0.85rem;
+  font-size: 0.85rem;
+  color: var(--zg-ink-faint);
+  font-style: italic;
+}
+
+.zg-search-modal-preview {
+  flex: 1;
+  min-width: 0;
+  overflow-y: auto;
+  padding: 1.25rem 1.5rem;
+  h3 {
+    margin: 0 0 0.3rem;
+    font-size: 1.3rem;
+    font-weight: 800;
+  }
+  .zg-preview-meta {
+    @extend .zg-mono;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: var(--zg-ink-faint);
+    margin: 0 0 1rem;
+  }
+  .zg-preview-body {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--zg-ink-soft);
+  }
+  mark {
+    background: var(--zg-pink);
+    color: var(--zg-pink-ink);
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+}
+.zg-search-preview-empty {
+  color: var(--zg-ink-faint);
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 700px) {
+  .zg-search-modal-body { flex-direction: column; }
+  .zg-search-modal-list { flex: 0 0 auto; max-width: 100%; max-height: 40%; border-right: none; border-bottom: 1.5px solid var(--zg-ink); }
+}
+
+// ---------- explorer tree ----------
+.zg-explorer-label {
+  @extend .zg-mono;
+  font-size: 0.66rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--zg-ink-faint);
+  margin: 0 0 0.6rem;
+}
+.zg-tree, .zg-tree ul { list-style: none; margin: 0; padding: 0; }
+.zg-tree ul { padding-left: 1rem; }
+.zg-tree li { margin: 0.15rem 0; }
+.zg-tree summary {
+  cursor: pointer;
+  font-size: 0.82rem;
+  color: var(--zg-ink-soft);
+  list-style: none;
+  &::-webkit-details-marker { display: none; }
+  &::before { content: "▸ "; color: var(--zg-pink); font-size: 0.7em; }
+  &:hover { color: var(--zg-ink); }
+}
+.zg-tree details[open] > summary::before { content: "▾ "; color: var(--zg-blue); }
+.zg-tree .zg-leaf {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--zg-ink-soft);
+  padding: 0.05rem 0;
+  text-decoration: none;
+  &:hover { color: var(--zg-pink); }
+}
+.zg-tree .zg-count {
+  @extend .zg-mono;
+  color: var(--zg-ink-faint);
+  font-size: 0.7rem;
+}
+
+// ---------- home post list: "clip" cards ----------
+.zg-section-label {
+  @extend .zg-mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--zg-ink-faint);
+  margin: 0 0.3rem 1.4rem;
+}
+.zg-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 2.5rem;
+}
+.zg-clip {
+  position: relative;
+  background: var(--zg-surface);
+  border: 1.5px solid var(--zg-ink);
+  padding: 1.05rem 1.2rem 1.15rem;
+  box-shadow: 4px 4px 0 var(--zg-line);
+  &:hover { box-shadow: 6px 6px 0 var(--zg-pink); }
+  &.zg-even:hover { box-shadow: 6px 6px 0 var(--zg-blue); }
+}
+.zg-clip-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+.zg-clip-date {
+  @extend .zg-mono;
+  font-size: 0.7rem;
+  color: var(--zg-ink-faint);
+}
+.zg-clip-tag {
+  @extend .zg-mono;
+  font-size: 0.64rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.14rem 0.48rem;
+  border-radius: 2px;
+  color: #fff;
+  background: var(--zg-pink);
+  white-space: nowrap;
+  .zg-even & { background: var(--zg-blue); }
+  &.zg-untagged {
+    background: transparent;
+    color: var(--zg-ink-faint);
+    font-style: italic;
+    text-transform: none;
+    padding-left: 0;
+  }
+}
+.zg-clip-title {
+  margin: 0;
+  font-size: 1.24rem;
+  font-weight: 800;
+  line-height: 1.3;
+  text-wrap: balance;
+  a {
+    color: inherit;
+    text-decoration: none;
+    &:hover { color: var(--zg-pink); }
+  }
+}
+.zg-even .zg-clip-title a:hover { color: var(--zg-blue); }
+
+// ---------- graph + stats (rail-right) ----------
+.zg-panel { margin-bottom: 1.6rem; }
+.zg-panel-label {
+  @extend .zg-mono;
+  font-size: 0.66rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--zg-ink-faint);
+  margin: 0 0 0.7rem;
+}
+.zg-graph-box {
+  background: var(--zg-surface-2);
+  border: 1.5px solid var(--zg-ink);
+  padding: 0.5rem;
+}
+.zg-graph-hint {
+  @extend .zg-mono;
+  font-size: 0.66rem;
+  color: var(--zg-ink-faint);
+  text-align: center;
+  padding: 0.35rem 0 0;
+  min-height: 1.2em;
+  margin: 0;
+}
+.zg-graph-box .zg-goto {
+  display: block;
+  text-align: center;
+  @extend .zg-mono;
+  font-size: 0.7rem;
+  color: var(--zg-blue);
+  padding: 0.3rem 0 0.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  &:hover { color: var(--zg-pink); text-decoration: underline; }
+}
+.zg-stats {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.4rem 0.5rem;
+  @extend .zg-mono;
+  font-size: 0.76rem;
+  dt { color: var(--zg-ink-soft); }
+  dd {
+    margin: 0;
+    color: var(--zg-ink);
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+}
+.zg-updated {
+  @extend .zg-mono;
+  font-size: 0.68rem;
+  color: var(--zg-ink-faint);
+  margin: 0.4rem 0 0;
 }
 

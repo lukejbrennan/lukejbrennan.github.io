@@ -2,6 +2,7 @@
 layout: note
 title: "1 Corinthians"
 permalink: /notes/1-corinthians/
+section: "bible"
 backlinks:
   - title: "1 Cor-01"
     url: /notes/1-cor-01/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 055 - On Vatia\u2019s Villa"
 permalink: /notes/seneca-055-on-vatias-villa/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

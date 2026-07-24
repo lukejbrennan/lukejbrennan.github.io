@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 090 - On the Part Played by Philosophy in the Progress of Man"
 permalink: /notes/seneca-090-on-the-part-played-by-philosophy-in-the-progress-of-man/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

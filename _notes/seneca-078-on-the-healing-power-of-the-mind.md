@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 078 - On the Healing Power of the Mind"
 permalink: /notes/seneca-078-on-the-healing-power-of-the-mind/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

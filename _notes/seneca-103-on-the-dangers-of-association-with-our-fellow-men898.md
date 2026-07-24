@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 103 - On the Dangers of Association with Our Fellow-Men898"
 permalink: /notes/seneca-103-on-the-dangers-of-association-with-our-fellow-men898/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 022 - On the Futility of Halfway Measures"
 permalink: /notes/seneca-022-on-the-futility-of-halfway-measures/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

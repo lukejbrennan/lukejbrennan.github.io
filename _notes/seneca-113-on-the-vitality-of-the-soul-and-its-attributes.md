@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 113 - On the Vitality of the Soul and Its Attributes"
 permalink: /notes/seneca-113-on-the-vitality-of-the-soul-and-its-attributes/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "1 Thes-05"
 permalink: /notes/1-thes-05/
+section: "bible"
 backlinks:
   - title: "1 Thes-04"
     url: /notes/1-thes-04/

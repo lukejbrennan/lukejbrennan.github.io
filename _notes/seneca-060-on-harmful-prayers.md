@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 060 - On Harmful Prayers"
 permalink: /notes/seneca-060-on-harmful-prayers/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

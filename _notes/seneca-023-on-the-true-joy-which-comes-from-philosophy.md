@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 023 - On the True Joy Which Comes from Philosophy"
 permalink: /notes/seneca-023-on-the-true-joy-which-comes-from-philosophy/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

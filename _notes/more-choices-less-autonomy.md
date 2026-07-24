@@ -2,6 +2,7 @@
 layout: note
 title: "more choices, less autonomy"
 permalink: /notes/more-choices-less-autonomy/
+section: "root"
 backlinks:
   - title: "increase surface area for autonomy"
     url: /notes/increase-surface-area-for-autonomy/

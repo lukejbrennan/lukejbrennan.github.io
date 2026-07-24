@@ -2,6 +2,7 @@
 layout: note
 title: "Genesis"
 permalink: /notes/genesis/
+section: "bible"
 backlinks:
   - title: "Gn-01"
     url: /notes/gn-01/

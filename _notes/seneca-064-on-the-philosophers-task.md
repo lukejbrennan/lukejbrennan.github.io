@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 064 - On the Philosopher\u2019s Task"
 permalink: /notes/seneca-064-on-the-philosophers-task/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

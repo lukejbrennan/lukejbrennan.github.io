@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 094 - On the Value of Advice775"
 permalink: /notes/seneca-094-on-the-value-of-advice775/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

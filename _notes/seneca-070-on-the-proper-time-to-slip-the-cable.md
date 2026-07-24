@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 070 - On the Proper Time to Slip the Cable"
 permalink: /notes/seneca-070-on-the-proper-time-to-slip-the-cable/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

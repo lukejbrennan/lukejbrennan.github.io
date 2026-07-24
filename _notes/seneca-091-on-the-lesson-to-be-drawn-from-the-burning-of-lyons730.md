@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 091 - On the Lesson to Be Drawn from the Burning of Lyons730"
 permalink: /notes/seneca-091-on-the-lesson-to-be-drawn-from-the-burning-of-lyons730/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

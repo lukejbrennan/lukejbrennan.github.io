@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 019 - On Worldliness and Retirement"
 permalink: /notes/seneca-019-on-worldliness-and-retirement/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

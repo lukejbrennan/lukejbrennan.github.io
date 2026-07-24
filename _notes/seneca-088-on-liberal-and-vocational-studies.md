@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 088 - On Liberal and Vocational Studies"
 permalink: /notes/seneca-088-on-liberal-and-vocational-studies/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

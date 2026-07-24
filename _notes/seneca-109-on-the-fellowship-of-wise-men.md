@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 109 - On the Fellowship of Wise Men"
 permalink: /notes/seneca-109-on-the-fellowship-of-wise-men/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

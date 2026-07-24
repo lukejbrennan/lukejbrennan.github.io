@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 085 - On Some Vain Syllogisms"
 permalink: /notes/seneca-085-on-some-vain-syllogisms/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

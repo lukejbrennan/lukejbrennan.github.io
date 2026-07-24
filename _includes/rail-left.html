@@ -1,0 +1,67 @@
+<aside class="zg-rail-left">
+  <div class="zg-masthead">
+    <p class="zg-issue-tag">Vol. 3, No. 5</p>
+    <a class="zg-wordmark" href="{{ '/' | relative_url }}"><span class="zg-fill"></span><span>{{ site.title }}</span></a>
+    <p class="zg-site-tag">a photocopied garden of notes</p>
+  </div>
+
+  <button type="button" class="zg-search" id="zgSearchTrigger">
+    <span class="zg-mono" aria-hidden="true">✂</span>
+    <span class="zg-search-placeholder">Search notes…</span>
+    <kbd>/</kbd>
+  </button>
+
+  <ul class="zg-nav">
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li><a href="{{ '/writing/' | relative_url }}">Writing</a></li>
+    <li><a href="{{ '/graph/' | relative_url }}">Graph</a></li>
+    <li><a href="https://lukejhnbrnnn.substack.com/">Newsletter</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+    <li><a href="{{ '/categories/' | relative_url }}">All Posts</a></li>
+    <li><button id="darkModeToggleRail" class="dark-mode-toggle" type="button">✨🌙✨ Toggle Dark Mode</button></li>
+  </ul>
+
+  <p class="zg-explorer-label">// Explorer</p>
+  <ul class="zg-tree">
+    <li>
+      <details open>
+        <summary>Writing</summary>
+        <ul>
+          {%- for post in site.posts limit: 6 -%}
+          <li><a class="zg-leaf" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Literature Notes</summary>
+        <ul>
+          <li>
+            <details>
+              <summary>Bible <span class="zg-count">{{ site.notes | where: "section", "bible" | size }} notes</span></summary>
+              <ul>
+                <li><a class="zg-leaf" href="{{ '/notes/genesis/' | relative_url }}">Genesis</a></li>
+                <li><a class="zg-leaf" href="{{ '/notes/matthew/' | relative_url }}">Matthew</a></li>
+                <li><a class="zg-leaf" href="{{ '/notes/philemon/' | relative_url }}">Philemon</a></li>
+                <li><a class="zg-leaf" href="{{ '/notes/the-bible/' | relative_url }}">See all →</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Stoic Library <span class="zg-count">{{ site.notes | where: "section", "stoic-library" | size }} notes</span></summary>
+              <ul>
+                <li><a class="zg-leaf" href="{{ '/notes/meditations/' | relative_url }}">Meditations</a></li>
+                <li><a class="zg-leaf" href="{{ '/notes/enchiridion/' | relative_url }}">Enchiridion</a></li>
+                <li><a class="zg-leaf" href="{{ '/notes/moral-letters/' | relative_url }}">Moral Letters</a></li>
+                <li><a class="zg-leaf" href="{{ '/notes/stoic-library/' | relative_url }}">See all →</a></li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li><a class="zg-leaf" href="{{ '/categories/' | relative_url }}">Categories →</a></li>
+  </ul>
+</aside>

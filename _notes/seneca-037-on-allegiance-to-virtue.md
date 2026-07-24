@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 037 - On Allegiance to Virtue"
 permalink: /notes/seneca-037-on-allegiance-to-virtue/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

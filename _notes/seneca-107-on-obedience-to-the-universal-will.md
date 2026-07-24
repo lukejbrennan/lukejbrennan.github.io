@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 107 - On Obedience to the Universal Will"
 permalink: /notes/seneca-107-on-obedience-to-the-universal-will/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

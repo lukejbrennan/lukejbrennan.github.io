@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 024 - On Despising Death115"
 permalink: /notes/seneca-024-on-despising-death115/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

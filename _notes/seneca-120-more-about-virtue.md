@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 120 - More About Virtue"
 permalink: /notes/seneca-120-more-about-virtue/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

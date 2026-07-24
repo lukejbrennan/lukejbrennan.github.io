@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 073 - On Philosophers and Kings423"
 permalink: /notes/seneca-073-on-philosophers-and-kings423/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

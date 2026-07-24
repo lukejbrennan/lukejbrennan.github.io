@@ -2,6 +2,7 @@
 layout: note
 title: "Creating contexts we like"
 permalink: /notes/creating-contexts-we-like/
+section: "root"
 ---
 
 from [joy in being the driver](/notes/joy-in-being-the-driver/) and living a dream someone else has made for us

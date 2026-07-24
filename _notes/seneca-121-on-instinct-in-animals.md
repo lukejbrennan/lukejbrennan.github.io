@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 121 - On Instinct in Animals"
 permalink: /notes/seneca-121-on-instinct-in-animals/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 077 - On Taking One\u2019s Own Life"
 permalink: /notes/seneca-077-on-taking-ones-own-life/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

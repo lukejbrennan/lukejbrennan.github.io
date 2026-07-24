@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 096 - On Facing Hardships"
 permalink: /notes/seneca-096-on-facing-hardships/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

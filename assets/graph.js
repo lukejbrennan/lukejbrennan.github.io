@@ -31,6 +31,12 @@
   var root = document.getElementById("vault-graph");
   if (!root) return;
 
+  // Compact mode: a small, persistent sidebar preview rather than the full
+  // /graph/ page — fixed short height, no hint copy, no wheel-zoom (so it
+  // can't hijack page-scroll from inside a sidebar you're scrolling past).
+  var compact = root.hasAttribute("data-compact");
+  var sampleN = parseInt(root.getAttribute("data-sample") || "", 10) || 0;
+
   root.innerHTML = "";
   root.style.position = "relative";
 
@@ -41,12 +47,15 @@
   canvas.style.cursor = "grab";
   root.appendChild(canvas);
 
-  var hint = document.createElement("p");
-  hint.style.color = theme().muted;
-  hint.style.font = "13px system-ui, -apple-system, 'Segoe UI', sans-serif";
-  hint.style.margin = "8px 2px";
-  hint.textContent = "Drag to pan, scroll to zoom, click a note to read it.";
-  root.appendChild(hint);
+  var hint = null;
+  if (!compact) {
+    hint = document.createElement("p");
+    hint.style.color = theme().muted;
+    hint.style.font = "13px system-ui, -apple-system, 'Segoe UI', sans-serif";
+    hint.style.margin = "8px 2px";
+    hint.textContent = "Drag to pan, scroll to zoom, click a note to read it.";
+    root.appendChild(hint);
+  }
 
   var ctx = canvas.getContext("2d");
   var nodes = [], links = [], byTitle = {};
@@ -57,7 +66,7 @@
 
   function resize() {
     W = root.clientWidth;
-    H = Math.max(420, Math.min(640, Math.round(window.innerHeight * 0.65)));
+    H = compact ? 190 : Math.max(420, Math.min(640, Math.round(window.innerHeight * 0.65)));
     canvas.width = W * DPR;
     canvas.height = H * DPR;
     canvas.style.height = H + "px";
@@ -71,10 +80,30 @@
     p.textContent = msg;
     root.insertBefore(p, canvas);
     canvas.remove();
-    hint.remove();
+    if (hint) hint.remove();
+  }
+
+  function sampleGraph(data, n) {
+    var degree = data.nodes.map(function () { return 0; });
+    (data.links || []).forEach(function (l) {
+      degree[l.source]++; degree[l.target]++;
+    });
+    var keep = data.nodes.map(function (_, i) { return i; })
+      .sort(function (a, b) { return degree[b] - degree[a]; })
+      .slice(0, n);
+    var keepSet = {}; keep.forEach(function (i) { keepSet[i] = true; });
+    var remap = {}; keep.forEach(function (oldI, newI) { remap[oldI] = newI; });
+    return {
+      generated: data.generated, tag: data.tag,
+      nodes: keep.map(function (i) { return data.nodes[i]; }),
+      links: (data.links || [])
+        .filter(function (l) { return keepSet[l.source] && keepSet[l.target]; })
+        .map(function (l) { return { source: remap[l.source], target: remap[l.target] }; })
+    };
   }
 
   function init(data) {
+    if (sampleN && data.nodes && data.nodes.length > sampleN) data = sampleGraph(data, sampleN);
     if (!data.nodes || data.nodes.length === 0) {
       emptyState("Nothing here yet — notes tagged #" + (data.tag || "published") + " will show up as a graph.");
       return;
@@ -211,8 +240,10 @@
     });
     ctx.globalAlpha = 1;
 
-    // labels: always when zoomed in or few nodes; otherwise focus + neighbors
-    var showAll = view.k > 0.8 || nodes.length <= 30;
+    // labels: always when zoomed in or few nodes; otherwise focus + neighbors.
+    // Compact mode never shows all-at-once — a small sidebar box gets too
+    // cluttered — only the hovered/highlighted node gets a label there.
+    var showAll = !compact && (view.k > 0.8 || nodes.length <= 30);
     ctx.font = (12 / view.k) + "px system-ui, -apple-system, 'Segoe UI', sans-serif";
     ctx.textAlign = "center";
     nodes.forEach(function (n) {
@@ -296,19 +327,21 @@
     canvas.style.cursor = "grab";
   });
 
-  canvas.addEventListener("wheel", function (ev) {
-    ev.preventDefault();
-    var p = pos(ev);
-    var k = Math.max(0.15, Math.min(4, view.k * Math.pow(1.0015, -ev.deltaY)));
-    view.x = p.x - (p.x - view.x) * (k / view.k);
-    view.y = p.y - (p.y - view.y) * (k / view.k);
-    view.k = k;
-    draw();
-  }, { passive: false });
+  if (!compact) {
+    canvas.addEventListener("wheel", function (ev) {
+      ev.preventDefault();
+      var p = pos(ev);
+      var k = Math.max(0.15, Math.min(4, view.k * Math.pow(1.0015, -ev.deltaY)));
+      view.x = p.x - (p.x - view.x) * (k / view.k);
+      view.y = p.y - (p.y - view.y) * (k / view.k);
+      view.k = k;
+      draw();
+    }, { passive: false });
+  }
 
   /* ---- boot ---- */
   window.addEventListener("resize", resize);
-  function retheme() { hint.style.color = theme().muted; draw(); }
+  function retheme() { if (hint) hint.style.color = theme().muted; draw(); }
   if (window.matchMedia) {
     window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", retheme);
   }

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 010 - On Living to Oneself"
 permalink: /notes/seneca-010-on-living-to-oneself/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

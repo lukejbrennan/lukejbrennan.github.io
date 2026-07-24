@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 021 - On the Renown Which My Writings Will Bring You"
 permalink: /notes/seneca-021-on-the-renown-which-my-writings-will-bring-you/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

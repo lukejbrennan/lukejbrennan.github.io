@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 036 - On the Value of Retirement"
 permalink: /notes/seneca-036-on-the-value-of-retirement/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

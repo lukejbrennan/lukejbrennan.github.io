@@ -14,14 +14,22 @@
       📖 <a href="/well-shit/" style="color: #fff; font-weight: bold; text-decoration: underline;">Pooped yourself?</a> — You're not alone...
     </div>
     {%- include header.html -%}
-    {%- include sidebar.html -%}
-    
-    <main class="page-content" aria-label="Content">
-      
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+
+    <div class="zg-layout">
+      {%- include rail-left.html -%}
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+
+      {%- include rail-right.html -%}
+    </div>
+
+    {%- include search-modal.html -%}
+    <script src="{{ '/assets/search.js' | relative_url }}" defer></script>
+
     {% unless page.hide_footer %}
       {%- include footer.html -%}
     {% endunless %}

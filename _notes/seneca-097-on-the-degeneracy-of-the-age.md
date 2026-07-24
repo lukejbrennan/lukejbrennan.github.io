@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 097 - On the Degeneracy of the Age"
 permalink: /notes/seneca-097-on-the-degeneracy-of-the-age/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

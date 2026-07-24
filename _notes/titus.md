@@ -2,6 +2,7 @@
 layout: note
 title: "Titus"
 permalink: /notes/titus/
+section: "bible"
 backlinks:
   - title: "The Bible"
     url: /notes/the-bible/

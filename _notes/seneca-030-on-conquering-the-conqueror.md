@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 030 - On Conquering the Conqueror"
 permalink: /notes/seneca-030-on-conquering-the-conqueror/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

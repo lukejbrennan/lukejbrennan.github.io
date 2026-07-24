@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 011 - On the Blush of Modesty"
 permalink: /notes/seneca-011-on-the-blush-of-modesty/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "1 Samuel"
 permalink: /notes/1-samuel/
+section: "bible"
 backlinks:
   - title: "1 Sm-01"
     url: /notes/1-sm-01/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 089 - On the Parts of Philosophy"
 permalink: /notes/seneca-089-on-the-parts-of-philosophy/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

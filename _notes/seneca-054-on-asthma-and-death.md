@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 054 - On Asthma and Death"
 permalink: /notes/seneca-054-on-asthma-and-death/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

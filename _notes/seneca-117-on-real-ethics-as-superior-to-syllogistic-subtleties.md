@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 117 - On Real Ethics as Superior to Syllogistic Subtleties"
 permalink: /notes/seneca-117-on-real-ethics-as-superior-to-syllogistic-subtleties/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

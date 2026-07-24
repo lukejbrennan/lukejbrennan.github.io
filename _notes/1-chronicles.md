@@ -2,6 +2,7 @@
 layout: note
 title: "1 Chronicles"
 permalink: /notes/1-chronicles/
+section: "bible"
 backlinks:
   - title: "1 Chr-01"
     url: /notes/1-chr-01/

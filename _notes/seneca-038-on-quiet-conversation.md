@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 038 - On Quiet Conversation"
 permalink: /notes/seneca-038-on-quiet-conversation/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

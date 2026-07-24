@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 069 - On Rest and Restlessness"
 permalink: /notes/seneca-069-on-rest-and-restlessness/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

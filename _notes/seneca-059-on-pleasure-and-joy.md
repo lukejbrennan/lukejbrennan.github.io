@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 059 - On Pleasure and Joy"
 permalink: /notes/seneca-059-on-pleasure-and-joy/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

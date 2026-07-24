@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 052 - On Choosing Our Teachers"
 permalink: /notes/seneca-052-on-choosing-our-teachers/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

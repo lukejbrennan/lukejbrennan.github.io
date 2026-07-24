@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 111 - On the Vanity of Mental Gymnastics"
 permalink: /notes/seneca-111-on-the-vanity-of-mental-gymnastics/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

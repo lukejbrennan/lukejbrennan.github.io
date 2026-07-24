@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 081 - On Benefits.524"
 permalink: /notes/seneca-081-on-benefits-524/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

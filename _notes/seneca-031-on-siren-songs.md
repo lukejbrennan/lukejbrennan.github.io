@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 031 - On Siren Songs"
 permalink: /notes/seneca-031-on-siren-songs/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

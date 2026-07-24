@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 058 - On Being"
 permalink: /notes/seneca-058-on-being/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

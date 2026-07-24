@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 122 - On Darkness as a Veil for Wickedness"
 permalink: /notes/seneca-122-on-darkness-as-a-veil-for-wickedness/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

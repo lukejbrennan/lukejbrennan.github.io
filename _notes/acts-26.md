@@ -2,6 +2,7 @@
 layout: note
 title: "Acts-26"
 permalink: /notes/acts-26/
+section: "bible"
 backlinks:
   - title: "Acts of the Apostles"
     url: /notes/acts-of-the-apostles/

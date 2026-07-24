@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 040 - On the Proper Style for a Philosopher\u2019s Discourse"
 permalink: /notes/seneca-040-on-the-proper-style-for-a-philosophers-discourse/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

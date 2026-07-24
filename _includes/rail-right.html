@@ -1,0 +1,59 @@
+<aside class="zg-rail-right">
+  {% if page.layout == "note" %}
+  <script>
+  (function () {
+    var current = { id: {{ page.title | jsonify }}, url: {{ page.url | relative_url | jsonify }} };
+    var incoming = [
+      {%- for b in page.backlinks -%}
+      { id: {{ b.title | jsonify }}, url: {{ b.url | relative_url | jsonify }} }{% unless forloop.last %},{% endunless %}
+      {%- endfor -%}
+    ];
+    // Keyed by URL, not title: the same note can appear under different
+    // link text (a chapter's title in the backlinks list vs. just its
+    // number "12" in an index note's "1 · 2 · 3 …" chapter list).
+    var seen = {};
+    var nodes = [current];
+    seen[current.url] = 0;
+    incoming.forEach(function (n) {
+      if (!(n.url in seen)) { seen[n.url] = nodes.length; nodes.push(n); }
+    });
+    // outgoing links: already rendered as real anchors in the note body
+    document.querySelectorAll(".post-content a[href^='/notes/']").forEach(function (a) {
+      var url = a.getAttribute("href");
+      if (url && !(url in seen)) {
+        seen[url] = nodes.length;
+        nodes.push({ id: a.textContent.trim() || url, url: url });
+      }
+    });
+    var links = [];
+    for (var i = 1; i < nodes.length; i++) links.push({ source: 0, target: i });
+    window.GRAPH_DATA = { nodes: nodes, links: links };
+  })();
+  </script>
+  {% endif %}
+
+  {% unless page.url == "/graph/" %}
+  <div class="zg-panel">
+    <p class="zg-panel-label">Graph preview</p>
+    <div class="zg-graph-box">
+      <div id="vault-graph" data-compact {% unless page.layout == "note" %}data-sample="14"{% endunless %}></div>
+      <a class="zg-goto" href="{{ '/graph/' | relative_url }}{% if page.layout == 'note' %}#{{ page.title | url_encode }}{% endif %}">open full graph →</a>
+    </div>
+  </div>
+  {% endunless %}
+
+  <div class="zg-panel">
+    <p class="zg-panel-label">Garden stats</p>
+    <dl class="zg-stats">
+      <dt>notes published</dt><dd>{{ site.notes.size }}</dd>
+      <dt>from the Bible</dt><dd>{{ site.notes | where: "section", "bible" | size }}</dd>
+      <dt>from Stoic library</dt><dd>{{ site.notes | where: "section", "stoic-library" | size }}</dd>
+      <dt>essays</dt><dd>{{ site.posts.size }}</dd>
+    </dl>
+    <p class="zg-updated">generated {{ site.time | date: "%Y-%m-%d" }}</p>
+  </div>
+</aside>
+
+{% unless page.url == "/graph/" %}
+<script src="{{ '/assets/graph.js' | relative_url }}" defer></script>
+{% endunless %}

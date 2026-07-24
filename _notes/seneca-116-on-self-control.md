@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 116 - On Self-Control"
 permalink: /notes/seneca-116-on-self-control/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

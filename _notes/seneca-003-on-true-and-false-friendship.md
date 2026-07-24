@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 003 - On True and False Friendship"
 permalink: /notes/seneca-003-on-true-and-false-friendship/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

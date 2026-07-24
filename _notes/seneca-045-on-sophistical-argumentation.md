@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 045 - On Sophistical Argumentation"
 permalink: /notes/seneca-045-on-sophistical-argumentation/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

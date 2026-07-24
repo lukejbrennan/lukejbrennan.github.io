@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 018 - On Festivals and Fasting"
 permalink: /notes/seneca-018-on-festivals-and-fasting/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

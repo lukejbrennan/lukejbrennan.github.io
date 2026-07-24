@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 100 - On the Writings of Fabianus"
 permalink: /notes/seneca-100-on-the-writings-of-fabianus/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

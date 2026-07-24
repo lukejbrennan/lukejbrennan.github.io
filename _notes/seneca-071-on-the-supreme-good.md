@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 071 - On the Supreme Good"
 permalink: /notes/seneca-071-on-the-supreme-good/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 114 - On Style as a Mirror of Character"
 permalink: /notes/seneca-114-on-style-as-a-mirror-of-character/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

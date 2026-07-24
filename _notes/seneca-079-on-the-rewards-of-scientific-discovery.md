@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 079 - On the Rewards of Scientific Discovery"
 permalink: /notes/seneca-079-on-the-rewards-of-scientific-discovery/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

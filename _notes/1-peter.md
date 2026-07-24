@@ -2,6 +2,7 @@
 layout: note
 title: "1 Peter"
 permalink: /notes/1-peter/
+section: "bible"
 backlinks:
   - title: "1 Pt-01"
     url: /notes/1-pt-01/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 032 - On Progress"
 permalink: /notes/seneca-032-on-progress/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

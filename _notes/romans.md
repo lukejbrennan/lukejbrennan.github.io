@@ -2,6 +2,7 @@
 layout: note
 title: "Romans"
 permalink: /notes/romans/
+section: "bible"
 backlinks:
   - title: "Rom-01"
     url: /notes/rom-01/

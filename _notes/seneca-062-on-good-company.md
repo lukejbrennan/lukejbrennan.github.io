@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 062 - On Good Company"
 permalink: /notes/seneca-062-on-good-company/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

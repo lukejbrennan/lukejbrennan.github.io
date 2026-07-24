@@ -2,6 +2,7 @@
 layout: note
 title: "increase surface area for autonomy"
 permalink: /notes/increase-surface-area-for-autonomy/
+section: "root"
 backlinks:
   - title: "joy in being the driver"
     url: /notes/joy-in-being-the-driver/

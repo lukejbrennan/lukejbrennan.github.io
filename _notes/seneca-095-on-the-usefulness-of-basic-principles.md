@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 095 - On the Usefulness of Basic Principles"
 permalink: /notes/seneca-095-on-the-usefulness-of-basic-principles/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 027 - On the Good Which Abides"
 permalink: /notes/seneca-027-on-the-good-which-abides/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

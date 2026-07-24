@@ -2,6 +2,7 @@
 layout: note
 title: "Magnifica Humanitas 78 (summary)"
 permalink: /notes/magnifica-humanitas-78-summary/
+section: "magnifica-humanitas"
 backlinks:
   - title: "Magnifica Humanitas 77 (summary)"
     url: /notes/magnifica-humanitas-77-summary/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 112 - On Reforming Hardened Sinners"
 permalink: /notes/seneca-112-on-reforming-hardened-sinners/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

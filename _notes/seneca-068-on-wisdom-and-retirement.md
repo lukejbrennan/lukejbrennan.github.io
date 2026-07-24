@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 068 - On Wisdom and Retirement"
 permalink: /notes/seneca-068-on-wisdom-and-retirement/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

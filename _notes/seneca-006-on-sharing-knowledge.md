@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 006 - On Sharing Knowledge"
 permalink: /notes/seneca-006-on-sharing-knowledge/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

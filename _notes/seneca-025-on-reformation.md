@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 025 - On Reformation"
 permalink: /notes/seneca-025-on-reformation/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

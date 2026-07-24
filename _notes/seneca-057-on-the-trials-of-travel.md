@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 057 - On the Trials of Travel"
 permalink: /notes/seneca-057-on-the-trials-of-travel/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

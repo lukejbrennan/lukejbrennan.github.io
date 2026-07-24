@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 048 - On Quibbling as Unworthy of the Philosopher"
 permalink: /notes/seneca-048-on-quibbling-as-unworthy-of-the-philosopher/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

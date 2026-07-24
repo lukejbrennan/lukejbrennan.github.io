@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 053 - On the Faults of the Spirit"
 permalink: /notes/seneca-053-on-the-faults-of-the-spirit/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

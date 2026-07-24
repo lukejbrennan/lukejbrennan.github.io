@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 007 - On Crowds"
 permalink: /notes/seneca-007-on-crowds/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

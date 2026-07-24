@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 050 - On Our Blindness and Its Cure"
 permalink: /notes/seneca-050-on-our-blindness-and-its-cure/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

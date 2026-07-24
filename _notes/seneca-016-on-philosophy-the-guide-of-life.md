@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 016 - On Philosophy, the Guide of Life"
 permalink: /notes/seneca-016-on-philosophy-the-guide-of-life/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

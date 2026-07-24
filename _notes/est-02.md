@@ -2,6 +2,7 @@
 layout: note
 title: "Est-02"
 permalink: /notes/est-02/
+section: "bible"
 backlinks:
   - title: "Est-01"
     url: /notes/est-01/

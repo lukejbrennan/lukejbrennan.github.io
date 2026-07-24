@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 033 - On the Futility of Learning Maxims"
 permalink: /notes/seneca-033-on-the-futility-of-learning-maxims/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

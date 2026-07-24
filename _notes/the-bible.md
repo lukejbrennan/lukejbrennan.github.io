@@ -2,6 +2,7 @@
 layout: note
 title: "The Bible"
 permalink: /notes/the-bible/
+section: "bible"
 backlinks:
   - title: "1 Chronicles"
     url: /notes/1-chronicles/

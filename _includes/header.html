@@ -18,34 +18,32 @@
         <a class="page-link" href="https://lukejhnbrnnn.substack.com/">Newsletter</a>
         <a class="page-link" href="/about/">About</a>
         <a class="page-link" href="/categories/">All Posts</a>
-        <button id="darkModeToggle">🌙 Toggle Dark Mode</button>
+        <button id="darkModeToggle" class="dark-mode-toggle">🌙 Toggle Dark Mode</button>
       </div>
     </nav>
   </div>
   <script>
-  const toggle = document.getElementById('darkModeToggle');
-
-  // Load saved preference or system preference
+  // Shared by every .dark-mode-toggle button on the page (the mobile header's
+  // and the desktop rail's). Delegated on document + re-queried at paint time
+  // rather than cached on load, since the rail's button lives in a later
+  // include and doesn't exist yet when this script (in header.html) runs.
   const savedTheme = localStorage.getItem('theme');
   const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  let dark = savedTheme === 'dark' || (!savedTheme && prefersDark);
 
-  if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
-    document.body.classList.add('dark-mode');
-    toggle.textContent = '✨☀️✨'; // sun shows when dark mode is on
-  } else {
-    toggle.textContent = '✨🌙✨'; // moon shows in light mode
+  function paint() {
+    document.body.classList.toggle('dark-mode', dark);
+    document.querySelectorAll('.dark-mode-toggle').forEach((t) => {
+      t.textContent = dark ? '✨☀️✨' : '✨🌙✨';
+    });
   }
 
-  // Toggle dark mode✨
-  toggle.addEventListener('click', () => {
-    document.body.classList.toggle('dark-mode');
-    if (document.body.classList.contains('dark-mode')) {
-      toggle.textContent = '✨☀️✨';   // sun when dark
-      localStorage.setItem('theme', 'dark');
-    } else {
-      toggle.textContent = '✨🌙✨';   // moon when light
-      localStorage.setItem('theme', 'light');
-    }
+  document.addEventListener('DOMContentLoaded', paint);
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.dark-mode-toggle')) return;
+    dark = !dark;
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+    paint();
   });
 </script>
 

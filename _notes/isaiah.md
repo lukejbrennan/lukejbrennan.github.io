@@ -2,6 +2,7 @@
 layout: note
 title: "Isaiah"
 permalink: /notes/isaiah/
+section: "bible"
 backlinks:
   - title: "Is-01"
     url: /notes/is-01/

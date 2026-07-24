@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 028 - On Travel as a Cure for Discontent"
 permalink: /notes/seneca-028-on-travel-as-a-cure-for-discontent/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

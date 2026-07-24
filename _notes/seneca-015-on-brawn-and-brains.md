@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 015 - On Brawn and Brains"
 permalink: /notes/seneca-015-on-brawn-and-brains/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

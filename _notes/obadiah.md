@@ -2,6 +2,7 @@
 layout: note
 title: "Obadiah"
 permalink: /notes/obadiah/
+section: "bible"
 backlinks:
   - title: "Ob-01"
     url: /notes/ob-01/

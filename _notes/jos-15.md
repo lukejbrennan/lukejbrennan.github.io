@@ -2,6 +2,7 @@
 layout: note
 title: "Jos-15"
 permalink: /notes/jos-15/
+section: "bible"
 backlinks:
   - title: "Jos-14"
     url: /notes/jos-14/

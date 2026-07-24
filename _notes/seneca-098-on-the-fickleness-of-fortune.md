@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 098 - On the Fickleness of Fortune"
 permalink: /notes/seneca-098-on-the-fickleness-of-fortune/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 056 - On Quiet and Study"
 permalink: /notes/seneca-056-on-quiet-and-study/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

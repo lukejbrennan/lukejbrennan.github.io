@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 047 - On Master and Slave"
 permalink: /notes/seneca-047-on-master-and-slave/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

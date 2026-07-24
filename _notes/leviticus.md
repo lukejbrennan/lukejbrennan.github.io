@@ -2,6 +2,7 @@
 layout: note
 title: "Leviticus"
 permalink: /notes/leviticus/
+section: "bible"
 backlinks:
   - title: "Lv-01"
     url: /notes/lv-01/

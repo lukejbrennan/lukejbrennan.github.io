@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 065 - On the First Cause"
 permalink: /notes/seneca-065-on-the-first-cause/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 017 - On Philosophy and Riches"
 permalink: /notes/seneca-017-on-philosophy-and-riches/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

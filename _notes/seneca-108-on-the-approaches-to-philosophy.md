@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 108 - On the Approaches to Philosophy"
 permalink: /notes/seneca-108-on-the-approaches-to-philosophy/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

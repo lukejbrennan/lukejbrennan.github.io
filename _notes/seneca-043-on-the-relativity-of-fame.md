@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 043 - On the Relativity of Fame"
 permalink: /notes/seneca-043-on-the-relativity-of-fame/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

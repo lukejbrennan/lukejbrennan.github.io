@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 092 - On the Happy Life746"
 permalink: /notes/seneca-092-on-the-happy-life746/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

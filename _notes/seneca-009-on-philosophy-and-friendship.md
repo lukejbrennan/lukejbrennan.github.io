@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 009 - On Philosophy and Friendship"
 permalink: /notes/seneca-009-on-philosophy-and-friendship/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

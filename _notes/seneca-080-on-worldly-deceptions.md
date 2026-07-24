@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 080 - On Worldly Deceptions"
 permalink: /notes/seneca-080-on-worldly-deceptions/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

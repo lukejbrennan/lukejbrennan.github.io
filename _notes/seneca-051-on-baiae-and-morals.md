@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 051 - On Baiae and Morals"
 permalink: /notes/seneca-051-on-baiae-and-morals/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

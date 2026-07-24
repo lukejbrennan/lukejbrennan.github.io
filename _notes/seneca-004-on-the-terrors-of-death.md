@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 004 - On the Terrors of Death"
 permalink: /notes/seneca-004-on-the-terrors-of-death/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

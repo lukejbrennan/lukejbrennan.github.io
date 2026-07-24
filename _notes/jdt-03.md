@@ -2,6 +2,7 @@
 layout: note
 title: "Jdt-03"
 permalink: /notes/jdt-03/
+section: "bible"
 backlinks:
   - title: "Jdt-02"
     url: /notes/jdt-02/

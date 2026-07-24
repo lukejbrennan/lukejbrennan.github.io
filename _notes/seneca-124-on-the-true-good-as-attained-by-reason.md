@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 124 - On the True Good as Attained by Reason"
 permalink: /notes/seneca-124-on-the-true-good-as-attained-by-reason/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

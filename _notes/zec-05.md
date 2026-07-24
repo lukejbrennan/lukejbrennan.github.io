@@ -2,6 +2,7 @@
 layout: note
 title: "Zec-05"
 permalink: /notes/zec-05/
+section: "bible"
 backlinks:
   - title: "Zec-04"
     url: /notes/zec-04/

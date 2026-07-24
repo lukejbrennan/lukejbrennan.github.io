@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 042 - On Values"
 permalink: /notes/seneca-042-on-values/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

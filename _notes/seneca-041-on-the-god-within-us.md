@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 041 - On the God Within Us"
 permalink: /notes/seneca-041-on-the-god-within-us/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

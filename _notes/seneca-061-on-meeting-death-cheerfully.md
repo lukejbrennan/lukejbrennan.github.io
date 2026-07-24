@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 061 - On Meeting Death Cheerfully"
 permalink: /notes/seneca-061-on-meeting-death-cheerfully/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

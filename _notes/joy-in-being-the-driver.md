@@ -2,6 +2,7 @@
 layout: note
 title: "joy in being the driver"
 permalink: /notes/joy-in-being-the-driver/
+section: "literature-notes"
 backlinks:
   - title: "Creating contexts we like"
     url: /notes/creating-contexts-we-like/

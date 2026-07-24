@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 044 - On Philosophy and Pedigrees"
 permalink: /notes/seneca-044-on-philosophy-and-pedigrees/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

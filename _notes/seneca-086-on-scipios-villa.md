@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 086 - On Scipio\u2019s Villa"
 permalink: /notes/seneca-086-on-scipios-villa/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

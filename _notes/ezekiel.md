@@ -2,6 +2,7 @@
 layout: note
 title: "Ezekiel"
 permalink: /notes/ezekiel/
+section: "bible"
 backlinks:
   - title: "Ez-01"
     url: /notes/ez-01/

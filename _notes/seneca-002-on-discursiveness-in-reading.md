@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 002 - On Discursiveness in Reading"
 permalink: /notes/seneca-002-on-discursiveness-in-reading/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

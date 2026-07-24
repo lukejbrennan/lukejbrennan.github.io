@@ -2,6 +2,7 @@
 layout: note
 title: "Jonah"
 permalink: /notes/jonah/
+section: "bible"
 backlinks:
   - title: "Jon-01"
     url: /notes/jon-01/

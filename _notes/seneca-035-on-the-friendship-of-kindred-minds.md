@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 035 - On the Friendship of Kindred Minds"
 permalink: /notes/seneca-035-on-the-friendship-of-kindred-minds/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

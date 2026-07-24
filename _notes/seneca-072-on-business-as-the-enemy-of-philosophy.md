@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 072 - On Business as the Enemy of Philosophy"
 permalink: /notes/seneca-072-on-business-as-the-enemy-of-philosophy/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 008 - On the Philosopher\u2019s Seclusion"
 permalink: /notes/seneca-008-on-the-philosophers-seclusion/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

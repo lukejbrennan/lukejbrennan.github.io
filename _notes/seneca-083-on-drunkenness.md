@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 083 - On Drunkenness"
 permalink: /notes/seneca-083-on-drunkenness/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

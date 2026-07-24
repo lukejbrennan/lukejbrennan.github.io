@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 084 - On Gathering Ideas577"
 permalink: /notes/seneca-084-on-gathering-ideas577/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

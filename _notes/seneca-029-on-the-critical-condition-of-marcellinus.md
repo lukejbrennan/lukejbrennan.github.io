@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 029 - On the Critical Condition of Marcellinus"
 permalink: /notes/seneca-029-on-the-critical-condition-of-marcellinus/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

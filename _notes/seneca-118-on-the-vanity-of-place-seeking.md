@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 118 - On the Vanity of Place-Seeking"
 permalink: /notes/seneca-118-on-the-vanity-of-place-seeking/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

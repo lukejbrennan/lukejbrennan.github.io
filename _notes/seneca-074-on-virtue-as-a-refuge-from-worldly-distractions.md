@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 074 - On Virtue as a Refuge from Worldly Distractions"
 permalink: /notes/seneca-074-on-virtue-as-a-refuge-from-worldly-distractions/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

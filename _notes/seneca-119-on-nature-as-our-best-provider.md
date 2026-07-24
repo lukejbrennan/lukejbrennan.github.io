@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 119 - On Nature as Our Best Provider"
 permalink: /notes/seneca-119-on-nature-as-our-best-provider/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

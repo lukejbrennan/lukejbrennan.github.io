@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 063 - On Grief for Lost Friends"
 permalink: /notes/seneca-063-on-grief-for-lost-friends/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

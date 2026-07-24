@@ -2,6 +2,7 @@
 layout: note
 title: "Zechariah"
 permalink: /notes/zechariah/
+section: "bible"
 backlinks:
   - title: "The Bible"
     url: /notes/the-bible/

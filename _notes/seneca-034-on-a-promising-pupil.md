@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 034 - On a Promising Pupil"
 permalink: /notes/seneca-034-on-a-promising-pupil/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

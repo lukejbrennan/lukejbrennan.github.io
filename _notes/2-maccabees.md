@@ -2,6 +2,7 @@
 layout: note
 title: "2 Maccabees"
 permalink: /notes/2-maccabees/
+section: "bible"
 backlinks:
   - title: "2 Mc-01"
     url: /notes/2-mc-01/

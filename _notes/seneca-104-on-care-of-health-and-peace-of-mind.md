@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 104 - On Care of Health and Peace of Mind"
 permalink: /notes/seneca-104-on-care-of-health-and-peace-of-mind/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

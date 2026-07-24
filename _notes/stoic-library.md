@@ -2,6 +2,7 @@
 layout: note
 title: "Stoic Library"
 permalink: /notes/stoic-library/
+section: "stoic-library"
 backlinks:
   - title: "Enchiridion"
     url: /notes/enchiridion/

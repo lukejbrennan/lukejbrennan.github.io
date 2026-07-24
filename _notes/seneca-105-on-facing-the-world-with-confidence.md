@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 105 - On Facing the World with Confidence"
 permalink: /notes/seneca-105-on-facing-the-world-with-confidence/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

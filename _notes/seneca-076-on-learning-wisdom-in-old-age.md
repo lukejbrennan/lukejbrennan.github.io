@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 076 - On Learning Wisdom in Old Age"
 permalink: /notes/seneca-076-on-learning-wisdom-in-old-age/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

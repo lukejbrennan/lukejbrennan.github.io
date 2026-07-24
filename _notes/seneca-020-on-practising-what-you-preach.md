@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 020 - On Practising What You Preach"
 permalink: /notes/seneca-020-on-practising-what-you-preach/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

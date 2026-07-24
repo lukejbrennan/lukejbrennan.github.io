@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 046 - On a New Book by Lucilius"
 permalink: /notes/seneca-046-on-a-new-book-by-lucilius/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 106 - On the Corporeality of Virtue"
 permalink: /notes/seneca-106-on-the-corporeality-of-virtue/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 026 - On Old Age and Death"
 permalink: /notes/seneca-026-on-old-age-and-death/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 014 - On the Reasons for Withdrawing from the World"
 permalink: /notes/seneca-014-on-the-reasons-for-withdrawing-from-the-world/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

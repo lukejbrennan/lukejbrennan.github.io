@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 115 - On the Superficial Blessings"
 permalink: /notes/seneca-115-on-the-superficial-blessings/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

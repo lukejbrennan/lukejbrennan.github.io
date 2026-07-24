@@ -2,6 +2,7 @@
 layout: note
 title: "Song of Songs"
 permalink: /notes/song-of-songs/
+section: "bible"
 backlinks:
   - title: "Sg-01"
     url: /notes/sg-01/

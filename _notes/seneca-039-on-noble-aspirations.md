@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 039 - On Noble Aspirations"
 permalink: /notes/seneca-039-on-noble-aspirations/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

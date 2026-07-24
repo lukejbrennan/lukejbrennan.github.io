@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 082 - On the Natural Fear of Death"
 permalink: /notes/seneca-082-on-the-natural-fear-of-death/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

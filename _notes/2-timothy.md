@@ -2,6 +2,7 @@
 layout: note
 title: "2 Timothy"
 permalink: /notes/2-timothy/
+section: "bible"
 backlinks:
   - title: "2 Tm-01"
     url: /notes/2-tm-01/

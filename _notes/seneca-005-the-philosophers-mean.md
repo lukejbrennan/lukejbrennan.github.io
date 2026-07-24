@@ -2,6 +2,7 @@
 layout: note
 title: "Seneca 005 - The Philosopher\u2019s Mean"
 permalink: /notes/seneca-005-the-philosophers-mean/
+section: "stoic-library"
 backlinks:
   - title: "Moral Letters"
     url: /notes/moral-letters/

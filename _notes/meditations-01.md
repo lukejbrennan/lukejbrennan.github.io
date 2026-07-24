@@ -2,6 +2,7 @@
 layout: note
 title: "Meditations 01"
 permalink: /notes/meditations-01/
+section: "stoic-library"
 backlinks:
   - title: "Meditations"
     url: /notes/meditations/

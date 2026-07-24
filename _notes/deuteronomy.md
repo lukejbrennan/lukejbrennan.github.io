@@ -2,6 +2,7 @@
 layout: note
 title: "Deuteronomy"
 permalink: /notes/deuteronomy/
+section: "bible"
 backlinks:
   - title: "Dt-01"
     url: /notes/dt-01/

@@ -2,6 +2,7 @@
 layout: note
 title: "Malachi"
 permalink: /notes/malachi/
+section: "bible"
 backlinks:
   - title: "Mal-01"
     url: /notes/mal-01/
