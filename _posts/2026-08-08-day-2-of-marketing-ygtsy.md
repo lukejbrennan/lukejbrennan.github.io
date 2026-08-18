@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 2"
+title: "Day 2: trying again with rollarblades, (just do it), vulpes vulpes, one thing better"
 categories: [30 Days of Marketing You're Going to Shit Yourself]
 ---
 After a very (very) depressing first day, I think I was able to get something to work. 
@@ -38,3 +38,5 @@ I don't know what the worst case scenario would have been. I think trashing it w
 One thing that I'm going to try to do here is just improve a little bit every day. I think this is on the right track if I get progresively goofier. Right after giving this book to this guy I wished I was wearing some, like, matrix sunglasses or something. Or maybe just swim goggles. Like black swim goggles. 
 
 Also?! I wish I'd written a little note in his book. Certainly this person has a way of getting in contact with me (I put my name on the book, this website, etc etc). But yeah! I think it'd be so fun if someone reached back out - I'm just wondering like... what they're experience of this is haha. So random and weird - but ultimately, I'm hoping it makes them laugh just a little bit. 
+
+On to the next one. 
