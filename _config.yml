@@ -38,7 +38,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jemoji
-  - jekyll-picture-tag
 
 # header_pages:
 #   - index.markdown # home page, just blogs

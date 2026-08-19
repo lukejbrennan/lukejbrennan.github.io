@@ -5,7 +5,7 @@ categories: [30 Days of Marketing You're Going to Shit Yourself]
 ---
 After a very (very) depressing first day, I think I was able to get something to work. 
 
-[Day One]({% post_url 2026-08-11-day-1-of-marketing-ygtsy %}) if you weren't there I went out with a bag of books and I was like: "Hopefully I'll be able to give all these out." 
+[Day One]({% post_url 2026-08-07-day-1-of-marketing-ygtsy %}) if you weren't there I went out with a bag of books and I was like: "Hopefully I'll be able to give all these out." 
 
 "Hopefully people will say *I would love to pay some money for that book that you have in your hand.*" 
 
