@@ -2,8 +2,8 @@
 layout: post
 title: "II-I-II Newsletter - Pema Chodron's stance on physical therapy, world cup nostalgia, coffee on the wild mile, and whimsical ways to stay on your grind"
 date: 2026-09-16
-categories: ["[The II-II-I Newsletter]"]
-vault_source: "zzdrafts/202608 Newsletter.md"
+categories: "The II-II-I Newsletter"
+vault_source: "Categorized/202608 Newsletter.md"
 ---
 
 September 16, 2026
@@ -26,31 +26,19 @@ He had this guy on his back hip who was really close and kept lunging to tackle 
 The defender kept getting more and more unbalanced and eventually fell over. Idk why that was incredible to me, or why the image stuck so hard, but it did, and now I want to apply that to everything. If you've got some lumbering 18 yr old of a thought or feeling or stressor trying to tackle you... first of all, sorry to hear that. But also don't slow down, don't stop sprinting!!!! Give it a little whimsical: "nah" and keep going. 
 
 
-<br>
-
 ---
-
-<br>
-
 
 II.
 
 What a delight that Noah Kahan released The Great Divide so we could listen... at the end of august. A summer treat! Also, do we think he's just doing all the seasons. Is stick season winter or fall... Is spring next. 
 
-<br>
-
 ---
-
-<br>
 
 III.
 
 I tried to make coffee out in the wild. On the wild mile, which, in all of august is covered by the most beautiful flowers, it's amazing. There's literally, like... a million of them. It's magical. But yeah... the process of actually making coffee was less magical. 
-<br>
 
 ---
-
-<br>
 
 ### 1 List of Things 
 
@@ -58,33 +46,22 @@ I tried to make coffee out in the wild. On the wild mile, which, in all of augus
 - [going to bed at... different ages](https://www.instagram.com/reels/DaD8mvQhGUQ/) - just good clean fun here
 - [Bring back ranch](https://www.instagram.com/reels/DaBJnnARolS/). If you don't know now you know. Again. I love the world cup. 
 
-<br>
-
 ---
-
-<br>
-
 
 ### 2 Things I heard and thought were interesting
 
-I. "I'm a big fan of PT"
-- Pema Chodron [This Is Why I Find Pema Chödrön So Essential](https://www.nytimes.com/2026/05/15/opinion/ezra-klein-podcast-pema-chodron.html)
+I.
 
-<br>
+"I'm a big fan of PT"
+- Pema Chodron This Is Why I Find Pema Chödrön So Essential
 
 ---
-
-<br>
 
 II.
 "That's not an option."
 - This random Panera Employee giving real Jason Bourne vibes about the you pick 2
 
-<br>
-
 ---
-
-<br>
 
 III. 
 "What's a 'You Pick Two?'"
