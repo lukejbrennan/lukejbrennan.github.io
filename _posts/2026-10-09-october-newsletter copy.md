@@ -67,13 +67,7 @@ It’s hard to be a lizard, but it’s harder to segue.”
 - **obsidian / zettlekasten / etc -** I’m continuing to build little tools / utilities off of my obsidian vault / zettlekasten. The last one that I added is a command line tool that will look at my journal (which includes attributes like… sleep score (from my oura ring), hours worked, how many drinks I had in a day, etc) and give me different graphs / views into those stats.
     
 
-[
-
-![](https://substackcdn.com/image/fetch/$s_!DMRi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F987ebb86-0661-4d81-944e-8579fafbaae2_1086x1226.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!DMRi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F987ebb86-0661-4d81-944e-8579fafbaae2_1086x1226.png)
+[![](https://substackcdn.com/image/fetch/$s_!DMRi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F987ebb86-0661-4d81-944e-8579fafbaae2_1086x1226.png)](https://substackcdn.com/image/fetch/$s_!DMRi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F987ebb86-0661-4d81-944e-8579fafbaae2_1086x1226.png)
 
 Definitely want to make some edits, but it’s been fun to play around with so far!
 

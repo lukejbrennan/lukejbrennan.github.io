@@ -271,6 +271,9 @@ img {
 
 .zg-layout > .page-content {
   min-width: 0;
+  // Long unbroken strings (pasted URLs) wrap instead of widening the page,
+  // which on phones caused sideways scrolling.
+  overflow-wrap: anywhere;
   padding: 2rem 2.25rem 5rem;
 }
 
