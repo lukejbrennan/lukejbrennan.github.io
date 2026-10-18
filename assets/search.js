@@ -117,7 +117,12 @@
     renderPreview(q);
   }
 
-  trigger.addEventListener("click", open);
+  // Any [data-zg-search] button opens it too (e.g. the mobile header's
+  // magnifying glass, since the sidebar trigger is hidden on small screens).
+  if (trigger) trigger.addEventListener("click", open);
+  document.querySelectorAll("[data-zg-search]").forEach(function (b) {
+    b.addEventListener("click", open);
+  });
   document.addEventListener("keydown", function (e) {
     if (e.key === "/" && !isOpen() && !e.target.closest("input, textarea")) {
       e.preventDefault();

@@ -359,6 +359,38 @@ body.dark-mode .zg-wordmark .zg-fill { background: #A3285F; }
    lightbox (9999). */
 .site-header { position: relative; z-index: 50; }
 
+/* Magnifying glass in the mobile header, opening the search modal. Floats
+   just left of the inline nav; on phones (Minima's 600px "palm" breakpoint)
+   the nav becomes an absolutely-positioned hamburger, so the glass is pinned
+   beside it instead. */
+.zg-mobile-search {
+  float: right;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  margin: 9px 12px 0 0;
+  padding: 0;
+  background: none;
+  border: 1px solid var(--zg-line);
+  border-radius: 5px;
+  color: var(--zg-ink);
+  cursor: pointer;
+  &:hover { color: var(--zg-pink); }
+}
+@media (max-width: 600px) {
+  .zg-mobile-search {
+    float: none;
+    position: absolute;
+    top: 9px;
+    right: calc(15px + 38px + 8px);
+    margin: 0;
+  }
+  // The opened menu grows leftward over the glass; keep the menu on top.
+  .site-header .site-nav { z-index: 2; }
+}
+
 /* Minima gives .site-nav a white background on small screens; keep it
    legible against the paper tokens instead. */
 .site-header .site-nav {
