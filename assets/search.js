@@ -44,9 +44,25 @@
     return pre + "<mark>" + mid + "</mark>" + post;
   }
 
+  // On phones the on-screen keyboard covers the bottom of the page without
+  // shrinking the fixed overlay, so pin the overlay to the visible area
+  // (window.visualViewport) while it's open; the modal's max-height follows.
+  var vv = window.visualViewport;
+  function fitToViewport() {
+    if (!vv || !isOpen()) return;
+    overlay.style.top = vv.offsetTop + "px";
+    overlay.style.height = vv.height + "px";
+    overlay.style.bottom = "auto";
+  }
+  if (vv) {
+    vv.addEventListener("resize", fitToViewport);
+    vv.addEventListener("scroll", fitToViewport);
+  }
+
   function open() {
     overlay.classList.add("zg-open");
     document.body.style.overflow = "hidden";
+    fitToViewport();
     loadIndex();
     input.focus();
     input.select();
@@ -54,6 +70,7 @@
 
   function close() {
     overlay.classList.remove("zg-open");
+    overlay.style.top = overlay.style.height = overlay.style.bottom = "";
     document.body.style.overflow = "";
     input.blur(); // otherwise the "/" shortcut sees focus still in the (hidden) input and no-ops
   }
@@ -133,6 +150,8 @@
   overlay.addEventListener("click", function (e) {
     if (e.target === overlay) close();
   });
+  var closeBtn = document.getElementById("zgSearchClose");
+  if (closeBtn) closeBtn.addEventListener("click", close);
 
   input.addEventListener("input", function () {
     loadIndex().then(function () { render(input.value.trim()); });

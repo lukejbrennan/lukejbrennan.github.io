@@ -447,6 +447,7 @@ body.dark-mode .zg-wordmark .zg-fill { background: #A3285F; }
   display: none;
   position: fixed;
   inset: 0;
+  box-sizing: border-box; // so the padding fits inside the height search.js sets
   z-index: 100;
   background: rgba(10, 8, 6, 0.6);
   padding: 8vh 1.25rem 1.25rem;
@@ -456,7 +457,9 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
 
 .zg-search-modal {
   width: min(880px, 100%);
-  max-height: 76vh;
+  // 100% = the overlay's height, which search.js shrinks to the space above
+  // the on-screen keyboard on phones.
+  max-height: min(76vh, 100%);
   display: flex;
   flex-direction: column;
   background: var(--zg-surface);
@@ -489,6 +492,15 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
   border: 1px solid var(--zg-line);
   border-radius: 3px;
   padding: 0.1rem 0.4rem;
+}
+// The esc hint doubles as a close button (phones have no esc key).
+.zg-search-close {
+  background: none;
+  border: 0;
+  padding: 0.3rem;
+  margin: -0.3rem;
+  cursor: pointer;
+  &:hover kbd { color: var(--zg-ink); border-color: var(--zg-ink); }
 }
 
 .zg-search-modal-body {
@@ -577,6 +589,7 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
 }
 
 @media (max-width: 700px) {
+  .zg-search-overlay { padding: 0.75rem; }
   .zg-search-modal-body { flex-direction: column; }
   .zg-search-modal-list { flex: 0 0 auto; max-width: 100%; max-height: 40%; border-right: none; border-bottom: 1.5px solid var(--zg-ink); }
 }
