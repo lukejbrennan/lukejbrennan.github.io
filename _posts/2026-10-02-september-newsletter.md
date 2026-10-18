@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "September Newsletter"
-date: 2026-10-02 06:04:12
+date: 2026-10-02 05:04:12
+categories: [The II-II-I Newsletter]
 vault_source: "zzFleeting Notes/September Newsletter.md"
 ---
 

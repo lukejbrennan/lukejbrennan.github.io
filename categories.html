@@ -1,11 +1,22 @@
 ---
-title: All Posts
+title: Blog
 layout: post
 permalink: /categories/
 ---
 
-{% for category in site.categories %} 
-  {% assign category_name = category | first%}
+<p>Looking for my published pieces elsewhere? See <a href="{{ '/writing/' | relative_url }}">Writing</a>.</p>
+
+{%- comment -%}
+  Order categories by their newest post, so ones I haven't written in for a
+  while sink to the bottom. Builds "YYYYMMDDHHMMSS|name" keys (each
+  category's posts are already newest-first), sorts them, then reverses.
+{%- endcomment -%}
+{%- capture category_keys -%}{% for category in site.categories %}{{ category.last.first.date | date: "%Y%m%d%H%M%S" }}|{{ category.first }}{% unless forloop.last %}^^{% endunless %}{% endfor %}{%- endcapture -%}
+{% assign sorted_keys = category_keys | split: "^^" | sort | reverse %}
+
+{% for key in sorted_keys %}
+  {% assign category_name = key | split: "|" | last %}
+  {% assign category = site.categories[category_name] %}
   {% assign category_slug = category_name | slugify %}
   <h3>
     <a href="{{ '/category/' | append: category_slug | append: '/' | relative_url }}">
@@ -13,7 +24,7 @@ permalink: /categories/
   </a>
   </h3>
   <ul>
-    {% for post in category.last limit:5 %}
+    {% for post in category limit:5 %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date |
       date: "%B %d, %Y" }})

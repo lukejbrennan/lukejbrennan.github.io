@@ -59,14 +59,12 @@ body.dark-mode {
 // Page background follows the Zine Garden paper token everywhere.
 body {
   background: var(--zg-paper);
-  background-image: radial-gradient(var(--zg-line) 0.6px, transparent 0.6px);
-  background-size: 14px 14px;
   color: var(--zg-ink);
 }
 a { color: var(--zg-blue); }
 body.dark-mode a { color: var(--zg-blue); }
 
-#darkModeToggle {
+.dark-mode-toggle {
   background: transparent;
   border: none;
   font-size: 1rem;
@@ -247,27 +245,29 @@ img {
   }
 }
 
-// ---------- Zine Garden: three-column shell ----------
+// ---------- Zine Garden: shell ----------
 .zg-mono {
   font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 }
 
-.zg-layout {
-  display: grid;
-  grid-template-columns: 226px minmax(0, 1fr) 264px;
-  align-items: start;
-}
+// Single column: the masthead/nav (still .zg-rail-left in the markup) is a
+// horizontal bar across the top, and the post below centers in Minima's
+// .wrapper. It scrolls away with the page so the post has the reader's
+// full attention.
+.zg-layout { display: block; }
 
-.zg-rail-left, .zg-rail-right {
+// Name on the left, nav centered, search on the far right. Equal 1fr side
+// columns keep the nav centered on the page regardless of how wide the
+// name and search box are.
+.zg-rail-left {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 1.6rem;
   background: var(--zg-surface);
-  padding: 1.6rem 1.15rem;
-  position: sticky;
-  top: 0;
-  max-height: 100vh;
-  overflow-y: auto;
+  border-bottom: 1.5px solid var(--zg-ink);
+  padding: 0.9rem 2.25rem;
 }
-.zg-rail-left { border-right: 1.5px solid var(--zg-ink); }
-.zg-rail-right { border-left: 1.5px solid var(--zg-ink); }
 
 .zg-layout > .page-content {
   min-width: 0;
@@ -275,20 +275,19 @@ img {
 }
 
 @media (max-width: 980px) {
-  .zg-layout { grid-template-columns: minmax(0, 1fr); }
-  .zg-rail-left, .zg-rail-right { display: none; }
+  .zg-rail-left { display: none; }
   .zg-layout > .page-content { padding: 1.75rem 1.25rem 4rem; }
 }
 
-// Above the breakpoint, the rail-left masthead/nav replaces the mobile
-// top bar entirely; below it, the top bar (with its hamburger nav) is the
-// only way to navigate, since both rails hide.
+// Above the breakpoint, the zine header bar replaces Minima's top bar
+// entirely; below it, Minima's bar (with its hamburger nav) is the only way
+// to navigate, since the zine bar hides.
 @media (min-width: 981px) {
   .site-header { display: none; }
 }
 
-// ---------- masthead + primary nav (rail-left) ----------
-.zg-masthead { margin-bottom: 1.3rem; }
+// ---------- masthead + primary nav (header bar) ----------
+.zg-masthead { margin: 0; }
 .zg-issue-tag {
   @extend .zg-mono;
   font-size: 0.66rem;
@@ -305,7 +304,7 @@ img {
   letter-spacing: -0.02em;
   text-transform: uppercase;
   line-height: 1.05;
-  margin: 0 0 0.4rem;
+  margin: 0;
   text-decoration: none;
 }
 .zg-wordmark .zg-fill {
@@ -316,7 +315,11 @@ img {
   transform: skew(-8deg);
   z-index: 0;
 }
-.zg-wordmark span { position: relative; z-index: 1; color: var(--zg-pink-ink); }
+.zg-wordmark span { position: relative; z-index: 1; color: #14040B; }
+// Dark letters half-over the dark page are hard to read, so in dark mode
+// the letters go light and the highlighter goes a deeper pink behind them.
+body.dark-mode .zg-wordmark span { color: var(--zg-ink); }
+body.dark-mode .zg-wordmark .zg-fill { background: #A3285F; }
 .zg-site-tag {
   font-size: 0.78rem;
   color: var(--zg-ink-soft);
@@ -325,11 +328,13 @@ img {
 
 .zg-nav {
   display: flex;
-  flex-direction: column;
-  gap: 0.05rem;
-  margin: 0 0 1.3rem;
-  padding-bottom: 1.2rem;
-  border-bottom: 1.5px dashed var(--zg-line);
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0 1.1rem;
+  margin: 0;
+  grid-column: 2;
+  grid-row: 1;
   list-style: none;
   padding-left: 0;
 }
@@ -343,6 +348,7 @@ img {
   padding: 0.28rem 0;
   text-decoration: none;
 }
+.zg-nav .dark-mode-toggle { margin-left: 0; padding: 0.28rem 0; }
 .zg-nav li:nth-child(odd) a:hover { color: var(--zg-pink); }
 .zg-nav li:nth-child(even) a:hover { color: var(--zg-blue); }
 .zg-nav a.zg-current { color: var(--zg-ink); }
@@ -361,17 +367,21 @@ img {
 }
 .site-header .site-nav a:hover { color: var(--zg-pink); }
 
-// ---------- search trigger (sidebar) ----------
+// ---------- search trigger (header bar) ----------
 .zg-search {
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  width: 100%;
+  width: 190px;
+  max-width: 100%;
+  grid-column: 3;
+  grid-row: 1;
+  justify-self: end;
   background: var(--zg-surface-2);
   border: 1.5px dashed var(--zg-ink);
   border-radius: 3px;
   padding: 0.4rem 0.55rem;
-  margin: 1.2rem 0;
+  margin: 0;
   font: inherit;
   color: var(--zg-ink-faint);
   cursor: pointer;
@@ -529,42 +539,6 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
 @media (max-width: 700px) {
   .zg-search-modal-body { flex-direction: column; }
   .zg-search-modal-list { flex: 0 0 auto; max-width: 100%; max-height: 40%; border-right: none; border-bottom: 1.5px solid var(--zg-ink); }
-}
-
-// ---------- explorer tree ----------
-.zg-explorer-label {
-  @extend .zg-mono;
-  font-size: 0.66rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--zg-ink-faint);
-  margin: 0 0 0.6rem;
-}
-.zg-tree, .zg-tree ul { list-style: none; margin: 0; padding: 0; }
-.zg-tree ul { padding-left: 1rem; }
-.zg-tree li { margin: 0.15rem 0; }
-.zg-tree summary {
-  cursor: pointer;
-  font-size: 0.82rem;
-  color: var(--zg-ink-soft);
-  list-style: none;
-  &::-webkit-details-marker { display: none; }
-  &::before { content: "▸ "; color: var(--zg-pink); font-size: 0.7em; }
-  &:hover { color: var(--zg-ink); }
-}
-.zg-tree details[open] > summary::before { content: "▾ "; color: var(--zg-blue); }
-.zg-tree .zg-leaf {
-  display: block;
-  font-size: 0.82rem;
-  color: var(--zg-ink-soft);
-  padding: 0.05rem 0;
-  text-decoration: none;
-  &:hover { color: var(--zg-pink); }
-}
-.zg-tree .zg-count {
-  @extend .zg-mono;
-  color: var(--zg-ink-faint);
-  font-size: 0.7rem;
 }
 
 // ---------- home post list: "clip" cards ----------

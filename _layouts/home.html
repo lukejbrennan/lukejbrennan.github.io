@@ -21,7 +21,7 @@ layout: base
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <p class="zg-section-label">// Latest clippings</p>
+    <p class="zg-section-label">// Latest</p>
     <ul class="zg-stack">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
