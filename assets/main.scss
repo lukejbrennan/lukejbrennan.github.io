@@ -354,8 +354,13 @@ body.dark-mode .zg-wordmark .zg-fill { background: #A3285F; }
 .zg-nav a.zg-current { color: var(--zg-ink); }
 .zg-nav a.zg-current::before { content: "» "; color: var(--zg-pink); }
 
-/* Mobile nav dropdown: Minima gives .site-nav a white background on small
-   screens; keep it legible against the paper tokens instead. */
+/* Mobile nav dropdown: lift the header above page content (which otherwise
+   paints over the open menu) but below the search overlay (100) and
+   lightbox (9999). */
+.site-header { position: relative; z-index: 50; }
+
+/* Minima gives .site-nav a white background on small screens; keep it
+   legible against the paper tokens instead. */
 .site-header .site-nav {
   background-color: var(--zg-surface);
   border-color: var(--zg-line);
