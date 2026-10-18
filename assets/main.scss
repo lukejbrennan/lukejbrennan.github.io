@@ -590,8 +590,9 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
 
 @media (max-width: 700px) {
   .zg-search-overlay { padding: 0.75rem; }
-  .zg-search-modal-body { flex-direction: column; }
-  .zg-search-modal-list { flex: 0 0 auto; max-width: 100%; max-height: 40%; border-right: none; border-bottom: 1.5px solid var(--zg-ink); }
+  // Phones: just the list of matching posts (each a link), no preview pane.
+  .zg-search-modal-list { flex: 1 1 auto; max-width: 100%; border-right: none; }
+  .zg-search-modal-preview { display: none; }
 }
 
 // ---------- home post list: "clip" cards ----------
@@ -624,13 +625,16 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 0.75rem;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.75rem;
   margin-bottom: 0.5rem;
 }
 .zg-clip-date {
   @extend .zg-mono;
   font-size: 0.7rem;
   color: var(--zg-ink-faint);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 .zg-clip-tag {
   @extend .zg-mono;
@@ -641,7 +645,9 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
   border-radius: 2px;
   color: #fff;
   background: var(--zg-pink);
-  white-space: nowrap;
+  // Long category names wrap inside the tag rather than overflowing the card.
+  min-width: 0;
+  overflow-wrap: break-word;
   .zg-even & { background: var(--zg-blue); }
   &.zg-untagged {
     background: transparent;
