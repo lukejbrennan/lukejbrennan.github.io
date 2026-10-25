@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Why working hard is overrated, there's an ocean in chicago, meal prep heroes, bonbons and the ohio turnpike"
-date: 2026-10-08 09:52:15
-category: [The II-II-I Newsletter]
-vault_source: "zeditting/Newsletter 037.md"
+date: 2026-10-08 10:52:15
+categories: ["[[Posts]]"]
+vault_source: "newsletters/Why working hard is overrated, there's an ocean in chicago, meal prep heroes, bonbons and the ohio turnpike.md"
 ---
 
-# Why working hard is overrated, there's an ocean in chicago, meal prep heroes, bonbons and the ohio turnpike
-
+### Why working hard is overrated, there's an ocean in chicago, meal prep heroes, bonbons and the ohio turnpike
 ### II-I-II Newsletter
 
 Happy II-I-II Newsletter

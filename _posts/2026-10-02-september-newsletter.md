@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "September Newsletter"
-date: 2026-10-02 05:04:12
-categories: [The II-II-I Newsletter]
-vault_source: "zzFleeting Notes/September Newsletter.md"
+date: 2026-10-02 06:04:12
+categories: ["The II-II-I Newsletter"]
+vault_source: "Categorized/September Newsletter.md"
 ---
 
 I think sometime in July, Claude came out with a model called Fable 5 and gave everyone limited credits it. Also - I feel like AI is a pretty… idk divisive topic, and I’m conflicted about it for sure. Just want to put that out there. I’m also conflicted about whether or not picking up trash helps the environment, too. Aren’t we just organizing it…? Moving it around?? Shouldn’t we try to make less of it? Shouldn’t we stop making pens??? Don’t we have enough pens???
