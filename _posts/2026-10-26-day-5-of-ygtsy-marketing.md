@@ -2,13 +2,13 @@
 layout: post
 title: "Day 5 of YGTSY Marketing"
 date: 2026-10-26
-vault_source: "zeditting/Day 5 of YGTSY Marketing.md"
+categories: [30 Days of Marketing You're Going to Shit Yourself]
+vault_source: "Categorized/Day 5 of YGTSY Marketing.md"
 ---
 
 Day 5. Lemonade stand. Electric.
 
-Yeahhhhh I went to a lemonade stand for Day 5. That's how freaking ~IN~summer I am. 
-It's the height of summer baby, and I'm going to a lemonade stand.
+Yeahhhhh I went to a lemonade stand for Day 5. That's how freaking ~IN~summer I am. It's the height of summer baby, and I'm going to a lemonade stand.
 
 Catch me living up fall when I’m sipping a coffee at colectivo, crying, reading *Tomorrow, Tomorrow, Tomorrow*, with a latte, by the fire, with leaves literally FALLING around me, like in Aragorn's memory in Lord of the Rings. That’ll be me in fall. 
 

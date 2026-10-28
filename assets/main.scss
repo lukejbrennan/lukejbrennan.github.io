@@ -729,3 +729,34 @@ body.dark-mode .zg-search-overlay { background: rgba(0, 0, 0, 0.72); }
   margin: 0.4rem 0 0;
 }
 
+
+// ---------- bible chapters: verse numbers in the margin ----------
+// Each verse is `###### v2` + a paragraph; kramdown gives the h6 id="v2", so
+// /notes/jn-02/#v2 jumps to the verse. Float the h6 into the left gutter
+// (negative margin wider than its width, so it takes no room) and the verse
+// text sits flush beside it, like a print Bible.
+.note-bible .post-content {
+  h6 {
+    float: left;
+    clear: left;
+    width: 2.4rem;
+    margin: 0 0 0 -3rem;
+    padding-top: 0.1rem;
+    text-align: right;
+    font-size: 0.7rem;
+    font-weight: 500;
+    line-height: 1.5rem; // one body line, so the number sits on the verse's first line
+    font-variant-numeric: tabular-nums;
+    color: var(--zg-ink-faint);
+    scroll-margin-top: 1.5rem;
+  }
+  h6 + p { margin-bottom: 0.6rem; }
+
+  // the verse a #v2 link lands on
+  h6:target { color: var(--zg-pink); font-weight: 700; }
+  h6:target + p { background: var(--zg-surface); box-shadow: 0 0 0 0.3rem var(--zg-surface); }
+}
+// the page gutter is narrow on phones; make room for the numbers
+@media (max-width: 980px) {
+  .note-bible .post-content { padding-left: 1.75rem; }
+}
