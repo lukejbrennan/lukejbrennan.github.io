@@ -6,3 +6,4 @@ vendor
 _drafts
 /scripts
 Gemfile.lock
+.DS_Store
