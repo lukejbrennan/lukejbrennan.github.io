@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regulare, Eagle Eye, Look When Baby Looks, It’s a Mindset Thing, and Many Pictures of a Single Tree"
+title: "November Update"
 date: 2026-10-27 12:33:32
 category: [The II-II-I Newsletter]
 ---
