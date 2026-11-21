@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19",
+ "generated": "2026-11-20",
  "tag": "published",
  "nodes": [
   {
@@ -4930,7 +4930,7 @@
   {
    "id": "Magnifica Humanitas 1",
    "url": "/notes/magnifica-humanitas-1/",
-   "wc": 159
+   "wc": 161
   },
   {
    "id": "Magnifica Humanitas 1 (summary)",
@@ -16904,6 +16904,10 @@
   {
    "source": 851,
    "target": 924
+  },
+  {
+   "source": 851,
+   "target": 985
   },
   {
    "source": 852,

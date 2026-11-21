@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "art and figuring things out, why am i not having cotton candy coffee, whistle-pro, and a CTA from the guy who wrote I wrote Mr. Tambourine Man"
-date: 2026-10-27 12:33:32
+date: 2026-11-17 12:33:32
 category: [The II-II-I Newsletter]
 ---
 

@@ -10,6 +10,8 @@ backlinks:
     url: /notes/jgs-10/
   - title: "Judges"
     url: /notes/judges/
+  - title: "Magnifica Humanitas 1"
+    url: /notes/magnifica-humanitas-1/
 ---
 
 # Judges 9 (DRA)

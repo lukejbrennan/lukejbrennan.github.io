@@ -2,7 +2,7 @@
 layout: post
 title: "November Update"
 date: 2026-10-27 12:33:32
-category: [The II-II-I Newsletter]
+category: [Monthly Review]
 ---
 
 We went to Croatia last month, and because I thought it would be funny, I spent the whole flight watching TED Talks. Okay not the whole flight (how psycho would that have been), but I did make it through like... 5-6. Just for the bit. Which no one thought was funny but me. But that's worth it, right?  
