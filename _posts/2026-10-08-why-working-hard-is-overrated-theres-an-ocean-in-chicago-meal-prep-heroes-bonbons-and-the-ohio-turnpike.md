@@ -7,9 +7,9 @@ vault_source: "Categorized/Why working hard is overrated, there's an ocean in ch
 ---
 
 ### Why working hard is overrated, there's an ocean in chicago, meal prep heroes, bonbons and the ohio turnpike
-### II-I-II Newsletter
+### III-I-II Newsletter
 
-Happy II-I-II Newsletter
+Happy III-I-II Newsletter
 
 Here are III things, I thing, and II other things for this week…
 

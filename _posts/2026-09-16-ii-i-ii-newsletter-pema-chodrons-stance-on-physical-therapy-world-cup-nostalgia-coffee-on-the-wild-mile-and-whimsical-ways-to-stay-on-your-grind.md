@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "II-I-II Newsletter - Pema Chodron's stance on physical therapy, world cup nostalgia, coffee on the wild mile, and whimsical ways to stay on your grind"
+title: "III-I-II Newsletter - Pema Chodron's stance on physical therapy, world cup nostalgia, coffee on the wild mile, and whimsical ways to stay on your grind"
 date: 2026-09-16
-categories: ["The II-II-I Newsletter"]
+categories: [The III-I-II Newsletter]
 vault_source: "Categorized/202608 Newsletter.md"
 ---
 
 September 16, 2026
 
-Happy II-I-II Newsletter ~~Tuesday~~ Wednesday
+Happy III-I-II Newsletter ~~Tuesday~~ Wednesday
 
 Here are III things, I thing, and II other things for this week…
 

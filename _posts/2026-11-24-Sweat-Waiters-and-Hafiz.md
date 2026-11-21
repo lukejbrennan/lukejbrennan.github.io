@@ -2,10 +2,10 @@
 layout: post
 title: "Sweat, Waiters, and Hafiz"
 date: 2026-11-24 12:33:32
-category: [The II-II-I Newsletter]
+category: [The III-I-II Newsletter]
 ---
 
-Happy II-I-II Newsletter
+Happy III-I-II Newsletter
 
 Here are III things, I thing, and II other things for this week…
 

@@ -2,7 +2,7 @@
 layout: post
 title: "September Newsletter"
 date: 2026-10-02 06:04:12
-categories: ["The II-II-I Newsletter"]
+categories: [The III-I-II Newsletter]
 vault_source: "Categorized/September Newsletter.md"
 ---
 

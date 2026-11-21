@@ -18,8 +18,11 @@ The fact that the winter solstice is there in the middle of it is 👌👌👌 c
 
 I just got back from the dentist, which is a specific type of check-in -- let's get one for the teeth! -- but also, at least for the past 2 years or so, a sort of spiritual check-in
 
-> [reveal] say what
-> ![](/assets/images/vault/what.gif)
+{% capture reveal_1_md %}
+![](/assets/images/vault/what.gif)
+{% endcapture %}{% assign reveal_1 = reveal_1_md | markdownify %}
+
+{% include reveal-block.html label="say what" content=reveal_1 %}
 
 2 years ago, on the day that I was scheduled to see my dentist, I experienced the most zen-flow perfect energy day of all time. 
 
