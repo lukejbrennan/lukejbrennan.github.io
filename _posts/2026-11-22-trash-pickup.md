@@ -27,11 +27,10 @@ THIS FELT LIKE A BIG WIN:
 THE OTHER NICE THING IS THAT THERE WAS A BIG PLASTIC BAG OUT HERE: 
 
 {% capture reveal_2_md %}
-so much big bag
 ![](/assets/images/vault/img-9036.jpg)
 {% endcapture %}{% assign reveal_2 = reveal_2_md | markdownify %}
 
-{% include reveal-block.html label="" content=reveal_2 no_js=true %}
+{% include reveal-block.html label="so much big bag" content=reveal_2 no_js=true %}
 
 THEN THERE WAS A WHOLE BUNCH OF WHAT I WOULD CALL "NORMAL TRASH":
 
@@ -41,4 +40,4 @@ THEN THERE WAS A WHOLE BUNCH OF WHAT I WOULD CALL "NORMAL TRASH":
 ![](/assets/images/vault/pasted-image-20261030201943-4.jpg)
 {% endcapture %}{% assign reveal_3 = reveal_3_md | markdownify %}
 
-{% include reveal-block.html label="" content=reveal_3 no_js=true %}
+{% include reveal-block.html label="normal" content=reveal_3 no_js=true %}
