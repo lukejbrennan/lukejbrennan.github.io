@@ -18,11 +18,11 @@ HERE IS SOME OF THE TRASH:
 THIS FELT LIKE A BIG WIN: 
 
 {% capture reveal_1_md %}
-big win
+
 ![](/assets/images/vault/img-9037.jpg)
 {% endcapture %}{% assign reveal_1 = reveal_1_md | markdownify %}
 
-{% include reveal-block.html label="" content=reveal_1 %}
+{% include reveal-block.html label="big win" content=reveal_1 %}
 
 THE OTHER NICE THING IS THAT THERE WAS A BIG PLASTIC BAG OUT HERE: 
 
