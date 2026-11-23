@@ -3,7 +3,7 @@ layout: post
 title: "The Power of Cold Email, Reasons to Belong, Walking and Other Ways of Being HYPER Productive, and a Chuck Roast Recipe"
 date: 2026-12-29
 categories: ["The III-I-II Newsletter"]
-vault_source: "zeditting/2026-12-29 The Power of Cold Email, Reasons to Belong, Walking and Other Ways of Being HYPER Productive, and a Chuck Roast Recipe.md"
+vault_source: "Categorized/2026-12-29 The Power of Cold Email, Reasons to Belong, Walking and Other Ways of Being HYPER Productive, and a Chuck Roast Recipe.md"
 ---
 
 Here are III things, I thing, and II other things for this week…

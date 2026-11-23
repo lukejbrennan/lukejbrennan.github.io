@@ -3,7 +3,7 @@ layout: post
 title: "Silver Foxes, Quotas, Tricks for Transcendence?!, Hip Hop and Hozier"
 date: 2026-12-15
 categories: ["The III-I-II Newsletter"]
-vault_source: "zeditting/2026-12-15 Silver Foxes, Quotas, Tricks for Transcendence?!, Hip Hop and Hozier.md"
+vault_source: "Categorized/2026-12-15 Silver Foxes, Quotas, Tricks for Transcendence?!, Hip Hop and Hozier.md"
 ---
 
 Happy III-I-II Newsletter!

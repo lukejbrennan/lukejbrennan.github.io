@@ -3,7 +3,7 @@ layout: post
 title: "Losing Control on Purpose, A Tip for Being a Great Reader, Finding the Right Kind of Boredom, and The Pros of Getting All the Cons Everywhere All at Once"
 date: 2026-12-01
 categories: ["The III-I-II Newsletter"]
-vault_source: "zeditting/2026-12-01 Losing Control on Purpose, A Tip for Being a Great Reader, Finding the Right Kind of Boredom, and The Pros of Getting All the Cons Everywhere All at Once.md"
+vault_source: "Categorized/2026-12-01 Losing Control on Purpose, A Tip for Being a Great Reader, Finding the Right Kind of Boredom, and The Pros of Getting All the Cons Everywhere All at Once.md"
 ---
 
 Happy III-I-II Newsletter! This edition it's a IIIIII! Everything from other folks!

@@ -3,7 +3,7 @@ layout: post
 title: "December Update"
 date: 2026-12-08
 categories: ["The III-I-II Newsletter"]
-vault_source: "zeditting/2026-12-08 December Update.md"
+vault_source: "Categorized/2026-12-08 December Update.md"
 ---
 
 I'm a sucker for a good check-in. 
@@ -16,7 +16,7 @@ And we're coming up on check-in season, baby! Tis the season of yearly reviews, 
 
 The fact that the winter solstice is there in the middle of it is 👌👌👌 chef's kiss. 
 
-I just got back from the dentist, which is a specific type of check-in -- let's get one for the teeth! -- but also, at least for the past 2 years or so, a sort of spiritual check-in
+I just got back from the dentist, which is a specific type of check-in -- let's get one for the teeth! -- but also, at least for the past 2 years or so, a sort of spiritual check-in.
 
 {% capture reveal_1_md %}
 ![](/assets/images/vault/what.gif)
