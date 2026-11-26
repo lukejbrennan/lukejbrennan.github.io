@@ -17,9 +17,11 @@ permalink: /recipes/
 <li data-search="5 minute no-knead baguette"><a href="https://stephango.com/baguette">5 minute No-Knead Baguette</a></li>
 <li data-search="baked salmon with harissa and cherry tomatoes salmon"><a href="https://cooking.nytimes.com/recipes/1026695-baked-salmon-with-harissa-and-cherry-tomatoes">Baked Salmon With Harissa and Cherry Tomatoes</a> <span class="recipe-protein">salmon</span></li>
 <li data-search="best steak salad with creamy balsamic vinaigrette beef"><a href="https://www.theendlessmeal.com/best-steak-salad/">Best Steak Salad with Creamy Balsamic Vinaigrette</a> <span class="recipe-protein">beef</span></li>
+<li data-search="better than takeout cashew chicken"><a href="https://www.tiktok.com/@ryleeport/video/7579824367018822926?_r=1&amp;_t=ZP-9BPUfhXVaIg">Better Than Takeout Cashew Chicken</a></li>
 <li data-search="buttery gochujang tofu and broccoli tofu"><a href="https://cooking.nytimes.com/recipes/766421145-buttery-gochujang-tofu-and-broccoli">Buttery Gochujang Tofu and Broccoli</a> <span class="recipe-protein">tofu</span></li>
 <li data-search="caramelized shallot pasta anchovy"><a href="https://cooking.nytimes.com/recipes/1020830-caramelized-shallot-pasta">Caramelized Shallot Pasta</a> <span class="recipe-protein">anchovy</span></li>
 <li data-search="chicken and red lentil soup with lemony yogurt chicken lentils"><a href="https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt">Chicken and Red Lentil Soup With Lemony Yogurt</a> <span class="recipe-protein">chicken, lentils</span></li>
+<li data-search="coconut red curry shredded beef bowls beef"><a href="/recipes/coconut-red-curry-shredded-beef-bowls/">Coconut Red Curry Shredded Beef Bowls</a> <span class="recipe-protein">beef</span></li>
 <li data-search="crispy chicken with lime butter chicken"><a href="https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter">Crispy Chicken With Lime Butter</a> <span class="recipe-protein">chicken</span></li>
 <li data-search="crispy lemon chicken cutlets with salmoriglio sauce chicken"><a href="https://cooking.nytimes.com/recipes/1023865-crispy-lemon-chicken-cutlets-with-salmoriglio-sauce">Crispy Lemon Chicken Cutlets With Salmoriglio Sauce</a> <span class="recipe-protein">chicken</span></li>
 <li data-search="crispy tofu with cashews and blistered snap peas tofu"><a href="https://cooking.nytimes.com/recipes/1021200-crispy-tofu-with-cashews-and-blistered-snap-peas">Crispy Tofu With Cashews and Blistered Snap Peas</a> <span class="recipe-protein">tofu</span></li>
@@ -27,17 +29,17 @@ permalink: /recipes/
 <li data-search="easy pizza dough"><a href="https://cooking.nytimes.com/recipes/1017931-easy-pizza-dough">Easy Pizza Dough</a></li>
 <li data-search="extra-green pasta salad"><a href="https://cooking.nytimes.com/recipes/1025507-extra-green-pasta-salad">Extra-Green Pasta Salad</a></li>
 <li data-search="greek chicken orzo salad chicken"><a href="https://www.halfbakedharvest.com/greek-chicken-orzo-salad/">Greek Chicken Orzo Salad</a> <span class="recipe-protein">chicken</span></li>
-<li data-search="greek lemon chicken and potatoes chicken"><a href="https://www.instagram.com/reels/De-ZeM9POHt/">Greek Lemon Chicken and Potatoes</a> <span class="recipe-protein">chicken</span></li>
+<li data-search="greek lemon chicken and potatoes chicken"><a href="/recipes/greek-lemon-chicken-and-potatoes/">Greek Lemon Chicken and Potatoes</a> <span class="recipe-protein">chicken</span></li>
 <li data-search="herby creamy white beans with herb oil beans"><a href="https://cooking.nytimes.com/recipes/1019385-creamy-white-beans-with-herb-oil?unlocked_article_code=1.3lA.DpYL.6TCqzlBulnSx">Herby Creamy White Beans With Herb Oil</a> <span class="recipe-protein">beans</span></li>
 <li data-search="homemade pita bread"><a href="https://www.allrecipes.com/recipe/232719/chef-johns-pita-bread/">Homemade Pita Bread</a></li>
 <li data-search="huevos enfrijolados (eggs in spicy black beans) eggs beans"><a href="https://cooking.nytimes.com/recipes/1026663-huevos-enfrijolados-eggs-in-spicy-black-beans">Huevos Enfrijolados (Eggs in Spicy Black Beans)</a> <span class="recipe-protein">eggs, beans</span></li>
-<li data-search="kristin&#x27;s chocolate chip cookies">Kristin&#x27;s Chocolate Chip Cookies</li>
+<li data-search="kristin&#x27;s chocolate chip cookies"><a href="/recipes/kristins-chocolate-chip-cookies/">Kristin&#x27;s Chocolate Chip Cookies</a></li>
 <li data-search="kung pao tofu tofu"><a href="https://cooking.nytimes.com/recipes/1025397-kung-pao-tofu">Kung Pao Tofu</a> <span class="recipe-protein">tofu</span></li>
-<li data-search="leek potato soup">Leek Potato Soup</li>
+<li data-search="leek potato soup"><a href="https://www.instagram.com/reel/DfPzNXKADBe/?xtok=cjI0cnlheXI2enVi">Leek Potato Soup</a></li>
 <li data-search="lemony shrimp and bean stew shrimp beans"><a href="https://cooking.nytimes.com/recipes/1020828-lemony-shrimp-and-bean-stew">Lemony Shrimp and Bean Stew</a> <span class="recipe-protein">shrimp, beans</span></li>
 <li data-search="njahi (kenyan black beans) in coconut sauce beans"><a href="https://www.seriouseats.com/kenyan-njahi-in-coconut-sauce-5180229">Njahi (Kenyan Black Beans) in Coconut Sauce</a> <span class="recipe-protein">beans</span></li>
 <li data-search="one-pot pumpkin orzo with spicy sausage and kale sausage"><a href="https://jenneatsgoood.com/one-pot-pumpkin-orzo-with-sausage-and-kale/">One-Pot Pumpkin Orzo with Spicy Sausage and Kale</a> <span class="recipe-protein">sausage</span></li>
-<li data-search="pasta al ragu beef">Pasta Al Ragu <span class="recipe-protein">beef</span></li>
+<li data-search="pasta al ragu beef"><a href="/recipes/pasta-al-ragu/">Pasta Al Ragu</a> <span class="recipe-protein">beef</span></li>
 <li data-search="perfect salmon burgers salmon"><a href="https://www.foodnetwork.com/recipes/food-network-kitchen/perfect-salmon-burgers-recipe-2105786">Perfect Salmon Burgers</a> <span class="recipe-protein">salmon</span></li>
 <li data-search="pickle-brined fried chicken sandwich chicken"><a href="https://cooking.nytimes.com/recipes/1020385-pickle-brined-fried-chicken-sandwich">Pickle-Brined Fried Chicken Sandwich</a> <span class="recipe-protein">chicken</span></li>
 <li data-search="roasted butternut squash soup"><a href="https://cookieandkate.com/roasted-butternut-squash-soup/">Roasted Butternut Squash Soup</a></li>
@@ -46,7 +48,7 @@ permalink: /recipes/
 <li data-search="sticky honey glazed salmon with fresh peach salsa salmon"><a href="https://jenneatsgoood.substack.com/p/sticky-honey-glazed-salmon-with-fresh">Sticky Honey Glazed Salmon with Fresh Peach Salsa</a> <span class="recipe-protein">salmon</span></li>
 <li data-search="sticky miso salmon bowl salmon"><a href="https://cooking.nytimes.com/recipes/1025510-sticky-miso-salmon-bowl">Sticky Miso Salmon Bowl</a> <span class="recipe-protein">salmon</span></li>
 <li data-search="stop letting your avocados go bad &amp; make this guacamole, already"><a href="https://www.delish.com/cooking/recipe-ideas/a45570/best-ever-guacamole-recipe/">Stop Letting Your Avocados Go Bad &amp; Make This Guacamole, Already</a></li>
-<li data-search="sushi rice">Sushi Rice</li>
+<li data-search="sushi rice"><a href="/recipes/sushi-rice/">Sushi Rice</a></li>
 <li data-search="thai basil beef beef"><a href="https://www.tiktok.com/@calwillcookit/video/7695893610109226253">Thai Basil Beef</a> <span class="recipe-protein">beef</span></li>
 <li data-search="vegan tortellini soup lentils"><a href="https://frommybowl.com/vegan-tortellini-soup/">Vegan Tortellini Soup</a> <span class="recipe-protein">lentils</span></li>
 </ul>
